@@ -1,0 +1,68 @@
+
+[
+  {
+    "kode_soal": "FSPE4401-001",
+    "kategori": "FSPE4401",
+    "question": "Dalam pandangan Heymans, tuntutan kenikmatan, kegunaan, dan keindahan dapat dipenuhi ....",
+    "options": [
+      "hanya jika tidak bertentangan dengan norma etika",
+      "tanpa mempertimbangkan norma etika",
+      "sebagai prioritas utama dalam kehidupan manusia",
+      "mengabaikan kewajiban untuk berbuat baik"
+    ],
+    "answer": "hanya jika tidak bertentangan dengan norma etika",
+    "penjelasan": "Menurut kunci yang digunakan untuk contoh ini, tuntutan kenikmatan, kegunaan, dan keindahan dapat dipenuhi selama tidak bertentangan dengan norma etika."
+  },
+  {
+    "kode_soal": "FSPE4401-002",
+    "kategori": "FSPE4401",
+    "question": "Seorang pejabat publik yang bertindak sesuai dengan etika pemerintahan namun mengabaikan etika jabatan sebagai pegawai negeri berisiko ....",
+    "options": [
+      "dikenakan sanksi administratif ringan",
+      "menunjukkan ketidakpahaman terhadap kedudukan etika jabatan",
+      "mendapat pujian atas loyalitas kepada pemerintah",
+      "tetap dianggap melaksanakan tugas dengan baik"
+    ],
+    "answer": "menunjukkan ketidakpahaman terhadap kedudukan etika jabatan",
+    "penjelasan": "Menurut kunci yang digunakan untuk contoh ini, mengabaikan etika jabatan menunjukkan bahwa pejabat belum memahami kedudukan dan kewajiban etika yang melekat pada jabatannya."
+  },
+  {
+    "kode_soal": "FSPE4401-003",
+    "kategori": "FSPE4401",
+    "question": "Aliran kuat yang memandang bahwa hidup susila yang baik adalah kehidupan menurut hukum alam. Pernyataan tersebut merupakan etika ....",
+    "options": [
+      "formalistik",
+      "utilitas",
+      "idealistis",
+      "naturalistik"
+    ],
+    "answer": "naturalistik",
+    "penjelasan": "Menurut kunci yang digunakan untuk contoh ini, etika naturalistik mengaitkan kehidupan susila yang baik dengan kehidupan yang sesuai dengan hukum alam."
+  },
+  {
+    "kode_soal": "FSPE4401-004",
+    "kategori": "FSPE4401",
+    "question": "Hal yang harus dimiliki oleh organisasi untuk meningkatkan kemampuannya dalam menghadapi persaingan adalah ....\n1) pemahaman atau pengenalan yang tepat tentang berbagai instrumen yang dapat digunakan\n2) prediksi kondisi eksternal yang berada di luar jangkauan dan kemampuan organisasi untuk mengendalikannya\n3) perhitungan secara akurat berbagai faktor yang mempengaruhi pilihan akhir dari strategi yang dilaksanakan",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Menurut kunci yang digunakan untuk contoh ini, ketiga pernyataan dianggap benar karena pemahaman instrumen, prediksi kondisi eksternal, dan perhitungan faktor strategi membantu organisasi menghadapi persaingan."
+  },
+  {
+    "kode_soal": "FSPE4401-005",
+    "kategori": "FSPE4401",
+    "question": "Kebijakan yang bisa dilakukan untuk meningkatkan efisiensi kerja dan konsolidasi antara lain adalah ....\n1) melakukan reorganisasi\n2) membubarkan salah satu unit organisasi\n3) mengurangi berbagai kegiatan organisasi",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Menurut kunci yang digunakan untuk contoh ini, reorganisasi, pembubaran unit tertentu, dan pengurangan kegiatan dapat menjadi langkah efisiensi dan konsolidasi, bergantung pada kebutuhan organisasi."
+  }
+]
