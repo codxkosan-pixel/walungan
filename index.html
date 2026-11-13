@@ -1,0 +1,126 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Website latihan soal dan tryout online">
+  <title>Belajar Bersama</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <a href="index.html" class="brand">BELAJAR BERSAMA</a>
+  </header>
+
+  <main class="container">
+
+    <!-- HALAMAN AWAL -->
+    <section id="start-screen" class="panel">
+      <p class="eyebrow">SELAMAT DATANG</p>
+      
+
+      <div
+        id="course-list"
+        class="course-grid"
+        aria-label="Daftar mata kuliah">
+      </div>
+
+      <p id="course-info">Memuat daftar mata kuliah...</p>
+
+      <button id="start-button" class="primary-button" disabled>
+        Mulai Kuis
+      </button>
+    </section>
+
+    <!-- HALAMAN SOAL -->
+    <section id="quiz-screen" class="panel hidden">
+      <div class="quiz-top">
+        <div>
+          <p class="eyebrow" id="course-code"></p>
+          <h2 id="question-counter">Soal 1</h2>
+        </div>
+        <div class="score-chip" id="progress-label">0 dijawab</div>
+      </div>
+
+      <div class="progress-track">
+        <div id="progress-bar" class="progress-bar"></div>
+      </div>
+
+      <h3 id="question-text" class="question-text"></h3>
+
+      <div id="options-container" class="options-list"></div>
+
+      <section
+        id="feedback"
+        class="feedback hidden"
+        aria-live="polite">
+      </section>
+
+      <div class="navigation">
+        <button id="previous-button" class="secondary-button">
+          Soal Sebelumnya
+        </button>
+
+        <button id="next-button" class="primary-button">
+          Soal Berikutnya
+        </button>
+
+        <button id="end-quiz-button" class="secondary-button">
+          Akhiri Kuis
+        </button>
+      </div>
+    </section>
+
+  
+
+<!-- HALAMAN HASIL -->
+<section id="result-screen" class="panel hidden">
+  <p class="eyebrow">LATIHAN SELESAI</p>
+  <h1>Hasil Latihan</h1>
+
+  <div class="result-score">
+    <strong id="final-score">0</strong>
+    <span>Nilai akhir (poin)</span>
+  </div>
+
+  <div id="result-summary" class="result-summary"></div>
+
+  <div class="result-actions">
+    <button id="review-button" class="primary-button">
+      Review Latihan
+    </button>
+
+    <button id="home-button" class="secondary-button">
+      Kembali ke Halaman Awal
+    </button>
+  </div>
+</section>
+
+<!-- HALAMAN REVIEW -->
+<section id="review-screen" class="panel hidden">
+  <p class="eyebrow">TINJAU JAWABAN</p>
+  <h1>Review Latihan</h1>
+
+  <div id="review-container"></div>
+
+  <div class="result-actions">
+    <button id="home-button-review" class="secondary-button">
+      Kembali ke Halaman Awal
+    </button>
+  </div>
+</section>
+
+
+    <p id="error-message" class="error-message hidden"></p>
+
+  </main>
+
+  <footer class="site-footer">
+    Website latihan soal &middot; Belajar sesuai kecepatan Anda
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

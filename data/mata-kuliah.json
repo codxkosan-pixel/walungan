@@ -1,0 +1,28 @@
+
+[
+  {
+    "kode": "FSPE4401",
+    "nama": "Etika Pemerintahan",
+    "file": "FSPE4401.json"
+  },
+  {
+    "kode": "FSPE4402",
+    "nama": "Tata Kelola Aset Pemerintahan",
+    "file": "FSPE4402.json"
+  },
+  {
+    "kode": "FSPE4403",
+    "nama": "Manajemen Stratejik Pemerintahan",
+    "file": "FSPE4403.json"
+  },
+  {
+    "kode": "FSPE4404",
+    "nama": "Tata Kelola Keuangan Pemerintahan",
+    "file": "FSPE4404.json"
+  },
+  {
+    "kode": "FSPE4208",
+    "nama": "Strategi Pembangunan dan Perubahan Sosial",
+    "file": "FSPE4208.json"
+  }
+]
