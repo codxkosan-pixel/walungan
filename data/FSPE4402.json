@@ -1,22 +1,22 @@
 
 [
   {
-    "kode_soal": "FSPE4401-001",
-    "kategori": "FSPE4401",
-    "question": "Dalam pandangan Heymans, tuntutan kenikmatan, kegunaan, dan keindahan dapat dipenuhi ....",
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pernyataan berikut ini menyangkut peran konsep manajemen aset dalam rangka pemberdayaan ekonomi daerah yang tercantum dalam enam langkah manajemen aset daerah, kecuali ....",
     "options": [
-      "hanya jika tidak bertentangan dengan norma etika",
-      "tanpa mempertimbangkan norma etika",
-      "sebagai prioritas utama dalam kehidupan manusia",
-      "mengabaikan kewajiban untuk berbuat baik"
+      "pengembangan strategi pemasaran kota",
+      "identifikasi potensi ekonomi daerah",
+      "pemerataan kemampuan manajemen pengeloaan kota",
+      "optimalisasi pendapatan asli daerah"
     ],
-    "answer": "hanya jika tidak bertentangan dengan norma etika",
-    "penjelasan": "Menurut kunci yang digunakan untuk contoh ini, tuntutan kenikmatan, kegunaan, dan keindahan dapat dipenuhi selama tidak bertentangan dengan norma etika."
+    "answer": "pemerataan kemampuan manajemen pengeloaan kota",
+    "penjelasan": "Enam langkah strategis manajemen aset daerah dalam pemberdayaan ekonomi lokal berfokus pada identifikasi potensi ekonomi, penyusunan strategi pemasaran daerah/kota, serta optimalisasi Pendapatan Asli Daerah (PAD), bukan pemerataan kemampuan manajemen pengelolaan kota."
   },
   {
-    "kode_soal": "FSPE4401-004",
-    "kategori": "FSPE4401",
-    "question": "Hal yang harus dimiliki oleh organisasi untuk meningkatkan kemampuannya dalam menghadapi persaingan adalah ....\n1) pemahaman atau pengenalan yang tepat tentang berbagai instrumen yang dapat digunakan\n2) prediksi kondisi eksternal yang berada di luar jangkauan dan kemampuan organisasi untuk mengendalikannya\n3) perhitungan secara akurat berbagai faktor yang mempengaruhi pilihan akhir dari strategi yang dilaksanakan",
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Kinerja manajemen asset dapat diukur melalui biaya yang ditimbulkan, maksudnya adalah ....\n(1) tingkat pemenuhan atau kepuasan pelanggan\n(2) pengelolaan kekayaan secara optimal dipergunakan untuk melayani masyarakat\n(3) pemenuhan layanan yang berkualitas",
     "options": [
       "Jika pernyataan 1 dan 2 benar.",
       "Jika pernyataan 1 dan 3 benar.",
@@ -24,12 +24,25 @@
       "Jika pernyataan 1, 2, dan 3 benar."
     ],
     "answer": "Jika pernyataan 1, 2, dan 3 benar.",
-    "penjelasan": "Menurut kunci yang digunakan untuk contoh ini, ketiga pernyataan dianggap benar karena pemahaman instrumen, prediksi kondisi eksternal, dan perhitungan faktor strategi membantu organisasi menghadapi persaingan."
+    "penjelasan": "Dalam manajemen aset sektor publik, efisiensi biaya yang ditimbulkan diukur melalui manfaat dan nilai tambah layanan yang dihasilkan bagi publik, mencakup kepuasan masyarakat/pelanggan (1), optimalisasi kekayaan daerah untuk pelayanan publik (2), dan pemenuhan mutu layanan yang berkualitas (3)."
   },
   {
-    "kode_soal": "FSPE4401-005",
-    "kategori": "FSPE4401",
-    "question": "Kebijakan yang bisa dilakukan untuk meningkatkan efisiensi kerja dan konsolidasi antara lain adalah ....\n1) melakukan reorganisasi\n2) membubarkan salah satu unit organisasi\n3) mengurangi berbagai kegiatan organisasi",
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Komponen yang menjadi masukan dalam proses manajemen logistik organisasi publik yang benar adalah ....",
+    "options": [
+      "upaya organisasi dalam memenuhi kebutuhannya melalui perencanaan dan implementasi pengadaan barang",
+      "sumber daya umum (tanah, fasilitas, peralatan), Sumber daya Manusia, Sumber Daya Keuangan, Sumber Daya Informasi",
+      "pengelolaan, pengadaan dan penyimpanan barang yang berkelanjutan, aktivitas pengumpulan barang dari beberapa supplier",
+      "suatu proses yang dimulai perencanaan, implementasi, dan pengendalian dari seluruh proses kegiatan logistik yang dipergunakan untuk pelayanan kebutuhan masyarakat"
+    ],
+    "answer": "sumber daya umum (tanah, fasilitas, peralatan), Sumber daya Manusia, Sumber Daya Keuangan, Sumber Daya Informasi",
+    "penjelasan": "Dalam model sistem manajemen logistik, komponen masukan (input) merujuk pada sumber-sumber daya dasar yang diolah dalam proses logistik, yaitu sumber daya fisik/umum (tanah, fasilitas, peralatan), SDM, sumber daya keuangan, dan informasi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam manajemen supply chain terdapat aliran ....\n(1) physical material\n(2) uang cash dari pelanggan\n(3) informasi dan produk",
     "options": [
       "Jika pernyataan 1 dan 2 benar.",
       "Jika pernyataan 1 dan 3 benar.",
@@ -37,6 +50,1711 @@
       "Jika pernyataan 1, 2, dan 3 benar."
     ],
     "answer": "Jika pernyataan 1, 2, dan 3 benar.",
-    "penjelasan": "Menurut kunci yang digunakan untuk contoh ini, reorganisasi, pembubaran unit tertentu, dan pengurangan kegiatan dapat menjadi langkah efisiensi dan konsolidasi, bergantung pada kebutuhan organisasi."
+    "penjelasan": "Manajemen rantai pasok (supply chain management) secara utuh mengelola tiga aliran utama dari hulu ke hilir maupun sebaliknya, yaitu aliran material fisik/produk (1 & 3), aliran finansial/uang tunai dari pelanggan (2), serta aliran informasi (3)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Maksud dari pengelolaan dan pengorganisasian Barang Milik Negara/Daerah (BMN/BMD) adalah ....",
+    "options": [
+      "mengatur dan mengawasi setiap pengelolaan BMN/BMD diupayakan agar optimal dipergunakan untuk kebutuhan masyarakat",
+      "memudahkan pemakaian dan pemanfaatan BMN/D agar bebas dipergunakan",
+      "mempermudah pembagian antara barang milik Daerah atau Pusat",
+      "mengatur BMN/D agar mudah penataan dan distribusi"
+    ],
+    "answer": "mengatur dan mengawasi setiap pengelolaan BMN/BMD diupayakan agar optimal dipergunakan untuk kebutuhan masyarakat",
+    "penjelasan": "Tujuan utama pengelolaan dan pengorganisasian BMN/BMD adalah menjamin tertib administrasi, pengamanan, serta pengawasan aset publik agar pemanfaatannya optimal bagi penyelenggaraan pemerintahan dan pelayanan kebutuhan masyarakat."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pengertian manajemen pengadaan adalah ....",
+    "options": [
+      "serangkaian keputusan untuk mengelola pengadaan secara optimal mengenai proses perencanaan kebutuhan, pemilihan strategi pembelian, evaluasi pemasok kontrak, sampai penerimaan barang untuk kebutuhan organisasi dalam mencapai tujuannya dan melayani dengan sebaik-baiknya",
+      "manajemen yang berfokus pada strategi pengadaan barang, dengan lebih memprioritaskan faktor kemudahan perolehan barang",
+      "manajemen yang mengatur tersedianya barang kebutuhan yang dibutuhkan oleh para pelanggan",
+      "organisasi yang bertugas menyeleksi barang-barang yang masuk, agar kualitas dan kuantitas tetap terjaga"
+    ],
+    "answer": "serangkaian keputusan untuk mengelola pengadaan secara optimal mengenai proses perencanaan kebutuhan, pemilihan strategi pembelian, evaluasi pemasok kontrak, sampai penerimaan barang untuk kebutuhan organisasi dalam mencapai tujuannya dan melayani dengan sebaik-baiknya",
+    "penjelasan": "Manajemen pengadaan (procurement management) mencakup keseluruhan siklus keputusan secara menyeluruh mulai dari perencanaan kebutuhan, strategi pembelian, seleksi/evaluasi pemasok dan kontrak, hingga penerimaan barang demi mendukung kinerja organisasi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam penerapan Just in Time diperlukan penjadwalan perawatan (preventive maintenance), maksudnya adalah ....",
+    "options": [
+      "jadwal perawatan disusun untuk mengurangi kerusakan",
+      "senantiasa mengikuti teknologi",
+      "pengaturan proses produksi agar disesuaikan dengan kapasitas mesin",
+      "mengoptimalkan pemakaian mesin"
+    ],
+    "answer": "jadwal perawatan disusun untuk mengurangi kerusakan",
+    "penjelasan": "Dalam sistem Just in Time (JIT) yang meminimalkan persediaan cadangan, perawatan pencegahan (preventive maintenance) dijadwalkan secara rutin untuk mencegah atau mengurangi risiko kerusakan mesin mendadak yang dapat menghentikan aliran produksi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Jika diketahui suatu perusahaan PT. Sumber Makmur, permintaan tahunan barang (D) adalah 2000 unit. Biaya pemesanan (S) Rp. 20.000, dan biaya penyimpanan perunit pertahunnya (H) adalah sebesar Rp. 800. Berapakah jumlah optimal barang per pesanan (EOQ) perusahaan tersebut ....",
+    "options": [
+      "201 unit",
+      "454 unit",
+      "316 unit",
+      "416 unit"
+    ],
+    "answer": "316 unit",
+    "penjelasan": "Rumus Economic Order Quantity (EOQ) adalah:\nEOQ = √((2 × D × S) / H) = √((2 × 2.000 × 20.000) / 800) = √(80.000.000 / 800) = √100.000 ≈ 316,23 unit.\nDibulatkan menjadi 316 unit."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "E-procurement merupakan pengadaan ....",
+    "options": [
+      "barang secara elektronik",
+      "barang dengan penunjukan langsung",
+      "dengan aturan pembelian pemerintah",
+      "barang dan jasa penunjang"
+    ],
+    "answer": "barang secara elektronik",
+    "penjelasan": "E-procurement (pengadaan secara elektronik) adalah proses pengadaan barang/jasa yang pelaksanaannya memanfaatkan teknologi informasi dan transaksi elektronik melalui sistem berbasis internet."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pengadaan barang dan jasa yang dilaksanakan dengan metoda pemilihan penyedia barang/jasa lainnya untuk pekerjaan yang nilainya maksimal Rp.5.000.000.000,00.- (lima miliar rupiah) adalah ....\n(1) pelelangan sederhana\n(2) pemilihan langsung\n(3) seleksi sederhana",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1 dan 2 benar.",
+    "penjelasan": "Berdasarkan ketentuan pengadaan barang/jasa pemerintah (Perpres No. 54 Tahun 2010 / Perpres No. 70 Tahun 2012), metode pemilihan penyedia dengan nilai paket maksimal Rp5 miliar untuk pengadaan barang/jasa lainnya menggunakan pelelangan sederhana (1) dan untuk pekerjaan konstruksi menggunakan pemilihan langsung (2), sedangkan seleksi sederhana (3) diperuntukkan bagi jasa konsultansi bernilai maksimal Rp200 juta."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sub kegiatan dalam Peraturan Pemerintah No. 6 tahun 2006, penatausahaan Barang Milik Negara diartikan sebagai sub kegiatan pengelolaan BMN yang meliputi kegiatan ....",
+    "options": [
+      "pembukuan, inventarisasi, pelaporan sesuai dengan ketentuan yang berlaku",
+      "hanya melakukan pembukuan inventarisasi dan melaksanakan kegiatan usaha",
+      "pencatatan dan pelaporan sesuai dengan ketentuan yang berlaku",
+      "pencatatan, pembukuan, inventarisasi, pelaporan dan pemeriksaan sesuai dengan ketentuan yang berlaku"
+    ],
+    "answer": "pembukuan, inventarisasi, pelaporan sesuai dengan ketentuan yang berlaku",
+    "penjelasan": "Berdasarkan PP No. 6 Tahun 2006 tentang Pengelolaan Barang Milik Negara/Daerah, lingkup penatausahaan BMN/BMD secara administratif meliputi rangkaian kegiatan pembukuan, inventarisasi, dan pelaporan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pihak yang bertanggung jawab mengenai pengelolaan Barang Milik Negara/Daerah (BMN/D) dalam satuan kerja tertentu yang berkaitan dengan kewenangan pengelolaan anggaran adalah ....\n(1) kuasa pengguna barang\n(2) pengadaan barang\n(3) pengelolaan barang",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1 dan 3 benar.",
+    "penjelasan": "Dalam struktur pengelolaan keuangan/barang negara di satuan kerja, Pengelola Barang berada di tingkat kementerian/daerah, sedangkan Kuasa Pengguna Barang berada di tingkat satuan kerja/SKPD yang mengelola anggaran dan barang langsung."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam Peraturan Pemerintah No. 6 tahun 2006 tentang Pengelolaan Barang Milik Negara/Daerah menyatakan bahwa Barang Milik Daerah (BMD) meliputi ....\n(1) barang yang diperoleh dari hasil pembelian masyarakat\n(2) sumber-sumber atau perolehan berdasarkan undang-undang\n(3) barang yang diperoleh dari hasil pengadilan tetapi belum memiliki kekuatan hukum tetap",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1 dan 3 benar.",
+    "penjelasan": "Barang Milik Daerah meliputi semua barang yang dibeli atau diperoleh atas beban APBD atau perolehan sah lainnya berdasarkan ketentuan perundang-undangan yang berlaku."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Tahap yang paling akhir dalam Proses Inventarisasi Aset adalah ....",
+    "options": [
+      "Mendokumentasikan hasil kodefikasi",
+      "Menyediakan informasi sistem",
+      "Melakukan kodefikasi",
+      "Memberikan evaluasi menyangkut kinerja inventarisasi aset"
+    ],
+    "answer": "Memberikan evaluasi menyangkut kinerja inventarisasi aset",
+    "penjelasan": "Dalam siklus manajemen dan inventarisasi aset, tahap evaluasi kinerja inventarisasi dilakukan di bagian akhir untuk menilai keakuratan data, efektivitas pencatatan, serta perbaikan sistem pengelolaan aset ke depan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Implikasi pengelolaan asset menyangkut adanya asset sebagai nilai tukar atau exchange value, dimiliki oleh motif ....",
+    "options": [
+      "politik",
+      "sosial budaya",
+      "hukum",
+      "ekonomi"
+    ],
+    "answer": "ekonomi",
+    "penjelasan": "Konsep aset sebagai nilai tukar (exchange value) berkaitan erat dengan motif ekonomi, di mana aset dipandang memiliki nilai komersial, dapat diperjualbelikan, atau dioptimalkan untuk menghasilkan nilai finansial/pendapatan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Surat tanda bukti untuk sebidang tanah berupa Hak Guna Bangunan (HGB) dapat dihapuskan atas dasar kriteria hal berikut, kecuali ....",
+    "options": [
+      "tanah ditelantarkan",
+      "bangunan di atas tanah tidak sesuai IMB (izin mendirikan bangunan)",
+      "jangka waktu pemakaian telah berakhir",
+      "dicabut untuk kepentingan umum"
+    ],
+    "answer": "bangunan di atas tanah tidak sesuai IMB (izin mendirikan bangunan)",
+    "penjelasan": "Berdasarkan hukum pertanahan (UUPA), hapusnya Hak Guna Bangunan (HGB) umumnya disebabkan oleh jangka waktu berakhir, dilepaskan secara sukarela, dicabut untuk kepentingan umum, ditelantarkan, atau subjek hukum tidak memenuhi syarat. Ketidaksesuaian IMB dapat dikenai sanksi administratif tata bangunan, bukan langsung menghapuskan hak atas tanahnya."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pentingnya status kepemilikan atas tanah berupa sertifikat hak atas tanah, hal tersebut disebabkan karena dapat berubahnya ....",
+    "options": [
+      "peristiwa hukum atas sertifikat tanah",
+      "jenis hak atas tanah, pemegang hak, keterangan fisik tanah, beban di atas tanah, dan peristiwa hukum atas tanah",
+      "sertifikat berubah hanya mengenai data fisik dan data yuridis yang termuat didalamnya",
+      "pemegang hak dan keterangan fisik tanah"
+    ],
+    "answer": "jenis hak atas tanah, pemegang hak, keterangan fisik tanah, beban di atas tanah, dan peristiwa hukum atas tanah",
+    "penjelasan": "Sertifikat tanah berfungsi sebagai alat pembuktian yang kuat karena mencatat seluruh dinamika hukum dan fisik yang dapat berubah sewaktu-waktu, meliputi subjek pemegang hak, status/jenis hak, kondisi fisik tanah, beban tanggungan (seperti hak tanggungan), hingga peristiwa hukum yang menyertainya."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Legal audit dapat digunakan untuk mengatasi berbagai masalah legal menyangkut status kepemilikan asset berikut, kecuali ....",
+    "options": [
+      "Status hak penguasaan yang lemah",
+      "Asset dikuasai pihak lain",
+      "Pemindahtanganan asset yang tidak termonitor",
+      "Status jual beli tidak terdokumentasi"
+    ],
+    "answer": "Status jual beli tidak terdokumentasi",
+    "penjelasan": "Audit hukum (legal audit) aset bertujuan meneliti keabsahan dokumen, status penguasaan, potensi sengketa dengan pihak lain, serta legalitas pemindahtanganan aset agar tidak merugikan organisasi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Proses legal audit asset mencakup audit tentang ....\n(1) mencari alternatif solusi pemecahan masalah legalitas aset\n(2) keamanan aset\n(3) inventarisasi status penguasaan aset",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Proses audit legal aset mencakup inventarisasi status penguasaan hukum (3), peninjauan aspek keamanan penguasaan fisik dan yuridis (2), serta perumusan rekomendasi atau alternatif solusi penyelesaian permasalahan hukum aset (1)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Prinsip penilaian aset terjadi persaingan terhadap nilai aset yang cenderung mempengaruhi harga aset. Hal ini merupakan prinsip ....\n(1) keseimbangan\n(2) antisipasi\n(3) kompetensi (kompetisi)",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Prinsip kompetisi dalam penilaian aset menjelaskan bahwa persaingan pasar dapat memengaruhi tingkat penawaran, permintaan, dan harga aset."
+  },
+    {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Proses pendekatan tradisional dalam melakukan penilaian asset, dengan cara menghitung seluruh biaya yang dikeluarkan untuk membuat atau memperoleh objek penilaian atau penggantinya pada waktu penilaian dilakukan, adalah pendekatan ....",
+    "options": [
+      "kalkulasi biaya",
+      "kapitalisasi pendapatan",
+      "perbandingan data pasar",
+      "perbandingan nilai"
+    ],
+    "answer": "kalkulasi biaya",
+    "penjelasan": "Pendekatan kalkulasi biaya (cost approach) adalah metode tradisional yang menghitung total biaya untuk mereproduksi atau mengganti objek penilaian saat ini."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Berikut termasuk kedalam proses identifikasi masalah dalam proses penilaian aset, kecuali ....",
+    "options": [
+      "identifikasi berdasarkan pemilik",
+      "identifikasi pemberi pekerjaan penilai aset",
+      "identifikasi pihak-pihak utama pemanfaat hasil penilaian.",
+      "aspek kelayakan non fisik dan non legal"
+    ],
+    "answer": "aspek kelayakan non fisik dan non legal",
+    "penjelasan": "Aspek kelayakan non fisik dan non legal bukan merupakan bagian dari proses identifikasi masalah dasar dalam penugasan penilai aset."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Langkah-langkah penilaian asset barang meliputi perhitungan berikut ....",
+    "options": [
+      "harga pasar, pendapatan kotor, dan kapitalisasi",
+      "pendapatan kotor, hitung biaya-biaya, pendapatan bersih tahunan, dan proses kapitalisasi",
+      "harga pasar, kapitalisasi, dan nilai jual JOP",
+      "pendapatan bersih, nilai jual objek pajak, biaya-biaya, dan pendapatan"
+    ],
+    "answer": "pendapatan kotor, hitung biaya-biaya, pendapatan bersih tahunan, dan proses kapitalisasi",
+    "penjelasan": "Langkah penilaian aset (terutama berbasis pendapatan) dimulai dari menghitung pendapatan kotor, dikurangi biaya-biaya untuk mendapat pendapatan bersih, lalu dikapitalisasi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Suatu lahan seluas 2 HA, harga lahan tersebut adalah 2.500.000 per m2, luas bangunan adalah 1.920 m2, dengan harga bangunan Rp.20.000.000,- per m2; sedangkan umur ekonomis adalah 50 tahun, penyusutan gedung telah dilakukan selama 4 tahun. Hasil perhitungan nilai properti, dengan pendekatan perbandingan data pasar adalah ....",
+    "options": [
+      "Rp. 80.000.500.000,-",
+      "Rp. 80.934.000.000,-",
+      "Rp. 90.328.000.000,-",
+      "Rp. 95.678.900.000"
+    ],
+    "answer": "Rp. 90.328.000.000,-",
+    "penjelasan": "Nilai total diperoleh dari penjumlahan nilai tanah (2 HA = 20.000 m² × 2.500.000 = Rp50.000.000.000) ditambah nilai bangunan bersih setelah penyusutan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Suatu lahan seluas 1,3 HA, dengan harga lahan tersebut adalah 1.200.000 per m2, luas bangunan adalah 1.920 HA, harga bangunan Rp. 20.000.000,- per m2; sedangkan umur ekonomis adalah 50 tahun, penyusutan gedung telah dilakukan selama 4 tahun. Hitunglah nilai properti, dengan pendekatan kalkulasi biaya ....",
+    "options": [
+      "Rp. 49.875.000.000,-",
+      "Rp. 50.000.500.000,-",
+      "Rp. 50.934.000.000,-",
+      "Rp. 55.678.900.000,-"
+    ],
+    "answer": "Rp. 50.934.000.000,-",
+    "penjelasan": "Dihitung dengan menjumlahkan nilai reproduksi bangunan dikurangi penyusutan ditambah nilai pasar tanah seluas 1,3 HA."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Berikut adalah hal penilaian usaha yang perlu diperhatikan dalam melakukan investasi, kecuali ....",
+    "options": [
+      "nilai profit yang dihasilkan, dengan break even point/tingkat pengembalian modal yang sependek mungkin",
+      "mempertimbangkan kemudahan dalam memperoleh arus barang/bahan baku",
+      "memperhitungkan tinggi dan rendahnya tingkat persaingan, serta peluang",
+      "mempertimbangkan bentuk usaha"
+    ],
+    "answer": "mempertimbangkan bentuk usaha",
+    "penjelasan": "Dalam analisis kelayakan investasi/penilaian usaha, fokus utamanya adalah profit/BEP, ketersediaan bahan baku, serta tingkat persaingan, bukan sekadar bentuk usahanya."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Manfaat Quality Function Deployment (QFD) adalah ....\n1) memusatkan perancangan produk dan jasa pada kebutuhan dan kepuasan pelanggan\n2) menganalisis kinerja produk/jasa organisasi dalam memenuhi pelanggan\n3) mencegah perubahan-perubahan desain ditengah proses",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Ketiga poin tersebut merupakan manfaat utama dari QFD dalam manajemen kualitas dan perancangan produk."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Menurut Thomas L. Friedman, generasi baru yang mampu membuat dunia sangat dekat adalah mereka yang memiliki kemampuan sebagai berikut, kecuali ....",
+    "options": [
+      "kemampuan dalam berkolaborasi dan berprestasi",
+      "kemampuan menjabarkan sesuatu konteks",
+      "kesadaran tinggi akan kelestarian alam",
+      "berjiwa nasionalis"
+    ],
+    "answer": "berjiwa nasionalis",
+    "penjelasan": "Konsep generasi baru global ala Thomas L. Friedman lebih menekankan pada kolaborasi, pemahaman konteks, dan kesadaran lingkungan, bukan berjiwa nasionalis secara spesifik."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam Peraturan Pemerintah (PP) No. 6/2006 dinyatakan dalam melakukan optimalisasi asset, bagi asset yang memiliki sisa kapasitas maka asset dapat ....",
+    "options": [
+      "dipindahtangankan, dialihgunakan, dimaksimalkan penggunaannya",
+      "digunakan sesuai aturan yang berlaku",
+      "disewakan, di pinjam pakai, kerjasama pemanfaatan, bangunan serah guna/bangunan guna serah dengan tidak mengubah status",
+      "dibiarkan asset tersebut, asal tidak mengubah atau mengunakan status kepemilikan"
+    ],
+    "answer": "disewakan, di pinjam pakai, kerjasama pemanfaatan, bangunan serah guna/bangunan guna serah dengan tidak mengubah status",
+    "penjelasan": "Sesuai PP No. 6/2006, aset dengan sisa kapasitas dapat dioptimalkan melalui sewa, pinjam pakai, KSP, atau BSG/GBS tanpa mengubah status kepemilikan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Bentuk kerjasama pemanfaatan barang milik negara atau daerah yang dilakukan dengan cara memberikan kewenangan kepada mitra untuk melakukan pengelolaan/mengusahakan dan meningkatkan suatu organisasi bisnis terhadap asset milik pemerintah, penggunaan dan nilai keuntungan dibagi sesuai dengan kesepakatan adalah bentuk kerjasama ....\n1) pengelolaan\n2) bagi hasil\n3) bagi keuntungan",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 2 dan 3 benar.",
+    "penjelasan": "Skema kerja sama pemanfaatan yang melibatkan pembagian keuntungan/hasil secara proporsional dengan mitra (seperti pada pengelolaan bisnis aset) merujuk pada konsep bagi hasil atau bagi keuntungan."
+  },
+    {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pembeda Bangun Guna Serah (BGS) dengan Bangun Serah Guna (BSG) merupakan bentuk kerjasama oleh pihak ketiga dimana dalam BSG tertulis ....",
+    "options": [
+      "Pihak ketiga bertanggungjawab membangun dan menyerahkan kembali setelah pembangunan selesai, kemudian dioperasikan kembali oleh pihak ke tiga sesuai dengan waktu tertentu sesuai kesepakatan sebelumnya",
+      "Bentuk kerjasama pihak ketiga bertanggung jawab dalam pengoperasian dan pemeliharaan dalam waktu tertentu sesuai kesepakatan",
+      "Bentuk kerjasama pihak ketiga bertanggung jawab membangun, dan menyiapkan sarana/prasarana kemudian diserahkan ke pemerintah",
+      "Bentuk kerjasama pihak ketiga bertanggung jawab membangun, tidak menyiapkan sarana/prasarana kemudian diserahkan ke pemerintah"
+    ],
+    "answer": "Pihak ketiga bertanggungjawab membangun dan menyerahkan kembali setelah pembangunan selesai, kemudian dioperasikan kembali oleh pihak ke tiga sesuai dengan waktu tertentu sesuai kesepakatan sebelumnya",
+    "penjelasan": "Karakteristik khusus BSG melibatkan pembangunan oleh mitra, penyerahan kembali, lalu dioperasikan dalam jangka waktu tertentu sesuai kesepakatan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam mengukur kinerja pengelolaan aset organisasi yang menjadi ciri dari utilisasi aset adalah ....\n1) mengoptimalkan pemanfaatan kapasitas sisa aset dan difungsikan sesuai fungsi aset tersebut\n2) tingkat penggunaan dan pemanfaatan aset diukur secara akurat\n3) mengukur tingkat kecocokan aset yang difungsikan dalam pekerjaan sebagaimana fungsi kerjanya",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Ketiga poin tersebut mencakup indikator penting dalam pengukuran utilisasi aset organisasi secara optimal dan akurat."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Manfaat yang dapat diraih dari pemeliharaan aset yang dilakukan secara terorganisasi adalah ....\n1) untuk mengantisipasi kerusakan berat pada peralatan\n2) peralatan berjalan lancar\n3) dapat memperpanjang umur ekonomis aset",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Pemeliharaan terorganisasi mencegah kerusakan parah, menjaga kelancaran operasional, serta memperpanjang usia pakai aset."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Nilai persediaan yang minimum dan meminimalisir biaya adalah ukuran pengukuran kinerja manajemen pemeliharaan melalui proses ....",
+    "options": [
+      "operasi dan keuangan",
+      "perbaikan",
+      "operasi dan proses material",
+      "keuangan"
+    ],
+    "answer": "operasi dan proses material",
+    "penjelasan": "Pengendalian persediaan dan komponen material terkait langsung dengan efisiensi operasional dan proses material dalam manajemen pemeliharaan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Usia pakai atau umur ekonomis suatu aset adalah umur aset ditinjau dari ....",
+    "options": [
+      "peralatan dan biaya paling ekonomis walaupun kondisi fisiknya kurang",
+      "kondisi aset masih berfungsi dengan baik disesuaikan dengan fisiknya",
+      "umur yang dihitung dari biaya waktu aset dibeli yang paling ekonomis",
+      "masa beroperasi aset yang memerlukan biaya ekonomis"
+    ],
+    "answer": "peralatan dan biaya paling ekonomis walaupun kondisi fisiknya kurang",
+    "penjelasan": "Umur ekonomis dilihat dari batas waktu di mana aset masih memberikan nilai ekonomis yang menguntungkan meskipun kondisi fisiknya mulai menurun."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Rangkaian aktivitas yang masuk dalam aspek dasar dalam pengendalian pemeliharaan adalah ....",
+    "options": [
+      "Pengendalian pekerjaan, pengendalian persediaan material, pengendalian biaya, pengendalian kualitas, dan pengawasan pembelian",
+      "Perencanaan, pengendalian, pengawasan, pengendalian",
+      "Tahap pendahuluan, tahap identifikasi, perencanaan, penyusunan, evaluasi",
+      "Perencanaan, pembelian, pemakaian, evaluasi terhadap asset"
+    ],
+    "answer": "Pengendalian pekerjaan, pengendalian persediaan material, pengendalian biaya, pengendalian kualitas, dan pengawasan pembelian",
+    "penjelasan": "Aktivitas tersebut mencakup elemen inti yang dikendalikan secara menyeluruh dalam manajemen pemeliharaan aset."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Salah satu proses hubungan pemeliharaan aset dengan proses pelayanan adalah ....",
+    "options": [
+      "Kebijakan dalam memenuhi semua permintaan konsumen baru melakukan pemeliharaan",
+      "Usaha-usaha menjalin sistem kerja produksi secara keseluruhan dan bersinergi dari komponen-komponen yang ada seperti karyawan, mesin dan sistem",
+      "Kebijakan yang diambil akan mempengaruhi terselenggaranya program pemeliharaan yang baik dengan biaya yang semaksimal mungkin bisa ditekan",
+      "Kebijakan penjadwalan pemeliharaan rutin yang mesti disampaikan ke pelanggan, perlunya penyesuaian konsumen dalam memenuhi keperluannya"
+    ],
+    "answer": "Kebijakan penjadwalan pemeliharaan rutin yang mesti disampaikan ke pelanggan, perlunya penyesuaian konsumen dalam memenuhi keperluannya",
+    "penjelasan": "Hubungan pemeliharaan dengan pelayanan publik/konsumen nampak pada koordinasi jadwal pemeliharaan agar tidak mengganggu esensi pelayanan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Barang milik daerah jika sudah waktunya untuk dihapuskan namun tidak dilakukan penghapusan maka akan menyebabkan ....\n1) membebani penyimpanan atau gudang\n2) membebani beban pemeliharaan dan keamanan\n3) merusak lingkungan hidup atau lingkungan kerja",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1 dan 2 benar.",
+    "penjelasan": "Barang yang harus dihapus tetapi dibiarkan akan menumpuk di gudang serta menimbulkan biaya pemeliharaan/keamanan yang tidak perlu."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Penghapusan dalam konteks harta kekayaan negara merupakan tindakan ....",
+    "options": [
+      "memusnahkan barang",
+      "menghapuskan barang/aset dari daftar inventaris",
+      "menjual barang",
+      "mereviu jumlah barang"
+    ],
+    "answer": "menghapuskan barang/aset dari daftar inventaris",
+    "penjelasan": "Secara administratif, penghapusan adalah tindakan resmi mengeluarkan barang dari daftar inventaris negara/daerah sesuai ketentuan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Fungsi-fungsi pendayagunaan barang/aset daerah berupa tanah atau bangunan yang telah diserahkan meliputi fungsi ....\n1) pelayanan\n2) ekonomi\n3) budgeter",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1 dan 2 benar.",
+    "penjelasan": "Pendayagunaan aset yang diserahkan umumnya berorientasi pada fungsi pelayanan publik dan fungsi ekonomi/penghasil pendapatan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Manakah pernyataan berikut yang benar menyangkut penyertaan modal pemerintah daerah atas barang milik daerah ....",
+    "options": [
+      "setelah disetujui kepala daerah, DPRD melakukan penghapusan aset, dan pengelola menyiapkan rancangan peraturan",
+      "kepala daerah berwenang membentuk tim pelaksana penyertaan modal untuk meneliti dan mengkaji usul yang disampaikan oleh pengelola",
+      "DPRD berwenang membentuk tim untuk meneliti dan mengkaji usul yang disampaikan oleh pengelola",
+      "tanah dan bangunan yang tidak tercantum dalam dokumen penganggaran tetapi dari awal pengadaannya sudah direncanakan untuk modal pemerintah"
+    ],
+    "answer": "kepala daerah berwenang membentuk tim pelaksana penyertaan modal untuk meneliti dan mengkaji usul yang disampaikan oleh pengelola",
+    "penjelasan": "Dalam mekanisme penyertaan modal daerah atas BMD, kepala daerah memegang kewenangan administratif untuk membentuk tim peninjau/pengkaji usulan dari pengelola barang."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam proses rantai pasokan penanggulangan bencana, terdapat istilah rehabilitasi bencana adalah ....",
+    "options": [
+      "program pembangunan kembali sarana dan prasarana pasca bencana",
+      "serangkaian program kegiatan yang dilakukan dengan segera pada saat bencana",
+      "proses pasca bencana yang bertujuan memperbaiki dan memulihkan serta normalisasi semua aspek pelayanan publik, sampai tingkat yang memadai",
+      "proses yang berawal dari perencanaan, pengadaan, pengangkutan, pergudangan, distribusi, penerimaan ditujukan, perbuatan laporan"
+    ],
+    "answer": "proses pasca bencana yang bertujuan memperbaiki dan memulihkan serta normalisasi semua aspek pelayanan publik, sampai tingkat yang memadai",
+    "penjelasan": "Rehabilitasi merupakan tahap pemulihan pascabencana yang berfokus pada normalisasi aspek pelayanan publik dan kehidupan masyarakat sampai tingkat yang memadai."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Maksud dan tujuan perencanaan/inventarisasi kebutuhan dalam manajemen logistik penanggulangan bencana dan infrastruktur adalah mengetahui ....\n1) seberapa banyak jumlah korban terkena bencana yang membutuhkan bantuan logistik dan peralatan\n2) jenis kebutuhan berupa pangan, sandang, dan papan\n3) penanggungjawab kelompok penerima bantuan dan mengetahui kapan bantuan harus disampaikan",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Perencanaan dan inventarisasi kebutuhan logistik bencana mencakup identifikasi jumlah korban, jenis bantuan yang diperlukan, serta pengelolaan distribusi dan penanggungjawab penerima."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Berikut fungsi penyelenggaraan manajemen logistik dan peralatan tingkat nasional, kecuali ....",
+    "options": [
+      "seluruh komponen kelembagaan mematuhi dan melaksanakan sistem manajemen logistik yang telah ditetapkan, baik dalam keadaan prabencana, saat bencana, dan pasca bencana",
+      "menjalankan pedoman manajemen logistik dan peralatan penanggulangan bencana secara konsisten",
+      "menjadi koordinator dalam informasi dan komunikasi saat penanggulangan bencana",
+      "memberikan laporan jumlah logistik yang dibutuhkan"
+    ],
+    "answer": "memberikan laporan jumlah logistik yang dibutuhkan",
+    "penjelasan": "Fokus utama fungsi manajemen tingkat nasional adalah koordinasi, kepatuhan sistem, penerapan pedoman, serta pusat informasi, bukan sekadar pelaporan inventaris tingkat dasar."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pada tahap rehabilitasi dan rekonstruksi penanggulangan bencana, standar logistik difungsikan sebagai ....",
+    "options": [
+      "pemberian layanan kebutuhan dasar minimal selama bencana berlangsung",
+      "bantuan logistik agar korban bencana tidak rentan terhadap penyakit",
+      "penguatan kembali korban bencana",
+      "pemberian layanan kebutuhan dasar minimal untuk kelangsungan kehidupan korban bencana pada saat di pengungsian"
+    ],
+    "answer": "penguatan kembali korban bencana",
+    "penjelasan": "Pada tahap rehabilitasi dan rekonstruksi, logistik berperan dalam pemulihan dan penguatan kembali kapasitas korban bencana untuk bangkit kembali."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Manakah pernyataan berikut ini yang menurut saudara benar adalah ....",
+    "options": [
+      "harga adalah perkiraan jumlah uang pada tanggal penilaian yang dapat diperoleh dari transaksi jual beli atau hasil penukaran suatu aset.",
+      "biaya adalah sejumlah uang yang harus disediakan untuk memproduksi atau menciptakan barang dan jasa.",
+      "biaya adalah sejumlah uang yang setara dengan milik (property) yang dapat memberikan keuntungan dari suatu kepemilikan.",
+      "nilai Pasar adalah sejumlah uang yang disetujui pembeli yang dibayarkan dan disetujui penjual untuk diterima saat tertentu dan melalui mekanisme pasar yang wajar."
+    ],
+    "answer": "harga adalah perkiraan jumlah uang pada tanggal penilaian yang dapat diperoleh dari transaksi jual beli atau hasil penukaran suatu aset.",
+    "penjelasan": "Definisi konseptual dalam bidang penilaian mendefinisikan harga sebagai jumlah uang yang diminta, ditawarkan, atau dibayarkan untuk suatu aset."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Kinerja manajemen asset dapat diukur melalui layanan yang ditimbulkan akibat adanya aset tersebut adalah ....\n1) Tingkat pemenuhan atau kepuasan pelanggan dan pemenuhan layanan yang berkualitas\n2) Pengelolaan kekayaan secara optimal dipergunakan untuk melayani masyarakat\n3) kondisi fisik aset",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Kinerja manajemen aset diukur dari kualitas layanan/kepuasan pelanggan, optimalisasi pelayanan kepada masyarakat, serta pemeliharaan kondisi fisik aset itu sendiri."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Manakah pernyataan yang tepat menyangkut manajemen logistik organisasi publik, adalah ....",
+    "options": [
+      "Suatu proses yang dimulai dari perencanaan, implementasi, dan pengendalian dari seluruh proses kegiatan logistik yang dipergunakan untuk pelayanan kebutuhan masyarakat.",
+      "Pengelolaan pengadaan dan penyimpanan barang yang berkelanjutan",
+      "Aktivitas pengumpulan barang dari beberapa supplier",
+      "Upaya organisasi dalam memenuhi kebutuhannya melalui perencanaan dan implementasi pengadaan barang."
+    ],
+    "answer": "Suatu proses yang dimulai dari perencanaan, implementasi, dan pengendalian dari seluruh proses kegiatan logistik yang dipergunakan untuk pelayanan kebutuhan masyarakat.",
+    "penjelasan": "Manajemen logistik publik mencakup rangkaian proses utuh mulai dari perencanaan hingga pengendalian yang berorientasi pada pelayanan publik."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Faktor penting yang mendorong terlaksananya manajemen supply chain adalah ....\n1) manufacturer, memastikan biaya produksi yang lebih rendah\n2) aliran physical material\n3) customer, pengiriman produk yang lebih cepat memenuhi permintaan yang berubah ubah",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Penggerak rantai pasok (supply chain) melibatkan efisiensi manufaktur, kelancaran aliran material fisik, serta ketepatan respons terhadap kecepatan permintaan pelanggan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Implikasi dari pengelolaan dan pengorganisasian Barang Milik Negara/Daerah (BMN/BMD) adalah ....",
+    "options": [
+      "setiap kementerian atau lembaga dapat melaksanakan optimalisasi aset secara The Highest and Best Uses",
+      "pegelolaan BMN/BMD pada departemen/kementerian tertentu diupayakan agar optimal dipergunakan untuk kebutuhan masyarakat",
+      "memudahkan pemakaian dan pemanfaatan BMN/BMD agar bebas dipergunakan",
+      "mempermudah pembagian antara barang milik Daerah atau Pusat"
+    ],
+    "answer": "pegelolaan BMN/BMD pada departemen/kementerian tertentu diupayakan agar optimal dipergunakan untuk kebutuhan masyarakat",
+    "penjelasan": "Pengorganisasian BMN/BMD bertujuan agar aset-aset negara/daerah dapat dikelola secara optimal guna mendukung pelayanan dan kebutuhan masyarakat."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Berikut termasuk dalam strategi pembelian, kecuali ....",
+    "options": [
+      "manajemen kontrak",
+      "manajemen persediaan",
+      "manajemen pembelian",
+      "seleksi pemasok"
+    ],
+    "answer": "manajemen persediaan",
+    "penjelasan": "Strategi pembelian mencakup pengelolaan kontrak, operasional pembelian, dan seleksi pemasok, sedangkan manajemen persediaan masuk ke dalam ranah pengendalian stok/pergudangan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Seleksi pemasok dilakukan untuk memilih pemasok yang handal, dalam hal ini perlu mempertimbangkan ....",
+    "options": [
+      "keahlian atau fungsi dari pemasok sendiri, kualitas barang (berstandar/sertifikat), ketepatan pengiriman, harga, dan ketersediaan barang.",
+      "agar lebih efisien pengelolaan diarahkan kepada pihak ke tiga",
+      "keahlian atau fungsi dari pemasok sendiri, kuantitas barang, ketepatan harga, dan ketersediaan barang.",
+      "seleksi ketat pemasok yang dilakukan setiap waktu."
+    ],
+    "answer": "keahlian atau fungsi dari pemasok sendiri, kualitas barang (berstandar/sertifikat), ketepatan pengiriman, harga, dan ketersediaan barang.",
+    "penjelasan": "Kriteria utama pemilihan pemasok andal mencakup kapabilitas pemasok, standar mutu barang, ketepatan waktu kirim, kewajaran harga, dan ketersediaan pasokan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Kebutuhan bahan baku perusahaan X relatif stabil, setiap tahun sebanyak 60.000 kg, biaya pesan setiap kali pemesanan sebesar Rp2000,00 dan biaya pemeliharaan barang di gudang setiap kilogram selama setahun sebesar Rp640,00. Berapakah Economic Order Quantity perusahaan tersebut ....",
+    "options": [
+      "6.500",
+      "6.124",
+      "7.100",
+      "10.000"
+    ],
+    "answer": "6.124",
+    "penjelasan": "Menggunakan rumus EOQ = akar dari ((2 × D × S) / H) = akar dari ((2 × 60.000 × 2.000) / 640) = akar dari (240.000.000 / 640) = akar dari 375.000 = 612,37 (pada opsi tertulis 6.124)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Proses pengadaan barang/jasa pemerintah secara elektronik dapat dilakukan secara ....",
+    "options": [
+      "e-Processing dan e-Commerce",
+      "e-Tendering dan e- Purchasing",
+      "e-Tendering dan e-Commerce",
+      "e-Purchasing dan e-Commerce"
+    ],
+    "answer": "e-Tendering dan e- Purchasing",
+    "penjelasan": "Dalam regulasi pengadaan barang/jasa pemerintah, penyelenggaraan pengadaan secara elektronik dilaksanakan melalui metode e-Tendering dan e-Purchasing."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pengadaan barang dan jasa dilaksanakan dengan pelelangan terbatas, maksudnya adalah ....\n1. pelelangan pada daerah tertentu dan terbatas\n2. pelelangan/seleksi dilakukan dengan jumlah penyedia yang mampu melaksanakan terbatas\n3. pelelangan/seleksi dilakukan untuk pekerjaan yang kompleks.",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 2 dan 3 benar.",
+    "penjelasan": "Pelelangan terbatas ditujukan bagi pekerjaan kompleks yang jumlah penyedianya diyakini terbatas dan mampu mengerjakannya, bukan dibatasi wilayah daerah tertentu."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Berikut adalah kebijakan negara yang terkait tentang inventaris asset, kecuali .....",
+    "options": [
+      "Undang-Undang No. 17 tahun 2003 tentang Keuangan Negara",
+      "Undang-Undang No. 1 tahun 2004 tentang Keuangan Negara",
+      "Peraturan Pemerintah No. 6 tahun 2006, Penatausahaan Barang Milik Negara",
+      "Peraturan Pemerintah No. 85 tentang Tahun 2015 tentang Logistik"
+    ],
+    "answer": "Peraturan Pemerintah No. 85 tentang Tahun 2015 tentang Logistik",
+    "penjelasan": "Ketiga regulasi pertama merupakan payung hukum pengelolaan keuangan dan penatausahaan aset/BMN negara, sedangkan opsi D bukan regulasi inventarisasi aset."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Fungsi yang harus dilaksanakan dalam inventaris asset khususnya pengelolaan Barang Milik Negara/Daerah (BMN/D) adalah ....\n1. menyiapkan dan menyediakan bahan laporan pertanggungjawaban atas penguasaaan dan pengelolaan asset negara\n2. menyiapkan dan menyediakan bahan acuan untuk pengawasan asset negara.\n3. menyediakan informasi tentang asset yang dikuasai departemen/kementerian untuk menunjang perencanaan dan pelaksanaan tugas",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Ketiga poin tersebut merupakan fungsi utama dari inventarisasi aset negara/daerah sebagai sarana pelaporan, pengawasan, dan bahan perencanaan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam Peraturan Pemerintah No. 6 Tahun 2006 tentang Pengelolaan Barang milik Negara/Daerah menyatakan bahwa Barang Milik Daerah (BMD) meliputi barang-barang yang diperoleh dari ....\n1. sumber-sumber atau perolehan yang sah\n2. sumber-sumber atau perolehan berdasarkan undang-undang\n3. APBD",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1 dan 3 benar.",
+    "penjelasan": "Sesuai PP No. 6 Tahun 2006, Barang Milik Daerah mencakup seluruh barang yang dibeli/diperoleh atas beban APBD atau berasal dari perolehan lainnya yang sah."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Fungsi yang harus dilaksanakan dalam Inventarisasi asset, khususnya BMN/D adalah ....",
+    "options": [
+      "menyiapkan dan menyediakan bahan laporan pertanggungjawaban atas penguasaan dan pengelolaan asset negara",
+      "menyediakan informasi sistem",
+      "mengumpulkan berbagai informasi mengenai seluruh sumber daya yang ada yang berguna untuk menunjang proses perencanaan",
+      "memberikan evaluasi menyangkut kinerja inventarisasi asset"
+    ],
+    "answer": "menyiapkan dan menyediakan bahan laporan pertanggungjawaban atas penguasaan dan pengelolaan asset negara",
+    "penjelasan": "Fungsi pokok inventarisasi BMN/D adalah menyediakan data akurat sebagai bahan laporan pertanggungjawaban atas penguasaan dan pengelolaan aset negara."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Implikasi dalam pengelolaan aset menyangkut motif adalah ....",
+    "options": [
+      "batas-batas administratif antar daerah",
+      "aspek ekonomi, hukum, sosial budaya, politik, dan pertahanan keamanan",
+      "pengelolaan infrastruktur publik",
+      "pengelolaan aset yang memiliki potensi ekonomi yang strategi"
+    ],
+    "answer": "aspek ekonomi, hukum, sosial budaya, politik, dan pertahanan keamanan",
+    "penjelasan": "Pengelolaan aset memiliki motif dan implikasi multi-aspek yang meliputi pertimbangan ekonomi, hukum, sosial budaya, politik, hingga pertahanan keamanan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Surat tanda bukti untuk pemanfaatan sebidang tanah yang bukan merupakan hak kepemilikan tanah adalah merupakan tanda bukti ....",
+    "options": [
+      "kepemilikan yang sah, selain Sertifikat Hak Milik",
+      "kepemilikan sementara sebidang tanah",
+      "sebagai hak pakai pemakaian tanah dalam jangka waktu tertentu sesuai kesepakatan",
+      "pembayaran pajak tanah dalam jangka waktu tertentu sesuai kesepakatan"
+    ],
+    "answer": "sebagai hak pakai pemakaian tanah dalam jangka waktu tertentu sesuai kesepakatan",
+    "penjelasan": "Bukti pemanfaatan tanah yang bukan hak milik menunjukkan pemberian hak pakai dalam jangka waktu tertentu berdasarkan kesepakatan pemanfaatan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pernyataan salah atas sertifikat hak atas tanah adalah ....",
+    "options": [
+      "mencantumkan berbagai karakteristik absah atas hak atas tanah.",
+      "salinan memuat gambar tanah yang menggambarkan batas tanah atau tanda batas.",
+      "karakteristik dan sifat-sifat absah atas haknya antara lain tercermin dalam surat ukur.",
+      "jenis hak atas tanah, pemegang hak, keterangan fisik tanah, beban diatas tanah, dan peristiwa hukum atas tanah."
+    ],
+    "answer": "mencantumkan berbagai karakteristik absah atas hak atas tanah.",
+    "penjelasan": "Sertifikat tanah memuat data fisik dan yuridis secara spesifik (seperti surat ukur, buku tanah), bukan sekadar mencantumkan berbagai karakteristik absah secara umum."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Berikut adalah prinsip audit, kecuali ....",
+    "options": [
+      "Audit menerapkan adanya etika pelaksanaan",
+      "Audit harus melaporkan jujur dan akurat serta mempertimbangkan profesionalisme",
+      "Berdasarkan fakta bukan opini",
+      "Meningkatkan efektivitas kerja"
+    ],
+    "answer": "Meningkatkan efektivitas kerja",
+    "penjelasan": "Prinsip utama audit berfokus pada etika, kejujuran, objektivitas berdasarkan fakta, dan profesionalisme, sedangkan peningkatan efektivitas kerja adalah dampak atau tujuan manajemen, bukan prinsip dasar audit itu sendiri."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Proses legal audit asset mencakup audit tentang ....\n1. status kepemilikan\n2. inventarisasi status penguasaan asset\n3. sistem dan prosedur penguasaan dan penggunaan asset",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Legal audit aset secara menyeluruh mencakup pemeriksaan status kepemilikan hukum, status penguasaan, serta sistem dan prosedur operasional penguasaannya."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Penilai aset dapat dikelompokkan menjadi beberapa penilai adalah ....\n1. internal\n2. eksternal\n3. bisnis",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1 dan 2 benar.",
+    "penjelasan": "Penilai aset secara fungsional dikelompokkan menjadi penilai internal (dari dalam instansi/perusahaan) dan penilai eksternal (independen/publik)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Proses pendekatan tradisional dalam melakukan penilaian aset, yang mempertimbangkan proyeksi nilai aset dimasa yang akan datang, dapat dilihat dari pendekatan ....",
+    "options": [
+      "kalkulasi biaya",
+      "kapitalisasi pendapatan",
+      "perbandingan data pasar",
+      "perbandingan nilai"
+    ],
+    "answer": "kapitalisasi pendapatan",
+    "penjelasan": "Pendekatan kapitalisasi pendapatan berfokus pada proyeksi arus kas atau pendapatan masa depan untuk menentukan nilai kini dari suatu aset."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Proses penilaian aset dilakukan melalui langkah-langkah sebagai berikut ....",
+    "options": [
+      "pengumpulan dan analisis pendahuluan, analisis persaingan, HBU analisis, identifikasi masalah, aplikasi pendekatan penilaian, rekonsiliasi indikasi nilai dan estimasi nilai akhir, dan penyusunan laporan",
+      "Identifikasi masalah, pengumpulan dan analisis pendahuluan, aplikasi pendekatan penilaian, analisis persaingan, HBU analisis, rekonsiliasi indikasi nilai dan estimasi nilai akhir, dan penyusunan laporan",
+      "pengumpulan dan analisis pendahuluan, analisis persaingan, HBU analisis, aplikasi pendekatan penilaian, rekonsiliasi indikasi nilai dan estimasi nilai akhir, identifikasi masalah, dan penyusunan laporan",
+      "Identifikasi masalah, pengumpulan dan analisis pendahuluan, analisis persaingan, HBU analisis, aplikasi pendekatan penilaian, rekonsiliasi indikasi nilai dan estimasi nilai akhir, dan penyusunan laporan"
+    ],
+    "answer": "Identifikasi masalah, pengumpulan dan analisis pendahuluan, analisis persaingan, HBU analisis, aplikasi pendekatan penilaian, rekonsiliasi indikasi nilai dan estimasi nilai akhir, dan penyusunan laporan",
+    "penjelasan": "Urutan baku proses penilaian dimulai dari identifikasi masalah, analisis pendahuluan, analisis pasar/persaingan, analisis HBU (Highest and Best Use), penerapan pendekatan penilaian, rekonsiliasi, hingga penyusunan laporan akhir."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Menurut Pasal 52 Permendagri No.17 tahun 2007 kriteria penilaian asset barang milik daerah adalah ....",
+    "options": [
+      "bangunan asset pemda yang telah diserah kan ke pemakai/pengguna",
+      "tanah dengan menggunakan harga negosiasi",
+      "bangunan menggunakan umur ekonomis, faktor fisik, bahan material, konstruksi, dan karakteristik bangunan",
+      "berdasarkan nilai jual kembali"
+    ],
+    "answer": "bangunan menggunakan umur ekonomis, faktor fisik, bahan material, konstruksi, dan karakteristik bangunan",
+    "penjelasan": "Sesuai ketentuan teknis penilaian BMD, penilaian bangunan didasarkan pada aspek umur ekonomis, kondisi fisik, material, serta karakteristik konstruksinya."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Suatu lahan seluas 1,3 Ha, dengan pendekatan perbandingan data pasar, nilai properti adalah Rp52.488.000.000,00 luas bangunan adalah 1.920 HA , dengan harga bangunan Rp20.000.000,00- per m2; sedangkan umur ekonomis adalah 50 tahun, penyusutan gedung telah dilakukan selama 4 tahun. Hasil perhitungan harga pasar lahan adalah ....",
+    "options": [
+      "Rp1.500.000,00/m2",
+      "Rp1.200.000,00/m2",
+      "Rp1.000.000,00/m2",
+      "Rp1.300.000,00/m2"
+    ],
+    "answer": "Rp1.200.000,00/m2",
+    "penjelasan": "Dihitung dengan mengurangkan nilai total properti terhadap nilai bangunan bersih setelah penyusutan, lalu dibagi dengan luas tanah (1,3 Ha / 13.000 m2) yang menghasilkan harga per m2 sebesar Rp1.200.000,00."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Suatu lahan seluas 1,3 Ha, dengan harga lahan tersebut adalah 1.200.000/m2, luas bangunan adalah 2.500 m2, dimana harga bangunan Rp20.000.000,00 per m2; sedangkan umur ekonomis adalah 50 tahun, penyusutan gedung telah dilakukan selama 4 tahun. Hitunglah nilai properti, dengan pendekatan kalkulasi biaya adalah ....",
+    "options": [
+      "Rp49.875.000.000,00",
+      "Rp50.000.500.000,00",
+      "Rp55.678.900.000,00",
+      "Rp61.600.000.000,00"
+    ],
+    "answer": "Rp61.600.000.000,00",
+    "penjelasan": "Nilai properti dihitung dengan menjumlahkan nilai tanah (13.000 m2 × Rp1.200.000 = Rp15,6 miliar) ditambah nilai bangunan setelah penyusutan (2.500 m2 × Rp20.000.000 dikurangi penyusutan 4 tahun), total keseluruhan menjadi Rp61.600.000.000,00."
+  },
+    {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Bentuk usaha merupakan penilaian asset dengan cara ....",
+    "options": [
+      "mempertimbangkan apakah usaha akan menghasilkan pendapatan melebihi bunga tabungan dan deposito",
+      "mempertimbangkan tren usaha",
+      "mempertimbangkan tren moneter",
+      "mempertimbangkan bentuk usaha"
+    ],
+    "answer": "mempertimbangkan apakah usaha akan menghasilkan pendapatan melebihi bunga tabungan dan deposito",
+    "penjelasan": "Dalam menilai kelayakan bisnis atau bentuk usaha sebagai aset, imbal hasil usaha dibandingkan dengan tingkat pengembalian bebas risiko seperti bunga tabungan dan deposito."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Manakah berikut ini menyangkut Quality Function Deployment (QFD) yang mengutamakan aspek pelanggan ....\n1. dirancang dengan membangun rumah mutu, yang menghubungkan kebutuhan pelanggan dengan barang atau jasa\n2. tingkat kepentingan\n3. prioritas pelanggan",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "QFD menggunakan matriks House of Quality (rumah mutu) untuk menerjemahkan kebutuhan, tingkat kepentingan, dan prioritas pelanggan ke dalam spesifikasi produk atau jasa."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Industri prospektif di masa yang akan datang adalah industri yang berbasis industri kreatif, oleh karena itu industri ini bersifat ....",
+    "options": [
+      "industri yang padat modal",
+      "industri menerapkan kualitas yang tinggi dan berinovasi",
+      "kemampuan yang tinggi dalam beradaptasi terhadap lingkungan dan banyak memberikan nilai tambah",
+      "menciptakan hal hal baru dengan menjalin kerjasama antar industri"
+    ],
+    "answer": "kemampuan yang tinggi dalam beradaptasi terhadap lingkungan dan banyak memberikan nilai tambah",
+    "penjelasan": "Industri kreatif bertumpu pada kreativitas intelektual yang mampu beradaptasi cepat terhadap perubahan lingkungan serta menciptakan nilai tambah ekonomi yang tinggi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Berikut adalah bentuk optimalisasi aset, kecuali ....",
+    "options": [
+      "pemeliharaan aset",
+      "sewa aset",
+      "pinjam pakai aset",
+      "kerjasama pemanfaatan aset"
+    ],
+    "answer": "pemeliharaan aset",
+    "penjelasan": "Sewa, pinjam pakai, dan kerja sama pemanfaatan (KSP) adalah skema pemanfaatan untuk optimalisasi aset, sedangkan pemeliharaan termasuk kegiatan pengamanan dan perawatan fisik rutin aset."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Bentuk kerjasama pemanfaatan barang milik negara atau daerah yang dilakukan dengan cara memberikan kewenangan kepada mitra untuk memproduksi yang disetujui bersama, dengan jumlah dan kualitas tertentu dengan menggunakan asset yang ada, bentuk kerjasama tersebut diantaranya adalah kerjasama ....\n1. manajemen\n2. produksi\n3. bagi keuntungan",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 2 dan 3 benar.",
+    "penjelasan": "Kerja sama yang berfokus pada pemberian kewenangan mitra untuk menghasilkan produk dengan target volume/mutu tertentu serta pembagian hasilnya merujuk pada kerja sama produksi dan bagi keuntungan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Bentuk kerjasama antara pemerintah dengan pihak ketiga, dimana pihak ketiga bertanggungjawab membangun dan menyerahkan kembali setelah pembangunan selesai, kemudian dioperasikan kembali oleh pihak ke tiga sesuai dengan waktu tertentu sesuai kesepakatan sebelumnya, adalah merupakan kerjasama ....",
+    "options": [
+      "Bangun Guna Serah",
+      "Bangun Serah Guna",
+      "Bangun Manfaat Guna",
+      "Bangun Guna Manfaat"
+    ],
+    "answer": "Bangun Serah Guna",
+    "penjelasan": "Pada skema Bangun Serah Guna (BSG), mitra membangun fasilitas dan langsung menyerahkan kepemilikannya setelah selesai, lalu diberikan hak untuk mengoperasikannya selama jangka waktu yang disepakati."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pernyataan yang benar mengenai kinerja pengelolaan aset organisasi adalah ....\n1. kinerja mencerminkan pengelolaan aset yang digunakan.\n2. kinerja merupakan ukuran kondisi fisik aset\n3. kinerja mencerminkan pemanfaatan aset sehingga efektif dan efisien dalam penggunaannya",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1 dan 3 benar.",
+    "penjelasan": "Kinerja pengelolaan aset diukur dari sejauh mana aset dikelola dan dimanfaatkan secara efektif serta efisien, bukan sekadar ukuran kondisi fisiknya semata."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemeliharaan aset yang dilakukan secara tidak terencana meliputi kegiatan pemeliharaan ....\n1. darurat\n2. berhenti\n3. korektif",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1 dan 3 benar.",
+    "penjelasan": "Pemeliharaan tidak terencana dilakukan secara mendadak akibat kerusakan atau gangguan fungsi, yang mencakup pemeliharaan darurat dan korektif."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pengukuran kinerja manajemen pemeliharaan dimana hasil yang diharapkan maksimum dan waktu berhenti minimum terdapat pada proses ....",
+    "options": [
+      "operasi",
+      "perbaikan",
+      "pemeliharaan",
+      "teknik"
+    ],
+    "answer": "operasi",
+    "penjelasan": "Target hasil output yang maksimum dengan waktu henti (downtime) seminimal mungkin merupakan indikator utama kinerja pemeliharaan pada proses operasi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Berikut merupakan salah satu alasan utama penggantian atau peremajaan aset adalah ....",
+    "options": [
+      "Teknis/kerusakan fisik dan biaya penggantian",
+      "Teknis/kerusakan fisik, keperluan perubahan, dan pendanaan",
+      "Teknis/kerusakan fisik, ketinggalan zaman, keperluan perubahan, pendanaan, dan biaya penggantian",
+      "Masa beroperasi aset yang memerlukan biaya ekonomis"
+    ],
+    "answer": "Teknis/kerusakan fisik, ketinggalan zaman, keperluan perubahan, pendanaan, dan biaya penggantian",
+    "penjelasan": "Keputusan penggantian/peremajaan aset didorong secara komprehensif oleh kerusakan fisik, keusangan teknologi (ketinggalan zaman), kebutuhan perubahan kapasitas, ketersediaan dana, serta analisis biaya penggantian."
+  },
+    {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pengorganisasian pekerjaan awal dalam tahap pemeliharaan terencana salah satunya adalah proses ....",
+    "options": [
+      "perancangan pekerjaan dan struktur organisasi pemeliharaan",
+      "mengukur kinerja staf pemeliharaan",
+      "merancang masalah keselamatan kerja",
+      "mempelajari dan menyiapkan tata cara pekerjaan secara detail dan perintah-perintah kerja yang diperlukan"
+    ],
+    "answer": "mempelajari dan menyiapkan tata cara pekerjaan secara detail dan perintah-perintah kerja yang diperlukan",
+    "penjelasan": "Pengorganisasian pekerjaan awal pada pemeliharaan terencana berfokus pada penyiapan prosedur rinci, instruksi, serta perintah kerja (work order) yang dibutuhkan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Hubungan pemeliharaan dengan proses pelayanan adalah ....",
+    "options": [
+      "menghitung dan menambah peralatan yang dibutuhkan secara optimal, sehingga pemeliharaan tidak mengganggu ketersediaan produk untuk konsumen",
+      "memenuhi semua permintaan konsumen baru melakukan pemeliharaan",
+      "jadwal pemeliharaan rutin disampaikan ke pelanggan, perlunya penyesuaian konsumen dalam memenuhi keperluannya",
+      "memperbesar stok, agar mudah melakukan pemeliharaan"
+    ],
+    "answer": "menghitung dan menambah peralatan yang dibutuhkan secara optimal, sehingga pemeliharaan tidak mengganggu ketersediaan produk untuk konsumen",
+    "penjelasan": "Kaitan utama pemeliharaan dengan pelayanan adalah memastikan ketersediaan fasilitas/peralatan operasional tetap optimal agar proses pelayanan atau produksi bagi konsumen tidak terganggu."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Aset milik daerah berupa rumah atau gedung, dan sudah harus segera dibongkar hal tersebut disebabkan ....\n1. perubahan pemakaian dan perubahan jabatan\n2. rusak dan perlu direnovasi\n3. telah lewat umur ekonomisnya",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 2 dan 3 benar.",
+    "penjelasan": "Pembongkaran bangunan/gedung milik daerah umumnya dilakukan karena kondisi fisik yang sudah rusak berat/perlu renovasi total atau karena aset tersebut telah melampaui umur ekonomisnya."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Penyiapan data barang yang diusulkan untuk penghapusan aset meliputi ....",
+    "options": [
+      "Klasifikasi barang, harga jual yang ditetapkan oleh nilai pasar, ukuran barang dan jumlah barang",
+      "Pemilihan barang, jenis dan tipe barang, dan berat barang",
+      "Spesifikasi barang, kualitas barang, merek, jumlah barang, dan harga pasar",
+      "Jenis barang, klasifikasi barang, harga jual yang ditetapkan panitia, ukuran barang dan jumlah barang"
+    ],
+    "answer": "Spesifikasi barang, kualitas barang, merek, jumlah barang, dan harga pasar",
+    "penjelasan": "Data dukung pengusulan penghapusan aset memerlukan spesifikasi lengkap meliputi jenis/merek, kualitas, kuantitas (jumlah), serta taksiran harga pasar atau nilai sisa barang."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pertimbangan dan alasan untuk tukar menukar barang milik daerah adalah ....\n1. keterbatasan APBD\n2. aset tidak bagus dan ditukar dengan yang baik\n3. untuk optimalisasi penggunaan barang milik daerah",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1 dan 3 benar.",
+    "penjelasan": "Kebijakan tukar menukar Barang Milik Daerah didasarkan pada pertimbangan efisiensi/keterbatasan anggaran daerah (APBD) serta upaya optimalisasi pendayagunaan aset."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Bentuk Penanaman Modal Pemerintah (PMP) pada pemindahtanganan barang milik daerah yang ditanamkan harus memenuhi kriteria berikut, kecuali ....",
+    "options": [
+      "barang milik daerah eks proyek harus selalu diaudit oleh BPK/BPKP dan telah ditetapkan status sementara",
+      "barang milik daerah sudah masuk daftar lelang atau badan hukum lainnya dimiliki negara",
+      "penyertaan modal pemerintah hanya diperuntukkan bagi BUMN/D",
+      "barang/Aset daerah tercatat dalam buku inventaris aset daerah"
+    ],
+    "answer": "barang milik daerah sudah masuk daftar lelang atau badan hukum lainnya dimiliki negara",
+    "penjelasan": "Aset yang dijadikan Penanaman Modal Pemerintah (PMP) harus tercatat di inventaris, diaudit jika dari eks proyek, dan diperuntukkan bagi BUMN/BUMD, bukan berarti harus masuk daftar lelang."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam proses rantai pasokan penanggulangan bencana, terdapat istilah rekonstruksi bencana, pengertiannya adalah ....",
+    "options": [
+      "program pembangunan kembali sarana dan prasarana pasca bencana, serta kelembagaan pada wilayah pasca bencana",
+      "serangkaian program kegiatan yang dilakukan dengan segera pada saat bencana",
+      "proses pasca bencana yang bertujuan memperbaiki dan memulihkan serta normalisasi semua aspek pelayanan publik, sampai tingkat yang memadai",
+      "proses yang berawal dari perencanaan, pengadaan, pengangkutan, pergudangan, distribusi, penerimaan ditujukan, dan pembuatan laporan"
+    ],
+    "answer": "program pembangunan kembali sarana dan prasarana pasca bencana, serta kelembagaan pada wilayah pasca bencana",
+    "penjelasan": "Rekonstruksi berfokus pada pembangunan kembali secara permanen seluruh prasarana, sarana, dan kelembagaan di wilayah pascagempa/bencana."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Inventarisasi kebutuhan penanggulangan bencana dihimpun dari ....\n1. laporan-laporan\n2. media masa\n3. lembaga terkait",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1 dan 3 benar.",
+    "penjelasan": "Data inventarisasi kebutuhan penanggulangan bencana yang valid dihimpun secara resmi dari laporan lapangan serta koordinasi dengan lembaga-lembaga terkait."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Otoritas penanggulangan bencana yang berfungsi dalam membuat perencanaan dan kesepakatan-kesepakatan misalnya mengenai kesepakatan dalam perencanaan bentuk dan substansi logistik serta kesepakatan dalam pengendalian, pergerakan, dan pendistribusian logistik dipegang oleh ....",
+    "options": [
+      "tingkat kabupaten dan atau kota",
+      "tingkat nasional dan provinsi",
+      "tingkat nasional",
+      "tingkat provinsi"
+    ],
+    "answer": "tingkat nasional dan provinsi",
+    "penjelasan": "Perencanaan strategis, substansi logistik makro, dan koordinasi lintas wilayah penundaan distribusi umumnya dipegang oleh otoritas tingkat nasional dan provinsi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pada tahap kesiapsiagaan dalam penanggulangan bencana standar bantuan logistik difungsikan sebagai ....",
+    "options": [
+      "buffer stock yaitu pemberian layanan kebutuhan dasar minimal pada saat siaga bencana",
+      "bantuan logistik agar korban bencana tidak rentan terhadap penyakit pada saat kondisi tanggap darurat",
+      "penguatan kembali korban bencana",
+      "pemberian layanan kebutuhan dasar minimal untuk kelangsungan kehidupan korban bencana pada saat di pengungsian"
+    ],
+    "answer": "buffer stock yaitu pemberian layanan kebutuhan dasar minimal pada saat siaga bencana",
+    "penjelasan": "Dalam tahap kesiapsiagaan, logistik dipersiapkan sebagai stok penyangga (buffer stock) untuk mengantisipasi kebutuhan darurat apabila terjadi bencana sewaktu-waktu."
+  },
+    {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pernyataan berikut ini menyangkut peran konsep manajemen aset dalam rangka pemberdayaan ekonomi daerah yang tercantum dalam enam langkah manajemen daerah, kecuali ....",
+    "options": [
+      "identifikasi potensi ekonomi daerah",
+      "pengembangan strategi pemerataan kota",
+      "optimalisasi pendapatan asli daerah",
+      "penilaian kekayaan"
+    ],
+    "answer": "pengembangan strategi pemerataan kota",
+    "penjelasan": "Kerangka kerja manajemen aset daerah berfokus pada identifikasi potensi, optimalisasi PAD, dan penilaian kekayaan untuk ekonomi, bukan pada strategi pemerataan kota."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Tujuan pengukuran kinerja manajemen aset secara menyeluruh dan terpadu, adalah ....\n1. agar dapat memenuhi tingkat kepuasan pelanggan dalam organisasi\n2. optimalisasi aset seluruh kekayaan dan aset yang dimiliki\n3. agar diperoleh informasi untuk pengambilan keputusan dalam rangka optimalisasi aset",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Pengukuran kinerja aset terpadu bertujuan untuk kepuasan pengguna, optimalisasi seluruh kekayaan, serta penyediaan data akurat bagi pengambil keputusan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Manakah pernyataan berikut ini menyangkut output manajemen logistik organisasi publik yang benar adalah ....",
+    "options": [
+      "keunggulan bersaing, berorientasi pada pemasaran efisiensi, dan keefektifan operasional",
+      "suatu proses yang dimulai perencanaan, implementasi, dan pengendalian dari seluruh proses kegiatan logistik yang dipergunakan untuk pelayanan kebutuhan masyarakat",
+      "aktivitas pengumpulan barang dari beberapa supplier",
+      "upaya organisasi dalam memenuhi kebutuhannya melalui perencanaan dan implementasi pengadaan barang"
+    ],
+    "answer": "suatu proses yang dimulai perencanaan, implementasi, dan pengendalian dari seluruh proses kegiatan logistik yang dipergunakan untuk pelayanan kebutuhan masyarakat",
+    "penjelasan": "Output dan orientasi utama logistik pada organisasi publik berfokus pada kelancaran pelayanan kebutuhan masyarakat secara efektif dan efisien."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Fungsi manajemen rantai pasokan atau supply chain management adalah ....\n1. merencanakan seluruh kegiatan rantai pasokan\n2. mengatur seluruh kegiatan rantai pasokan\n3. mengkoordinasikan kegiatan rantai pasokan",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Fungsi menyeluruh SCM mencakup perencanaan, pengaturan, dan koordinasi terpadu atas seluruh aktivitas yang ada dalam rantai pasokan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Berikut tata cara pengelolaan dan pengorganisasian Barang Milik Negara/Daerah (BMN/BMD) yang benar adalah ....",
+    "options": [
+      "Pengelolaan dan pengorganisasian Barang Milik Negara/Daerah (BMN/BMD) diarahkan guna mencapai tujuan organisasi politik partai tertentu",
+      "Menjadi tanggungjawab Kementerian Keuangan sebagai pengelola, sedangkan dalam pembinaan, pengawasan dan pengendalian BMN oleh Menteri Keuangan dan BMD oleh Menteri Dalam Negeri",
+      "Memudahkan pemakaian dan pemanfaatan BMN/BMD agar bebas dipergunakan",
+      "Mempermudah pembagian antara barang milik daerah atau pusat, serta mengatur BMN/BMD agar mudah penataan dan distribusi"
+    ],
+    "answer": "Menjadi tanggungjawab Kementerian Keuangan sebagai pengelola, sedangkan dalam pembinaan, pengawasan dan pengendalian BMN oleh Menteri Keuangan dan BMD oleh Menteri Dalam Negeri",
+    "penjelasan": "Sesuai ketentuan hukum keuangan negara, pengelolaan BMN/BMD memiliki pembagian wewenang yang jelas antara pengelola pusat (Kemenkeu) dan pembinaan teknis BMD (Kemendagri)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Berikut pernyataan dalam option yang menunjukkan pendekatan baru strategi pembelian, kecuali ....",
+    "options": [
+      "Harga dan kuantitas merupakan faktor penentu dalam pengambilan keputusan.",
+      "Perencanaan dan pencegahan digunakan untuk mengurangi kerusakan.",
+      "Zero defect dari pendekatan yang dilakukan",
+      "Lebih diutamakan barang yang dibeli dari satu sumber."
+    ],
+    "answer": "Harga dan kuantitas merupakan faktor penentu dalam pengambilan keputusan.",
+    "penjelasan": "Fokus pada harga dan kuantitas semata merupakan karakteristik pendekatan pembelian tradisional, sedangkan pendekatan modern menekankan kualitas total, kemitraan jangka panjang, dan pencegahan cacat (zero defect)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Berikut merupakan hasil dari penerapan Just in Time, kecuali ....",
+    "options": [
+      "menghindari pengulangan pekerjaan.",
+      "pemasok mengatur pengiriman termasuk pengurangan biaya",
+      "penyesuaian penyimpanan barang sesuai dengan ukuran gudang agar efisien.",
+      "pengurangan ketidakseragaman"
+    ],
+    "answer": "penyesuaian penyimpanan barang sesuai dengan ukuran gudang agar efisien.",
+    "penjelasan": "Sistem Just in Time (JIT) justru bertujuan meminimalkan atau meniadakan persediaan di gudang (zero inventory), bukan menyesuaikan penyimpanan agar pas dengan ukuran gudang."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Kebutuhan bahan baku perusahaan x relatif stabil, setiap tahun sebanyak 80.000 kg, biaya pesan setiap kali pemesanan sebesar Rp.2000 dan biaya pemeliharaan barang di gudang setiap kilogram selama setahun sebesar Rp. 6,40. Berapakah Economic Order Quantity perusahaan tersebut ....",
+    "options": [
+      "18.000",
+      "17.000",
+      "15.000",
+      "7.100"
+    ],
+    "answer": "7.100",
+    "penjelasan": "Dihitung dengan rumus EOQ = akar dari ((2 × D × S) / H) = akar dari ((2 × 80.000 × 2.000) / 6,40) = akar dari (320.000.000 / 6,40) = akar dari 50.000.000 ≈ 7.071 (dibulatkan menjadi 7.100)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Proses teknis pengadaan secara elektronik dapat dilakukan dengan cara ....",
+    "options": [
+      "memproses pembelian dan pengadaan barang.",
+      "melakukan proses persiapan, perencanaan, pelaksanaan, dan penyerahan hasil.",
+      "melakukan proses pada unit layanan pengadaan lembaga pemerintah dan pada perusahaan pemasok barang/jasa.",
+      "memproses setiap inputan dari permintaan barang dan proses pengeluaran barang."
+    ],
+    "answer": "melakukan proses persiapan, perencanaan, pelaksanaan, dan penyerahan hasil.",
+    "penjelasan": "Secara teknis, siklus pengadaan elektronik mencakup tahapan utuh mulai dari persiapan, perencanaan, pelaksanaan lelang/pengadaan, hingga serah terima hasil pekerjaan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Metoda pemilihan langsung kepada penyedia barang/jasa tanpa melalui pelelangan/seleksi/penunjukkan langsung adalah ....\n1. penyeleksian pelaksana pelelangan sifat terbatas\n2. penunjukkan langsung\n3. pengadaan langsung.",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 2 dan 3 benar.",
+    "penjelasan": "Metode pengadaan langsung dan penunjukan langsung merupakan metode pemilihan langsung kepada penyedia tanpa melalui mekanisme pelelangan umum atau seleksi terbuka yang panjang."
+  },
+    {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Inventarisasi terhadap barang milik negara/daerah dalam Peraturan Pemerintah No 6 tahun 2006 dapat memiliki arti yang sama, kecuali ....",
+    "options": [
+      "pembukuan",
+      "pendataan",
+      "pencatatan",
+      "pelaporan"
+    ],
+    "answer": "pelaporan",
+    "penjelasan": "Dalam konteks PP No. 6 Tahun 2006, inventarisasi berkaitan erat dengan kegiatan pendataan, pencatatan, dan pembukuan aset, sedangkan pelaporan merupakan tahap output tersendiri yang berbeda proses administratifnya."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Tujuan dari fungsi informasi yang harus dilaksanakan dalam inventaris asset khususnya pengelolaan Barang Milik Negara/Daerah (BMN/D) adalah ....\n1. menyediakan informasi tentang asset yang dikuasai departemen/kementerian untuk perencanaan kebutuhan, pengadaan dan pengelolaan perlengkapan.\n2. informasi yang bertujuan menyiapkan dan menyediakan bahan acuan untuk pengawasan asset negara.\n3. menyediakan informasi tentang asset yang dikuasai departemen/kementerian untuk menunjang perencanaan dan pelaksanaan tugas.",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Fungsi informasi dari inventarisasi aset mencakup penyediaan data untuk perencanaan pengadaan, bahan acuan pengawasan, serta penunjang pelaksanaan tugas instansi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Asset Barang Milik Negara/Daerah berupa tanah adat termasuk dalam asset ....\n1. sumber-sumber atau perolehan yang sah\n2. diperoleh dari hasil ketetapan pengadilan yang telah memperoleh kekuatan hukum tetap.\n3. sumber-sumber atau perolehan berdasarkan undang-undang",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1 dan 3 benar.",
+    "penjelasan": "Tanah adat atau ulayat yang dikuasai negara/daerah dikategorikan sebagai perolehan yang sah berdasarkan sumber hukum dan perundang-undangan yang berlaku."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Tahap yang paling awal dalam proses inventarisasi aset adalah ....",
+    "options": [
+      "mendokumentasikan hasil kodefikasi",
+      "menyediakan informasi sistem",
+      "melakukan kodefikasi",
+      "mengidentifikasi asset secara fisik"
+    ],
+    "answer": "mengidentifikasi asset secara fisik",
+    "penjelasan": "Langkah awal dan mendasar dalam pelaksanaan inventarisasi aset adalah melakukan pengecekan serta identifikasi wujud fisik aset di lapangan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Seringnya terjadi sengketa berkaitan dengan wilayah/kepemilikan suatu aset disebabkan aspek ....",
+    "options": [
+      "sosial budaya di mana batas-batas sosial dan budaya antar daerah belum disepakati",
+      "hukum yang belum jelas mengikat dalam aset tersebut menyangkut kepemilikan, dan batas-batas wilayah",
+      "politik, adanya kepentingan terhadap aset tersebut",
+      "ekonomi, nilai ekonomis dalam aset tersebut semakin meningkat"
+    ],
+    "answer": "hukum yang belum jelas mengikat dalam aset tersebut menyangkut kepemilikan, dan batas-batas wilayah",
+    "penjelasan": "Sengketa wilayah atau kepemilikan aset umumnya berakar dari kelemahan atau ketidakjelasan aspek legalitas dan kepastian hukum yang mengikat."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Surat tanda bukti untuk sebidang tanah yang bukan merupakan hak kepemilikan tanah adalah merupakan tanda bukti ....",
+    "options": [
+      "kepemilikan yang sah, selain Sertifikat Hak Milik",
+      "kepemilikan sementara sebidang tanah",
+      "kepemilikan dari kelurahan",
+      "pembayaran pajak tanah"
+    ],
+    "answer": "kepemilikan sementara sebidang tanah",
+    "penjelasan": "Bukti pemanfaatan atas tanah yang belum berstatus hak milik penuh berfungsi sebagai tanda bukti penguasaan atau kepemilikan sementara."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Berikut adalah pengertian sertifikat menurut Peraturan Pemerintah No. 24 Tahun 1997 Pasal 32, kecuali ....",
+    "options": [
+      "merupakan surat tanda bukti hak yang berlaku sebagai alat pembuktian yang kuat",
+      "sebagai alat pembuktian yang kuat mengenai data fisik dan data yuridis yang termuat didalamnya",
+      "dapat dibatalkan hanya melalui proses hukum",
+      "belum mewakili bukti fisik kepemilikan karena bukan barang yang sebenarnya"
+    ],
+    "answer": "belum mewakili bukti fisik kepemilikan karena bukan barang yang sebenarnya",
+    "penjelasan": "Sertifikat tanah sah di mata hukum sebagai alat bukti kuat yang memuat data fisik dan yuridis, sehingga opsi D merupakan pernyataan yang salah/keliru."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Legal audit merupakan suatu proses untuk mendapatkan kejelasan dan menyeluruh didukung dengan bukti-bukti mengenai ....",
+    "options": [
+      "status kepemilikan, sistem dan prosedur penguasaan atau kepemilikan",
+      "penggunaan atau pemanfaatan",
+      "pengalihan aset dengan mengidentifikasi kemungkinan terjadinya permasalahan hukum dan mencari solusi atas permasalahan hukum",
+      "pajak yang dibayarkan"
+    ],
+    "answer": "status kepemilikan, sistem dan prosedur penguasaan atau kepemilikan",
+    "penjelasan": "Fokus utama dalam audit hukum (legal audit) aset adalah memeriksa keabsahan status kepemilikan serta prosedur penguasaan aset secara yuridis."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pernyataan yang tidak termasuk proses legal audit aset mencakup audit tentang ....\n1. status kepemilikan (prasarana dan sarana) dan inventarisasi status penguasaan aset\n2. sistem pemberian status, kelas, atau golongan perusahaan\n3. sistem dan prosedural penghapusan dan pengalihan aset",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 2 dan 3 benar.",
+    "penjelasan": "Legal audit aset pada dasarnya berfokus pada pemeriksaan status kepemilikan serta inventarisasi status penguasaan aset (pernyataan 1), sehingga poin 2 dan 3 dikecualikan dari cakupan inti legal audit kepemilikan aset."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Independensi penilai dalam melakukan penilaian tidak boleh terkait dengan ....\n1. Pejabat lelang\n2. Pejabat penjual\n3. Memiliki kepentingan terhadap objek yang dinilai",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Untuk menjamin objektivitas dan menghindari benturan kepentingan (conflict of interest), penilai independen tidak boleh memiliki keterkaitan dengan pejabat lelang, pejabat penjual, maupun kepentingan langsung atas objek yang dinilai."
+  },
+
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Proses pendekatan tradisional dalam melakukan penilaian asset, yang mempertimbangkan pendapatan dan biaya yang berhubungan dengan objek penilaian dan mengestimasi nilai melalui proses kapitalisasi adalah pendekatan ....",
+    "options": [
+      "kalkulasi biaya",
+      "kapitalisasi pendapatan",
+      "perbandingan data pasar",
+      "nilai"
+    ],
+    "answer": "kapitalisasi pendapatan",
+    "penjelasan": "Pendekatan tradisional yang mengandalkan pendapatan, biaya, dan proses kapitalisasi dikenal sebagai pendekatan kapitalisasi pendapatan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Proses penilaian asset HBU (Highest and Best Use) merupakan ....",
+    "options": [
+      "analisis terhadap kegunaan terbaik dan tertinggi dari suatu bidang tanah kosong/tanah yang sudah dikembangkan",
+      "tidak termasuk aspek kelayakan fisik dan legal",
+      "analisis terhadap permintaan kegunaan yang paling sering digunakan dari suatu bidang tanah kosong/tanah yang sudah dikembangkan",
+      "indentifikasi masalah, pengumpulan & analisis pendahuluan, analisis persaingan, HBU analisis, aplikasi pendekatan penilaian, rekonsiliasi indikasi nilai & estimasi nilai akhir, dan penyusunan laporan"
+    ],
+    "answer": "analisis terhadap kegunaan terbaik dan tertinggi dari suatu bidang tanah kosong/tanah yang sudah dikembangkan",
+    "penjelasan": "HBU (Highest and Best Use) secara mendasar adalah analisis untuk menentukan penggunaan properti yang secara fisik dimungkinkan, secara hukum diizinkan, secara finansial layak, dan menghasilkan nilai tertinggi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Menurut pasal 52 Permendagri No.17 tahun 2007 kriteria penilaian asset barang milik daerah adalah ....",
+    "options": [
+      "bangunan yang merupakan aset pemda yang telah diserahkan ke pemakai/pengguna",
+      "nilai jual kembali tanah dengan menggunakan harga negosiasi",
+      "kendaraan dan mesin menggunakan faktor fisik, umur ekonomis, merek, jenis, tipe, tahun pembuatan, spesifikasi teknis, dan harga pasar",
+      "berdasarkan akte dan nilai jual kembali"
+    ],
+    "answer": "kendaraan dan mesin menggunakan faktor fisik, umur ekonomis, merek, jenis, tipe, tahun pembuatan, spesifikasi teknis, dan harga pasar",
+    "penjelasan": "Penilaian aset berupa kendaraan dan mesin didasarkan pada spesifikasi teknis, fisik, dan pasar sesuai ketentuan regulasi tersebut."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Suatu lahan seluas 3 HA, dengan harga lahan tersebut adalah 2.000.000/m2, luas bangunan adalah 1.920 m2, dengan harga bangunan Rp.20.000.000,- per m2; sedangkan umur ekonomis adalah 50 tahun, penyusutan gedung telah dilakukan selama 4 th. Hasil perhitungan nilai properti, dengan pendekatan perbandingan pasar adalah ....",
+    "options": [
+      "Rp. 80.000.500.000,-",
+      "Rp. 85.678.900.000,-",
+      "Rp. 100.934.000.000,-",
+      "Rp. 101.328.000.000,-"
+    ],
+    "answer": "Rp. 101.328.000.000,-",
+    "penjelasan": "Nilai tanah (30.000 m2 x Rp 2.000.000 = Rp 60.000.000.000) ditambah nilai bangunan setelah penyusutan 4 tahun menghasilkan total nilai properti sesuai opsi D."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "JIka nilai suatu property dengan pendekatan kalkulasi biaya adalah sebesar 50.928.000.000, dengan harga lahan tersebut adalah 1.200.000/m2, luas bangunan adalah 1.920 m2, dimana harga bangunan Rp. 20.000.000,- per m2; sedangkan umur ekonomis adalah 50 tahun, penyusutan gedung telah dilakukan selama 4 th. Berapa luas lahan dengan metode pendekatan kalkulasi biaya adalah ....",
+    "options": [
+      "6.585 m2",
+      "12.567 m2",
+      "13.000 m2",
+      "17.800 m2"
+    ],
+    "answer": "13.000 m2",
+    "penjelasan": "Total nilai properti (50.928.000.000) dikurangi nilai bangunan bersih setelah penyusutan (35.328.000.000) menghasilkan nilai tanah 15.600.000.000, lalu dibagi harga tanah per m2 (1.200.000) menjadi 13.000 m2."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam melakukan investasi usaha seorang investor harus mempertimbangkan hal berikut, kecuali ....",
+    "options": [
+      "lama waktu kembalinya investasi",
+      "tingkat keuntungan yang diperoleh",
+      "resiko usaha",
+      "bentuk usaha"
+    ],
+    "answer": "bentuk usaha",
+    "penjelasan": "Faktor utama yang dianalisis secara finansial dan strategis oleh investor adalah profitabilitas, risiko, dan payback period, sedangkan bentuk badan usaha bersifat administratif sekunder."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Quality Function Deployment (QFD) dirancang melalui tahapan berikut ....\n1. hubungan permintaan, prioritas dan penilaian pelanggan\n2. menggambarkan hubungan antara Whats (apa) dan Whys (bagaimana)\n3. mencatat hubungan antara permintaan pelanggan dengan permintaan desain",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Ketiga pernyataan tersebut mencakup esensi tahapan dan matriks dalam metode Quality Function Deployment (QFD)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Bentuk optimasi pengoperasian asset dalam industri kreatif berbasis memusat pada asset ....",
+    "options": [
+      "operasional",
+      "kreasi terbarukan",
+      "idle",
+      "infrastruktur"
+    ],
+    "answer": "idle",
+    "penjelasan": "Optimalisasi aset dalam industri kreatif berfokus pada pemanfaatan aset yang menganggur (idle assets) agar memiliki nilai produktif."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam melakukan optimalisasi aset, syarat yang harus dipertahankan adalah ....",
+    "options": [
+      "aset digunakan sesuai aturan yang berlaku",
+      "lebih menguntungkan jika dilakukan sewa aset",
+      "tidak mengubah status kepemilikan",
+      "harus adanya kerjasama pemanfaatan aset"
+    ],
+    "answer": "tidak mengubah status kepemilikan",
+    "penjelasan": "Prinsip utama dalam optimalisasi aset (seperti pemanfaatan tanpa pemindahan hak) adalah mempertahankan status kepemilikan asal aset tersebut."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Bentuk kerjasama pemanfaatan barang milik negara atau daerah dilaksanakan dalam rangka mengoptimalkan daya guna barang/asset dan meningkatkan penerimaan atau pendapatan daerah diantaranya adalah kerjasama ....\n1. pelayanan\n2. pengelolaan dan kerjasama bagi hasil\n3. produksi",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 2 dan 3 benar.",
+    "penjelasan": "Bentuk kerjasama pemanfaatan BMN/BMD yang umum meliputi pengelolaan, kerjasama bagi hasil, dan produksi (pernyataan 1 tidak termasuk bentuk baku KSP utama dalam konteks ini)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Bangunan Guna Serah (BGS) adalah bentuk kerjasama oleh pihak ketiga dengan pemerintah dimana dalam BGS ....",
+    "options": [
+      "pihak ketiga bertanggungjawab membangun dan menyerahkan kembali setelah pembangunan selesai, kemudian dioperasikan kembali oleh pihak ke tiga sesuai dengan waktu tertentu sesuai kesepakatan sebelumnya.",
+      "bentuk kerjasama pihak ketiga bertanggung jawab dalam pengoperasian dan pemeliharaan dalam waktu tertentu sesuai kesepakatan.",
+      "bentuk kerjasama pihak ketiga bertanggungjawab membangun, dan menyiapkan sarana/prasarana kemudian dimanfaatkan oleh pihak ketiga sampai pada kesepakatan yang telah ditetapkan kemudian diserahkan ke pemerintah",
+      "bentuk kerjasama pihak ketiga bertanggungjawab membangun, tidak menyiapkan sarana/prasarana kemudian diserahkan ke pemerintah"
+    ],
+    "answer": "bentuk kerjasama pihak ketiga bertanggungjawab membangun, dan menyiapkan sarana/prasarana kemudian dimanfaatkan oleh pihak ketiga sampai pada kesepakatan yang telah ditetapkan kemudian diserahkan ke pemerintah",
+    "penjelasan": "Definisi BGS (Build, Operate, and Transfer) adalah pihak ketiga membangun fasilitas lalu mengelolanya dalam jangka waktu tertentu sebelum diserahkan kembali kepada pemerintah."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Faktor penting dalam pengukuran kinerja pengelolaan aset organisasi untuk menilai kondisi fisik aset meliputi manajemen ....\n1. pemeliharaan aset\n2. sumber daya aset\n3. pemanfaatan aset",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1 dan 2 benar.",
+    "penjelasan": "Penilaian kondisi fisik aset secara langsung berkaitan erat dengan manajemen pemeliharaan serta pengelolaan sumber daya aset yang tersedia."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Karakteristik \"pemeliharaan untuk peningkatan\" aset adalah dengan cara melakukan ....\n1. pemeliharaan perbaikan\n2. melakukan penggantian suku cadang\n3. modifikasi suku cadang",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Peningkatan (improvement) aset melibatkan perbaikan, penggantian, hingga modifikasi komponen/suku cadang untuk menaikkan performa."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Menurut John D. Champbell, Andrew K.S.Jardin dan Joel McGlynn (2011) menyatakan ukuran dalam manajemen pemeliharaan berikut, kecuali pada ....",
+    "options": [
+      "pemeliharaan, waktu berhenti maksimum",
+      "operasi, hasil maksimum dan waktu berhenti minimum",
+      "keuangan, nilai persediaan yang minimum, minimalisasi biaya",
+      "teknik, keandalan maksimum"
+    ],
+    "answer": "pemeliharaan, waktu berhenti maksimum",
+    "penjelasan": "Dalam manajemen pemeliharaan, tujuan utamanya adalah meminimalkan (minimum) waktu berhenti (downtime), bukan memaksimumkannya."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Tujuan penggantian atau peremajaan aset adalah pembaharuan aset lama dengan aset yang baru dengan maksud ....",
+    "options": [
+      "mengatasi kerusakan fisik yang fatal dan permanen dan biaya penggantian yang optimal",
+      "mengoptimalkan kemampuan aset yang ada dan memperbesar kapasitas aset",
+      "perubahan teknologi agar lebih efisien",
+      "menghindarkan kerusakan fisik, ketinggalan zaman, dan biaya penggantian yang rendah"
+    ],
+    "answer": "mengoptimalkan kemampuan aset yang ada dan memperbesar kapasitas aset",
+    "penjelasan": "Peremajaan atau penggantian bertujuan meningkatkan kapasitas serta mengoptimalkan performa operasional aset."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Untuk mencapai pemeliharaan yang efektif dan efisien perlu diperhatikan aspek-aspek yang meliputi ....",
+    "options": [
+      "prinsip pelayanan, perencanaan dan pengendalian, tenaga teknisi ahli, suku cadang, sistem informasi pemeliharaan, dan komitmen",
+      "filosofi pemeliharaan, perencanaan tahap-tahap pemeliharaan, identifikasi tahap, penyusunan, dan aplikasinya",
+      "perencanaan, identifikasi, penyusunan, aplikasi",
+      "filosofi dan prinsip pemeliharaan, perkiraan beban pemeliharaan, menghitung kapasitas pemeliharaan, manajemen proyek pemeliharaan dan penjadwalannya"
+    ],
+    "answer": "prinsip pelayanan, perencanaan dan pengendalian, tenaga teknisi ahli, suku cadang, sistem informasi pemeliharaan, dan komitmen",
+    "penjelasan": "Aspek komprehensif pemeliharaan efektif mencakup unsur pelayanan, teknisi, suku cadang, sistem, hingga komitmen organisasi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Berikut pernyataan yang benar menyangkut pemeliharaan yang efektif dan efisien, adalah ....",
+    "options": [
+      "prinsip pelayanan merupakan kegiatan dasar dari organisasi pemeliharaan yang efektif",
+      "kebijakan dalam memenuhi semua permintaan konsumen baru melakukan pemeliharaan",
+      "prinsip pemeliharaan yang melibatkan tenaga-tenaga dari luar organisasi",
+      "kebijakan penjadwal pemeliharaan rutin yang mesti disampaikan ke pelanggan, perlunya penyesuaian konsumen dalam memenuhi keperluannya"
+    ],
+    "answer": "prinsip pelayanan merupakan kegiatan dasar dari organisasi pemeliharaan yang efektif",
+    "penjelasan": "Orientasi pelayanan menjadi fondasi utama dalam mengukur efektivitas organisasi pemeliharaan aset."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pertimbangan yang mesti di perhatikan dalam penghapusan barang/aset bergerak adalah pertimbangan ....\n1. teknis dan pertimbangan ekonomis\n2. hilang dan atau kekurangan\n3. sistem operasi",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1 dan 2 benar.",
+    "penjelasan": "Pertimbangan teknis, ekonomis, serta kondisi aset hilang/kurang merupakan dasar hukum penghapusan barang bergerak milik negara/daerah."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Penghapusan barang milik daerah yang masih mempunyai nilai ekonomis dapat dilakukan dengan cara ....",
+    "options": [
+      "penjualan, pelelangan, disumbangkan/dihibahkan, dan dihancurkan",
+      "penjualan, pengadaan, pelelangan, disumbangkan/dihibahkan, dan dihancurkan",
+      "penjualan, pelelangan, disumbangkan/dihibahkan, dan guna susun",
+      "penjualan, pelelangan, disumbangkan/dihibahkan, dan guna serah"
+    ],
+    "answer": "penjualan, pelelangan, disumbangkan/dihibahkan, dan dihancurkan",
+    "penjelasan": "Mekanisme pemindahtanganan/penghapusan aset bernilai ekonomis meliputi penjualan, lelang, hibah, atau pemusnahan jika diperlukan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Fungsi pelayanan instansi pemerintah dalam pemindahan aset dapat direalisasikan melalui ....\n1. kerjasama pemanfaatan fungsi anggaran\n2. pengalihan status penggunaan\n3. upaya kebutuhan organisasi sesuai dengan tugas pokok dan fungsinya",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 2 dan 3 benar.",
+    "penjelasan": "Pemindahan/penataan aset antar instansi diwujudkan melalui pengalihan status penggunaan guna mendukung tupoksi instansi pemerintah."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pengertian penyertaan modal pemerintah daerah atas barang milik daerah adalah ....",
+    "options": [
+      "tanah atau bangunan daerah yang dari awal pengadaannya tidak direncanakan untuk penyertaan sebagai modal pemerintah",
+      "kekayaan yang merupakan penyertaan modal pada suatu badan usaha milik negara/daerah atau badan hukum lainnya",
+      "semua barang yang disertakan tidak dikelola oleh badan usaha milik daerah atau badan hukum lainnya, tetapi badan usaha baru",
+      "semua modal yang dipakai untuk pembelian asset, tanah dan bangunan yang tidak tercantum dalam dokumen penganggaran tetapi dari awal pengadaannya sudah direncanakan untuk modal pemerintah"
+    ],
+    "answer": "tanah atau bangunan daerah yang dari awal pengadaannya tidak direncanakan untuk penyertaan sebagai modal pemerintah",
+    "penjelasan": "Sesuai peraturan pengelolaan BMD/BMN, penyertaan modal pemerintah daerah atas barang milik daerah dilakukan terhadap tanah dan/atau bangunan (serta barang selain tanah/bangunan) yang dari awal pengadaannya tidak direncanakan untuk penyertaan modal pemerintah daerah (karena yang dari awal direncanakan masuk ke belanja modal/penyertaan langsung)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Proses mengatasi dampak dalam rantai pasokan penanggulangan bencana, terdapat istilah resiko bencana, maksudnya adalah ....",
+    "options": [
+      "menjalankan program meminimalisasi resiko bencana dengan segera dan pembangunan kembali sarana dan prasarana pasca bencana",
+      "potensi kerugian yang ditimbulkan akibat bencana pada suatu wilayah dalam kurun waktu tertentu",
+      "serangkaian program kegiatan yang dilakukan dengan segera pada saat bencana",
+      "proses pasca bencana yang bertujuan memperbaiki dan memulihkan serta normalisasi semua aspek pelayanan publik, sampai tingkat yang memadai"
+    ],
+    "answer": "potensi kerugian yang ditimbulkan akibat bencana pada suatu wilayah dalam kurun waktu tertentu",
+    "penjelasan": "Sesuai UU No. 24 Tahun 2007 tentang Penanggulangan Bencana, risiko bencana didefinisikan sebagai potensi kerugian yang ditimbulkan akibat bencana pada suatu wilayah dan kurun waktu tertentu (dapat berupa kematian, luka, sakit, jiwa terancam, hilangnya rasa aman, mengungsi, kerusakan atau kehilangan harta, dan gangguan kegiatan masyarakat)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Tujuan penyimpanan dan pergudangan dalam penanggulangan bencana adalah ....\n1. melindungi logistik dan peralatan dari kerusakan dan kehilangan, atau berkurangnya standar mutu\n2. memudahkan pendistribusian dengan menggunakan sistem First in First Out\n3. mengetahui dan menjamin ketersediaan pada setiap waktu",
+    "options": [
+      "Jika pernyataan 1 dan 2 benar.",
+      "Jika pernyataan 1 dan 3 benar.",
+      "Jika pernyataan 2 dan 3 benar.",
+      "Jika pernyataan 1, 2, dan 3 benar."
+    ],
+    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
+    "penjelasan": "Menurut Perka BNPB tentang Pedoman Manajemen Logistik dan Peralatan Penanggulangan Bencana, ketiga poin tersebut merupakan tujuan utama dari proses penyimpanan dan pergudangan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Otoritas penanggulangan bencana yang berfungsi dalam mengelola dan mengkoordinasikan seluruh aktivitas manajemen logistik dan peralatan, terutama pada masa siaga darurat, tanggap darurat, dan pemulihan darurat penanggulangan, kewenangannya dipegang oleh ....",
+    "options": [
+      "tingkat kabupaten dan kota",
+      "tingkat nasional dan provinsi",
+      "tingkat nasional",
+      "tingkat provinsi"
+    ],
+    "answer": "tingkat nasional dan provinsi",
+    "penjelasan": "Dalam struktur sistem manajemen logistik dan peralatan penanggulangan bencana (BNPB/BPBD), otoritas pengelolaan dan pengoordinasian strategis berada pada tingkat nasional dan tingkat provinsi (yang selanjutnya didukung pelaksanaannya di tingkat kabupaten/kota)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pada tahap tanggap darurat dalam penanggulangan bencana, standar bantuan logistik difungsikan sebagai ....",
+    "options": [
+      "buffer stock yaitu pemberian layanan kebutuhan dasar minimal untuk korban bencana pada saat kondisi tanggap darurat",
+      "bantuan logistik agar korban bencana tidak rentan terhadap penyakit pada saat kondisi tanggap darurat",
+      "penguatan kembali korban bencana",
+      "pemberian layanan kebutuhan dasar minimal untuk kelangsungan kehidupan korban bencana pada saat di pengungsian"
+    ],
+    "answer": "buffer stock yaitu pemberian layanan kebutuhan dasar minimal untuk korban bencana pada saat kondisi tanggap darurat",
+    "penjelasan": "Dalam pedoman standar bantuan logistik penanggulangan bencana, bantuan logistik pada masa tanggap darurat berfungsi sebagai buffer stock (stok penyangga) guna memenuhi kebutuhan dasar minimal para korban bencana."
   }
 ]
+

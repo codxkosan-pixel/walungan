@@ -16,6 +16,7 @@ const questionCounter = document.getElementById("question-counter");
 const progressLabel = document.getElementById("progress-label");
 const progressBar = document.getElementById("progress-bar");
 const questionText = document.getElementById("question-text");
+const questionImage = document.getElementById("question-image");
 const optionsContainer = document.getElementById("options-container");
 const feedback = document.getElementById("feedback");
 
@@ -23,6 +24,14 @@ const previousButton = document.getElementById("previous-button");
 const nextButton = document.getElementById("next-button");
 const endQuizButton = document.getElementById("end-quiz-button");
 const restartButton = document.getElementById("restart-button");
+
+const toggleQuestionNavigation = document.getElementById(
+  "toggle-question-navigation"
+);
+
+const questionNavigation = document.getElementById(
+  "question-navigation"
+);
 
 let questions = [];
 let currentIndex = 0;
@@ -218,6 +227,38 @@ function renderQuestion() {
 
   const question = questions[currentIndex];
 
+
+questionNavigation.innerHTML = "";
+
+questions.forEach((questionItem, index) => {
+  const button = document.createElement("button");
+
+  button.type = "button";
+  button.className = "question-number";
+  button.textContent = index + 1;
+
+  // Tandai soal yang sudah dijawab
+  if (answers[index] !== null) {
+    button.classList.add("answered");
+  }
+
+  // Tandai soal yang sedang dibuka
+  if (index === currentIndex) {
+    button.classList.add("current");
+    button.setAttribute("aria-current", "step");
+  }
+
+  button.setAttribute("aria-label", `Buka soal ${index + 1}`);
+
+  // Nomor soal tetap bisa diklik dalam mode review
+  button.addEventListener("click", () => {
+    currentIndex = index;
+    renderQuestion();
+  });
+
+  questionNavigation.appendChild(button);
+});
+
   questionCounter.textContent =
     `Soal ${currentIndex + 1} dari ${questions.length}`;
 
@@ -230,8 +271,29 @@ function renderQuestion() {
   progressBar.style.width =
     `${((currentIndex + 1) / questions.length) * 100}%`;
 
-  questionText.textContent = question.question;
-  optionsContainer.replaceChildren();
+ questionText.textContent = question.question;
+
+// Reset gambar setiap kali berpindah soal
+questionImage.classList.add("hidden");
+questionImage.removeAttribute("src");
+
+if (question.image_url) {
+  questionImage.onload = () => {
+    questionImage.classList.remove("hidden");
+  };
+
+  questionImage.onerror = () => {
+    questionImage.classList.add("hidden");
+    console.error(
+      "Gambar soal gagal dimuat:",
+      question.image_url
+    );
+  };
+
+  questionImage.src = question.image_url;
+}
+
+optionsContainer.replaceChildren();
 
   question.options.forEach((option, index) => {
     const button = document.createElement("button");
@@ -405,8 +467,26 @@ function showResults() {
         answers[index] === question.answer ? "✓ Benar" : "✕ Salah";
     }
 
-    const questionParagraph = document.createElement("p");
-    questionParagraph.textContent = question.question;
+  const questionParagraph = document.createElement("p");
+questionParagraph.textContent = question.question;
+
+// Tampilkan gambar pendukung soal jika tersedia
+let questionImage = null;
+
+if (question.image_url) {
+  questionImage = document.createElement("img");
+  questionImage.src = question.image_url;
+  questionImage.alt = `Gambar pendukung soal ${index + 1}`;
+  questionImage.className = "question-image";
+
+  questionImage.onerror = () => {
+    questionImage.remove();
+    console.error(
+      `Gambar soal ${index + 1} gagal dimuat:`,
+      question.image_url
+    );
+  };
+}
 
     const userAnswer = document.createElement("p");
     userAnswer.textContent =
@@ -420,14 +500,21 @@ function showResults() {
     explanation.textContent =
       `Pembahasan: ${question.penjelasan || "Belum tersedia."}`;
 
-    item.append(
-      title,
-      status,
-      questionParagraph,
-      userAnswer,
-      answerParagraph,
-      explanation
-    );
+item.append(
+  title,
+  status,
+  questionParagraph
+);
+
+if (questionImage) {
+  item.appendChild(questionImage);
+}
+
+item.append(
+  userAnswer,
+  answerParagraph,
+  explanation
+);
 
     review.appendChild(item);
   });
@@ -480,6 +567,23 @@ homeButtonReview.addEventListener("click", returnToHome);
 startButton.addEventListener("click", startQuiz);
 previousButton.addEventListener("click", goPrevious);
 nextButton.addEventListener("click", goNext);
+
+
+toggleQuestionNavigation.addEventListener("click", () => {
+  const isCollapsed =
+    questionNavigation.classList.toggle("collapsed");
+
+  toggleQuestionNavigation.textContent = isCollapsed
+    ? "Tampilkan Nomor Soal ▼"
+    : "Sembunyikan Nomor Soal ▲";
+
+  toggleQuestionNavigation.setAttribute(
+    "aria-expanded",
+    String(!isCollapsed)
+  );
+});
+
+
 endQuizButton.addEventListener("click", () => {
   if (isReviewMode) {
     // Keluar dari review dan kembali ke halaman hasil

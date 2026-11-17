@@ -48,7 +48,28 @@
         <div id="progress-bar" class="progress-bar"></div>
       </div>
 
-      <h3 id="question-text" class="question-text"></h3>
+<button
+  type="button"
+  id="toggle-question-navigation"
+  class="toggle-question-navigation"
+  aria-expanded="false"
+  aria-controls="question-navigation">
+  Tampilkan Nomor Soal ▼
+</button>
+
+<div
+  id="question-navigation"
+  class="question-number-grid collapsed"
+  aria-label="Navigasi nomor soal">
+</div>
+
+<h3 id="question-text" class="question-text"></h3>
+
+<img
+  id="question-image"
+  class="question-image hidden"
+  alt="Gambar pendukung soal"
+>
 
       <div id="options-container" class="options-list"></div>
 

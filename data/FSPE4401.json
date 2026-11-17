@@ -1,34 +1,21 @@
 
 [
   {
-    "kode_soal": "FSPE4401-001",
-    "kategori": "FSPE4401",
-    "question": "Dalam pandangan Heymans, tuntutan kenikmatan, kegunaan, dan keindahan dapat dipenuhi ....",
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Apa makna asli dari kata ethos dalam bahasa Yunani?",
     "options": [
-      "hanya jika tidak bertentangan dengan norma etika",
-      "tanpa mempertimbangkan norma etika",
-      "sebagai prioritas utama dalam kehidupan manusia",
-      "mengabaikan kewajiban untuk berbuat baik"
+      "peraturan hidup manusia",
+      "cara hidup beradab",
+      "norma sosial dalam masyarakat",
+      "pagar yang membatasi gerak"
     ],
-    "answer": "hanya jika tidak bertentangan dengan norma etika",
-    "penjelasan": "Menurut kunci yang digunakan untuk contoh ini, tuntutan kenikmatan, kegunaan, dan keindahan dapat dipenuhi selama tidak bertentangan dengan norma etika."
+    "answer": "cara hidup beradab",
+    "penjelasan": "Secara etimologis dalam bahasa Yunani, kata ethos merujuk pada kebiasaan, adat istiadat, tempat tinggal, serta cara hidup yang beradab/baik."
   },
   {
-    "kode_soal": "FSPE4401-002",
-    "kategori": "FSPE4401",
-    "question": "Seorang pejabat publik yang bertindak sesuai dengan etika pemerintahan namun mengabaikan etika jabatan sebagai pegawai negeri berisiko ....",
-    "options": [
-      "dikenakan sanksi administratif ringan",
-      "menunjukkan ketidakpahaman terhadap kedudukan etika jabatan",
-      "mendapat pujian atas loyalitas kepada pemerintah",
-      "tetap dianggap melaksanakan tugas dengan baik"
-    ],
-    "answer": "menunjukkan ketidakpahaman terhadap kedudukan etika jabatan",
-    "penjelasan": "Menurut kunci yang digunakan untuk contoh ini, mengabaikan etika jabatan menunjukkan bahwa pejabat belum memahami kedudukan dan kewajiban etika yang melekat pada jabatannya."
-  },
-  {
-    "kode_soal": "FSPE4401-003",
-    "kategori": "FSPE4401",
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
     "question": "Aliran kuat yang memandang bahwa hidup susila yang baik adalah kehidupan menurut hukum alam. Pernyataan tersebut merupakan etika ....",
     "options": [
       "formalistik",
@@ -37,32 +24,1758 @@
       "naturalistik"
     ],
     "answer": "naturalistik",
-    "penjelasan": "Menurut kunci yang digunakan untuk contoh ini, etika naturalistik mengaitkan kehidupan susila yang baik dengan kehidupan yang sesuai dengan hukum alam."
+    "penjelasan": "Etika naturalistik (naturalisme) berpandangan bahwa kebaikan moral dan perilaku susila manusia bersumber serta selaras dengan hukum alam dan kodrat alami manusia."
   },
   {
-    "kode_soal": "FSPE4401-004",
-    "kategori": "FSPE4401",
-    "question": "Hal yang harus dimiliki oleh organisasi untuk meningkatkan kemampuannya dalam menghadapi persaingan adalah ....\n1) pemahaman atau pengenalan yang tepat tentang berbagai instrumen yang dapat digunakan\n2) prediksi kondisi eksternal yang berada di luar jangkauan dan kemampuan organisasi untuk mengendalikannya\n3) perhitungan secara akurat berbagai faktor yang mempengaruhi pilihan akhir dari strategi yang dilaksanakan",
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Apa yang menjadi inti dari pandangan etika terhadap manusia sebagai individu dalam kaitannya dengan filsafat antropologi?",
     "options": [
-      "Jika pernyataan 1 dan 2 benar.",
-      "Jika pernyataan 1 dan 3 benar.",
-      "Jika pernyataan 2 dan 3 benar.",
-      "Jika pernyataan 1, 2, dan 3 benar."
+      "manusia dipandang hanya sebagai makhluk biologis",
+      "manusia dilihat sebagai bagian dari sistem hukum masyarakat",
+      "manusia dipandang sebagai kesatuan utuh antara badan, roh, dan jiwa",
+      "manusia harus mematuhi semua aturan sosial demi keharmonisan"
     ],
-    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
-    "penjelasan": "Menurut kunci yang digunakan untuk contoh ini, ketiga pernyataan dianggap benar karena pemahaman instrumen, prediksi kondisi eksternal, dan perhitungan faktor strategi membantu organisasi menghadapi persaingan."
+    "answer": "manusia dipandang sebagai kesatuan utuh antara badan, roh, dan jiwa",
+    "penjelasan": "Filsafat antropologi melihat manusia secara menyeluruh (holistik) sebagai individu yang memiliki dimensi jasmani (badan), roh, dan jiwa yang tidak terpisahkan."
   },
   {
-    "kode_soal": "FSPE4401-005",
-    "kategori": "FSPE4401",
-    "question": "Kebijakan yang bisa dilakukan untuk meningkatkan efisiensi kerja dan konsolidasi antara lain adalah ....\n1) melakukan reorganisasi\n2) membubarkan salah satu unit organisasi\n3) mengurangi berbagai kegiatan organisasi",
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "\"Overheid\" dalam konteks pemerintahan Belanda diartikan sebagai ....",
     "options": [
-      "Jika pernyataan 1 dan 2 benar.",
-      "Jika pernyataan 1 dan 3 benar.",
-      "Jika pernyataan 2 dan 3 benar.",
-      "Jika pernyataan 1, 2, dan 3 benar."
+      "lembaga yang bertugas membuat peraturan perundang-undangan",
+      "badan yang diberi wewenang untuk menyelenggarakan kekuasaan berdasarkan hukum",
+      "pemerintahan daerah yang mengatur urusan lokal",
+      "organisasi yang mengelola kebijakan sosial dan budaya"
     ],
-    "answer": "Jika pernyataan 1, 2, dan 3 benar.",
-    "penjelasan": "Menurut kunci yang digunakan untuk contoh ini, reorganisasi, pembubaran unit tertentu, dan pengurangan kegiatan dapat menjadi langkah efisiensi dan konsolidasi, bergantung pada kebutuhan organisasi."
+    "answer": "badan yang diberi wewenang untuk menyelenggarakan kekuasaan berdasarkan hukum",
+    "penjelasan": "Dalam terminologi hukum dan administrasi pemerintahan Belanda, overheid berarti penguasa atau pemerintah sebagai badan/organ yang berwenang menjalankan kekuasaan berdasarkan hukum yang berlaku."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Tokoh yang menganggap bahwa rakyat secara alami adalah budak-budak yang tidak mempunyai hak apa-apa. Segala kekuasaan ada ditangan rakyat yang absolut dan kerajaan absolut adalah bentuk kerajaan yang terbaik, adalah ....",
+    "options": [
+      "Lemaire",
+      "Van Vollenhoven",
+      "Robert Filmer",
+      "John Locke"
+    ],
+    "answer": "Robert Filmer",
+    "penjelasan": "Robert Filmer dalam karyanya Patriarcha mempertahankan teori hak ketuhanan raja dan monarki absolut serta menolak gagasan bahwa manusia terlahir bebas dan setara."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Indikator good governance menurut World Bank yang berkaitan dengan hak untuk berkumpul adalah ....",
+    "options": [
+      "kebebasan berorganisasi dan berpartisipasi di bidang keagamaan",
+      "perlindungan hak asasi manusia di ruang publik",
+      "jaminan hukum terhadap kebebasan berbicara",
+      "kebebasan berkumpul dan berpartisipasi dalam media"
+    ],
+    "answer": "kebebasan berkumpul dan berpartisipasi dalam media",
+    "penjelasan": "Dalam parameter tata kelola pemerintahan yang baik (good governance), aspek voice and accountability mencakup jaminan kebebasan berserikat/berkumpul serta kebebasan pers/media."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Selain sebagai zoon politicon, yatu makhluk yang sejak lahir sampai meninggal dunia harus hidup bermasyarakat, manusia juga merupakan homo sapiens, yang artinya ....",
+    "options": [
+      "makhluk yang berfilsafat",
+      "makhluk yang beretika",
+      "makhluk yang berakal sehat",
+      "makhluk yang berakal budi"
+    ],
+    "answer": "makhluk yang berakal budi",
+    "penjelasan": "Secara harfiah, istilah homo sapiens berarti manusia yang bijaksana atau makhluk yang memiliki akal budi untuk berpikir dan bertindak."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Pandangan khas filsafat timur terhadap kehidupan manusia ....",
+    "options": [
+      "mengutamakan kemampuan berpikir kritis dan objektif",
+      "berpusat pada keseimbangan batin dan harmoni alam",
+      "menekankan pencarian kebenaran ilmiah secara rasional",
+      "fokus pada analisis logika dan perdebatan formal"
+    ],
+    "answer": "berpusat pada keseimbangan batin dan harmoni alam",
+    "penjelasan": "Berbeda dengan filsafat Barat yang cenderung rasional-analitis, filsafat Timur lebih menekankan pada kebijaksanaan hidup, ketenangan batin, serta keselarasan antara manusia dengan alam semesta."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Berikut perbedaan antara filsafat humanisme dan teori humanisme, yaitu ....",
+    "options": [
+      "filsafat humanisme menyelidiki bagaimana caranya manusia menjadi bahagia, sedangkan teori humanism mencari sebab pertama kebahagiaan manusia",
+      "filsafat humanisme mencari prinisip-prinsip umum, sedangkan toeri humanisme menyelidiki hal-hal secara mendetail",
+      "filsafat humanisme mencari segala sesuatu yang ada, sedangkan teori humanisme mengajarkan manusia bagaimana caranya untuk hidup makmur dan bahagia.",
+      "filsafat humanisme mencari sebab pertama kebahagiaan manusia, sedangkan teori humanisme menyelidiki bagaimana caranya agar manusia-manusia itu menjadi bahagia."
+    ],
+    "answer": "filsafat humanisme mencari sebab pertama kebahagiaan manusia, sedangkan teori humanisme menyelidiki bagaimana caranya agar manusia-manusia itu menjadi bahagia.",
+    "penjelasan": "Filsafat menggali hakikat dan sebab mendasar (sebab pertama) dari kebahagiaan manusia, sedangkan teori merumuskan langkah atau cara praktis untuk mewujudkan kebahagiaan tersebut."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Tugas pemerintah ialah mendatangkan keadilan, kebajikan, dan kebaikan. Pemerintah harus dilakukan oleh orang-orang pilihan yang mengetahui kebijakan, pemerintah harus mementingkan rakyat banyak dan bukan memenuhi kebutuhan pribadi. Pernyataan tersebut merupakan pandangan Socrates tentang ....",
+    "options": [
+      "negara",
+      "pemerintah",
+      "politicos",
+      "nomoi"
+    ],
+    "answer": "pemerintah",
+    "penjelasan": "Kutipan tersebut secara langsung menjelaskan tugas, syarat pelaksana, dan orientasi moral dari sebuah pemerintah menurut pandangan filsafat Socrates."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Bobot filsafat Plato (429-347 SM) terletak pada etika pemerintahan, karena filsafatnya diharapkan menjadi ....",
+    "options": [
+      "pedoman bagi stake holders dalam penyelenggaraan pemerintahan",
+      "pedoman dan pegangan penyelenggaraan pemerintahan",
+      "tugas untuk mendatangkan keadilan kebajikan dan kebaikan bagi masyarakat.",
+      "responsive dan mementingkan rakyat banyak."
+    ],
+    "answer": "tugas untuk mendatangkan keadilan kebajikan dan kebaikan bagi masyarakat.",
+    "penjelasan": "Inti etika pemerintahan Plato menekankan bahwa tugas utama penguasa adalah mewujudkan keadilan, kebajikan, dan kebaikan umum bagi masyarakat."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Ajaran filsafat Aristoteles merupakan antitesis dengan ajaran filsafat Plato. Ajaran Plato disebut idealisme, sedangkan ajaran Aristoteles disebut ....",
+    "options": [
+      "realisme atau kenyataan",
+      "strukturalis",
+      "normative",
+      "kulturalis"
+    ],
+    "answer": "realisme atau kenyataan",
+    "penjelasan": "Jika Plato berfokus pada dunia ide (idealisme), Aristoteles lebih menitikberatkan pada pengamatan empiris terhadap kenyataan konkret (realisme)."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Raja harus dapat memenuhi kebutuhan dan memberikan pelayanan dan meningkatkan taraf hidup rakyatnya. Dalam konteks kekinian Presiden, Gubernur, Bupati/Walikota harus dapat memberikan pelayanan publik yang baik dan meningkatkan kesejahteraan rakyatnya. Pernyataan tersebut merupakan sifat dari ....",
+    "options": [
+      "Batara Baruna",
+      "Batara Bayu",
+      "Batara Surya",
+      "Batara Indra"
+    ],
+    "answer": "Batara Surya",
+    "penjelasan": "Sifat kepemimpinan Batara Surya digambarkan seperti matahari yang selalu memberikan kehidupan, energi, serta memenuhi kebutuhan dan kesejahteraan makhluk di bumi."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Di saat terakhir Prabu Dasarata mengakhiri jabatannya sebagai raja kerajaan Ayodya, Prabu dihadapkan dengan keputusan yang berat. Perbuatan etik yang dilakukan sang raja yang juga wajib diadopsi oleh pemimpin kekinian adalah ....",
+    "options": [
+      "mengingkari janji",
+      "menepati janji",
+      "memberikan penghargaan",
+      "memberikan hukuman"
+    ],
+    "answer": "menepati janji",
+    "penjelasan": "Keteladanan etis Prabu Dasarata yang patut dicontoh adalah konsistensi dan integritasnya dalam menepati janji kepada permaisurinya meskipun harus menanggung beban keputusan yang sangat berat."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Nilai yang melatih seseorang untuk menghadapi cobaan hidup dengan ketenangan dan kemampuan mencari solusi secara jernih adalah ....",
+    "options": [
+      "hemat cermat",
+      "tanggap",
+      "sabar",
+      "waspada"
+    ],
+    "answer": "sabar",
+    "penjelasan": "Nilai kesabaran membentuk ketahanan mental seseorang untuk tetap tenang, tidak mudah panik, dan mampu berpikir jernih saat menghadapi cobaan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Ketika seseorang tidak mengambil bukan haknya dan menempatkan kebaikan bersama di atas kepentingan pribadi, ia menunjukkan nilai masyarakat bugis yaitu ....",
+    "options": [
+      "lempu",
+      "reso",
+      "getteng",
+      "acca"
+    ],
+    "answer": "lempu",
+    "penjelasan": "Dalam budaya Bugis, lempu mengandung makna kejujuran, kelurusan hati, tidak mengambil hak orang lain, dan mengutamakan kebaikan bersama."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Bila berjumpa dengan orang yang lebih tua, maka kita yang muda lebih dahulu menyapanya. Hal tersebut merupakan contoh norma etika ....",
+    "options": [
+      "hukum",
+      "kebiasaan",
+      "agama",
+      "moral"
+    ],
+    "answer": "kebiasaan",
+    "penjelasan": "Menyapa orang yang lebih tua terlebih dahulu merupakan bentuk aturan sopan santun yang berlaku sebagai kebiasaan dalam pergaulan masyarakat."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Kebiasaan masyarakat desa berkumpul setiap Jumat sore untuk kerja bakti membersihkan lingkungan termasuk bentuk norma ....",
+    "options": [
+      "agama",
+      "moral",
+      "hukum",
+      "kebiasaan"
+    ],
+    "answer": "kebiasaan",
+    "penjelasan": "Kegiatan rutin bersama yang dilakukan secara berulang dalam masyarakat dikategorikan sebagai norma kebiasaan (folkways)."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Dalam praktek aturan Gebruik seringkali terjadi penyimpangan yang didasarkan pada pertimbangan hal berikut ini, yaitu ....",
+    "options": [
+      "asas kejujuran",
+      "asas keadilan",
+      "asas manfaat",
+      "asas kesamaan"
+    ],
+    "answer": "asas manfaat",
+    "penjelasan": "Dalam penerapan hukum atau kebiasaan (gebruik), penyimpangan terkadang dapat dibenarkan apabila didasarkan pada asas kemanfaatan (doelmatigheid) yang lebih besar bagi kepentingan umum."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Hukum menyatakan diri dalam hidup bermasyarakat, oleh karena itu hakekat hukum adalah ....",
+    "options": [
+      "bellum omnium contra omnes",
+      "homo homoni lupus",
+      "hidup bermasyarakat yang teratur dan diatur.",
+      "hidup bersama"
+    ],
+    "answer": "hidup bermasyarakat yang teratur dan diatur.",
+    "penjelasan": "Hakikat hukum pada dasarnya adalah instrumen pengatur agar kehidupan bersama di dalam masyarakat dapat berjalan secara tertib, damai, dan teratur."
+  },
+
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Perkara sengketa warisan antara anggota keluarga termasuk dalam lingkup ....",
+    "options": [
+      "hukum tata negara",
+      "hukum internasional",
+      "hukum publik",
+      "hukum privat"
+    ],
+    "answer": "hukum privat",
+    "penjelasan": "Sengketa warisan antaranggota keluarga menyangkut kepentingan perorangan atau keperdataan, sehingga termasuk dalam lingkup hukum privat (perdata)."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Pandangan dan sikap yang berlaku di Negara kita sejak 17 Agustus 1945 yang menjadi dasar, pokok dan pangkal bertolak dari semua dan segala bentuk perbuatan pemerintah adalah ....",
+    "options": [
+      "UUD 1945",
+      "Wawasan Nusantara",
+      "Bhineka Tunggal Ika",
+      "Pancasila"
+    ],
+    "answer": "Pancasila",
+    "penjelasan": "Pancasila berkedudukan sebagai dasar negara serta sumber dari segala sumber hukum yang menjadi landasan fundamental bagi setiap perbuatan dan kebijakan pemerintah."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Seorang pejabat publik yang bertindak sesuai dengan etika pemerintahan namun mengabaikan etika jabatan sebagai pegawai negeri berisiko ....",
+    "options": [
+      "dikenakan sanksi administratif ringan",
+      "menunjukkan ketidakpahaman terhadap kedudukan etika jabatan",
+      "mendapat pujian atas loyalitas kepada pemerintah",
+      "tetap dianggap melaksanakan tugas dengan baik"
+    ],
+    "answer": "menunjukkan ketidakpahaman terhadap kedudukan etika jabatan",
+    "penjelasan": "Mengabaikan etika jabatan sebagai aparatur menunjukkan kegagalan memahami standar perilaku khusus yang melekat pada posisi profesionalnya sebagai pegawai negeri."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Dalam pandangan Heymans, tuntutan kenikmatan, kegunaan, dan keindahan dapat dipenuhi ....",
+    "options": [
+      "hanya jika tidak bertentangan dengan norma etika",
+      "tanpa mempertimbangkan norma etika",
+      "sebagai prioritas utama dalam kehidupan manusia",
+      "mengabaikan kewajiban untuk berbuat baik"
+    ],
+    "answer": "hanya jika tidak bertentangan dengan norma etika",
+    "penjelasan": "Menurut Heymans, pemenuhan dorongan material, kenikmatan, atau estetika tetap harus dibatasi dan diselaraskan agar tidak melanggar nilai serta norma etika."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Mengapa perbuatan seorang Kepala Daerah yang membagikan HP kepada Ketua RW dianggap sebagai misbruik van recht?",
+    "options": [
+      "menggunakan hak untuk tujuan pribadi",
+      "menggunakan hak dengan cara yang tidak sesuai dengan peraturan",
+      "mengorbankan kepentingan sosial demi kepentingan pribadi",
+      "menggunakan dana pemerintah untuk kepentingan masyarakat"
+    ],
+    "answer": "menggunakan hak dengan cara yang tidak sesuai dengan peraturan",
+    "penjelasan": "Misbruik van recht (penyalahgunaan wewenang/hak) terjadi ketika seorang pejabat menggunakan kewenangan atau hak yang dimilikinya secara menyimpang dari prosedur atau tujuan pembentukan hukumnya."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Jika Detournement de pouvoir (penyalahgunaan wewenang) memenuhi syarat yakni demi kepentingan umum, dalam keadaan darurat, belum ada norma yang mengatur masalah yang dihadapi pemerintahan, maka Detournement de pouvoir itu dapat disimpulkan berikut ini, kecuali ....",
+    "options": [
+      "tidak bertentangan dengan etika pemerintahan",
+      "tidak merupakan perbuatan pemerintah yang tidak patut dan tidak pula dapat dibantah oleh pihak lain yang merasa dirinya dirugikan karena perbuatan pemerintah tersebut",
+      "tidak digolongkan pada onrechtmatige overheidsdaad (perbuatan pemerintah tidak sah)",
+      "tidak bertentangan dengan penyalahgunaan kekuasaan"
+    ],
+    "answer": "tidak bertentangan dengan penyalahgunaan kekuasaan",
+    "penjelasan": "Tindakan tersebut secara konseptual tetap merupakan bentuk penyimpangan wewenang (detournement de pouvoir), meskipun dilakukan dalam keadaan darurat demi kepentingan umum."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Hukum yang mengatur hubungan antar Negara, pemerintah atau perangkat pemerintah satu sama lain serta hubungan antar Negara, pemerintah dan perangkat pemerintah dengan warga Negara, disebut hokum ....",
+    "options": [
+      "publik",
+      "privat",
+      "pidana",
+      "perdata"
+    ],
+    "answer": "publik",
+    "penjelasan": "Hukum publik adalah cabang hukum yang mengatur kepentingan umum, hubungan antara negara/pemerintah dengan warganya, serta antarorganisasi pemerintahan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Perbuatan pemerintah pada dasarnya dapat digolongkan dalam dua golongan besar berikut ini, yaitu ....",
+    "options": [
+      "perbuatan nyata dan perbuatan hukum",
+      "perbuatan hukum privat dan perbuatan hukum publik",
+      "perbuatan hukum positip dan perbuatan hukum perdata",
+      "perbuatan ukum Tata Usaha Negara perbuatan hukum niaga"
+    ],
+    "answer": "perbuatan hukum privat dan perbuatan hukum publik",
+    "penjelasan": "Tindakan pemerintah dalam lalu lintas hukum diklasifikasikan secara garis besar menjadi perbuatan hukum publik (dalam kapasitasnya sebagai penguasa) dan perbuatan hukum privat (seperti kedudukan subjek hukum perdata biasa)."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Apa yang dimaksud dengan perbuatan hukum publik yang bersisi satu (beschikking)?",
+    "options": [
+      "suatu keputusan yang melibatkan lebih dari satu pihak",
+      "suatu perbuatan hukum yang dibuat oleh dua pihak secara bersamaan",
+      "perbuatan hukum yang melibatkan satu pihak dan dilakukan secara sepihak",
+      "proses pengambilan keputusan yang memerlukan persetujuan pihak lain"
+    ],
+    "answer": "perbuatan hukum yang melibatkan satu pihak dan dilakukan secara sepihak",
+    "penjelasan": "Keputusan (beschikking / ketetapan) merupakan tindakan hukum sepihak yang dikeluarkan oleh badan atau pejabat pemerintahan berdasarkan kewenangan yang ada."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Kecenderungan etik dan merupakan dasar bagi hukum tata usaha Negara atau hukum pemerintahan yang menjadi pegangan dan pedoman kerja pemerintah dalam melaksanakan tugasnya, disebut ....",
+    "options": [
+      "asas-asas penyelenggaraan pemerintahan",
+      "asas-asas pemerintahan daerah",
+      "asas-asas kepastian hukum",
+      "asas-asas umum pemerintahan yang patut"
+    ],
+    "answer": "asas-asas umum pemerintahan yang patut",
+    "penjelasan": "Asas-asas umum pemerintahan yang baik/patut berakar dari nilai etika dan moral kepemerintahan yang menjadi pedoman utama bagi aparatur dalam menjalankan tugas dan wewenangnya."
+  },
+
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Jika suatu ketetapan pemerintah sudah memenuhi syarat formal dan material, dimana syarat material menuntut kewenangan untuk melakukan perbuatan yang bersangkutan dan syarat formal adalah syarat tentang bentuk ketetapan itu sendiri. Hal tersebut termasuk dalam asas ....",
+    "options": [
+      "keseimbangan",
+      "kesamaan",
+      "kepastian hukum",
+      "kecermatan berbuat"
+    ],
+    "answer": "kepastian hukum",
+    "penjelasan": "Pemenuhan syarat formal dan material secara sah memberikan jaminan kepastian hukum bagi status suatu ketetapan yang dikeluarkan pemerintah."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Perhatikan Tabel di atas!\nPernyataan berikut yang paling tepat mengenai kinerja pengadilan tinggi dalam perkara korupsi inkracht adalah ....",
+    "image_url": "https://i.ibb.co.com/4w45s4fj/Screenshot-32.png",
+    "options": [
+      "kinerjanya konsisten setiap tahun",
+      "tidak pernah menyidangkan perkara korupsi",
+      "menyelesaikan lebih banyak perkara daripada Mahkamah Agung",
+      "memiliki peran paling kecil dibanding dua tingkat pengadilan lainnya"
+    ],
+    "answer": "memiliki peran paling kecil dibanding dua tingkat pengadilan lainnya",
+    "penjelasan": "Berdasarkan data pada tabel, jumlah total penanganan perkara inkracht di pengadilan tinggi (28 perkara) adalah yang paling sedikit jika dibandingkan dengan pengadilan negeri (125 perkara) dan Mahkamah Agung (130 perkara)."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Program pemberantasan korupsi sebagai upaya untuk mendorong proses demokratisasi masih sangat tertumpu pada kemauan politik seorang pemimpin. Oleh karena itu, salah satu cara untuk melepaskan diri dari program pemberantasan korupsi yang terhambat distorsi, yaitu ....",
+    "options": [
+      "perbaikan dalam ranah kebijakan publik",
+      "ijin pemeriksaan sebagai prasyarat untuk memeriksa pejabat negara tetap dipertahankan sesuai peraturan yang ada",
+      "diskresi presiden untuk memberikan ijin atau tidaknya pejabat negara yang hendak diperiksa aparat penegak hukum dimaksimalkan",
+      "mendukung tugas Komisi Pemberantasan Korupsi untuk melakukan penindakan korupsi"
+    ],
+    "answer": "perbaikan dalam ranah kebijakan publik",
+    "penjelasan": "Penguatan sistemik melalui perbaikan kebijakan publik diperlukan agar pemberantasan korupsi tidak bergantung semata-mata pada figur atau kemauan politik individu pemimpin."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Contoh kasus, \"seorang pejabat tinggi yang berpengaruh meminta kepala tim seleksi supaya \"orang kampungnya\" diluluskan dalam seleksi jabatan. Di sini semua calon pejabat diseleksi secara sama melalui prosedur assessment, penulisan makalah dan wawancara. Akan tetapi dalam melakukan penilaian dan pengambilan keputusan pansel meloloskan dari pejabat bosnya tersebut meskipun secara objektif nilai rankingnya tidak masuk tiga masuk\". Penyimpangan atau perbuatan tidak etis tersebut merupakan perbuatan ....",
+    "options": [
+      "mengabaikan hukum",
+      "favoritisme dalam menaksirkan hukum",
+      "ketidakjujuran",
+      "perilaku yang buruk (unethical behaviour)."
+    ],
+    "answer": "perilaku yang buruk (unethical behaviour).",
+    "penjelasan": "Tindakan panitia seleksi yang meloloskan kandidat atas dasar intervensi atau kedekatan personal meskipun tidak memenuhi syarat ranking objektif merupakan wujud pelanggaran etika profesional (unethical behaviour)."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Pejabat yang sengaja menyembunyikan data anggaran yang bermasalah telah melakukan tindakan ....",
+    "options": [
+      "ketidakjujuran dalam penyampaian informasi",
+      "perlakuan tidak adil terhadap bawahannya",
+      "perilaku tidak etis dalam bekerja sama",
+      "inefisiensi bruto dalam penggunaan sumber daya"
+    ],
+    "answer": "ketidakjujuran dalam penyampaian informasi",
+    "penjelasan": "Tindakan sengaja menyembunyikan data atau informasi anggaran merupakan bentuk pelanggaran prinsip transparansi dan ketidakjujuran informatif."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Setiap penyelenggara ataupun penyelenggara pemerintahan daerah dalam setiap tindakan dan ucapan tidak memihak, seimbang dan tidak diskriminatif (membeda-bedakan), seperti bias gender, tingkatan dan status sosial, etnis, agama serta ras dalam memberikan pelayanan kepada masyarakat dan menghormati hak asasi manusia. Merupakan penjelasan norma etika yang melekat pada para penyelenggara Negara, yaitu ....",
+    "options": [
+      "berakhlak mulia",
+      "tepat janji",
+      "keadilan",
+      "kejujuran dan keikhlasan"
+    ],
+    "answer": "keadilan",
+    "penjelasan": "Sikap tidak memihak, tidak diskriminatif, serta memperlakukan masyarakat secara seimbang mencerminkan penerapan prinsip etika keadilan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Seorang pejabat yang tidak hanya mematuhi hukum, tetapi juga melaksanakan tugasnya dengan penuh tanggung jawab dan akuntabilitas, menunjukkan penerapan norma ....",
+    "options": [
+      "arif",
+      "tanggung jawab dan Akuntabel",
+      "disiplin",
+      "etika Kesetaraan"
+    ],
+    "answer": "tanggung jawab dan Akuntabel",
+    "penjelasan": "Pelaksanaan tugas dengan orientasi penuh pada tanggung jawab serta akuntabilitas publik secara langsung merefleksikan norma tanggung jawab dan akuntabel."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Kode etik instansi dan profesi pada dasarnya harus mengandung ketentuan mengenai ....",
+    "options": [
+      "jenis dan bentuk sanksi yang dapat dikenakan kepada pelanggar etik",
+      "ketentuan mengenai nilai dasar dan norma etika penyelenggara negara",
+      "Struktur organisasi penegak etika dan tata hubungan kerjanya",
+      "penetapan anggota lembaga penegak etika dan masa jabatannya"
+    ],
+    "answer": "ketentuan mengenai nilai dasar dan norma etika penyelenggara negara",
+    "penjelasan": "Substansi utama dari pembentukan kode etik instansi maupun profesi adalah penjabaran nilai-nilai dasar serta standar norma perilaku yang wajib dipatuhi."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Pelanggaran etika penyelenggara negara dapat terjadi ketika mereka ....",
+    "options": [
+      "melakukan evaluasi kinerja secara berkala",
+      "menjalankan tugas dengan penuh integritas dan objektivitas",
+      "berusaha mempengaruhi proses peradilan atau kebijakan yang bukan dalam lingkup kewenangannya",
+      "menghormati hak asasi manusia dalam setiap kebijakan"
+    ],
+    "answer": "berusaha mempengaruhi proses peradilan atau kebijakan yang bukan dalam lingkup kewenangannya",
+    "penjelasan": "Mencampuri urusan atau proses di luar batas kewenangan (termasuk intervensi peradilan) merupakan bentuk pelanggaran etika dan penyalahgunaan posisi."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Untuk mendapatkan objektivitas atas sangkaan pelanggaran kode etik, majelis kode etik sebelum mengambil keputusan terlebih dahulu dapat memanggil dan memeriksa serta memberi kesempatan membela diri bagi pegawai ASN yang bersangkutan. Adapun keputusan majelis kode etik diambil berdasarkan ....",
+    "options": [
+      "keputusan pengadilan",
+      "musyawarah mufakat dan bersifat final",
+      "pemungutan suara",
+      "rapat pleno"
+    ],
+    "answer": "musyawarah mufakat dan bersifat final",
+    "penjelasan": "Mekanisme pengambilan keputusan dalam majelis kehormatan/kode etik umumnya ditempuh melalui musyawarah mufakat demi menjaga objektivitas dan keputusannya bersifat final di internal instansi."
+  },
+  
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Pengawasan fungsional yang dilaksanakan oleh Aparat Pengawasan Intern Pemerintah (APIP) di tingkat daerah seharusnya bersifat ....",
+    "options": [
+      "bergantung pada persetujuan gubernur atau bupati/wali kota",
+      "terbatas pada pemeriksaan administrasi keuangan daerah",
+      "independen dan objektif dalam mengawasi kebijakan daerah",
+      "hanya dilakukan ketika terdapat laporan resmi dari masyarakat"
+    ],
+    "answer": "independen dan objektif dalam mengawasi kebijakan daerah",
+    "penjelasan": "APIP harus menjunjung tinggi objektivitas dan independensi agar pengawasan penyelenggaraan pemerintahan berjalan efektif."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Keputusan yang mengatur tentang Pengawasan penyelenggaraan pemerintahan daerah terdiri atas pengawasan fungsional, pengawasan DPRD dan pengawasan masyarakat, yaitu ....",
+    "options": [
+      "Keppres Nomor 74 Tahun 2001",
+      "Keppres Nomor 75 Tahun 2001",
+      "Keppres Nomor 76 Tahun 2001",
+      "Keppres Nomor 77 Tahun 2001"
+    ],
+    "answer": "Keppres Nomor 74 Tahun 2001",
+    "penjelasan": "Peraturan tersebut disebut dalam soal sebagai dasar yang mengatur tata cara pengawasan penyelenggaraan pemerintahan daerah."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Bagaimana UU No.31/2014 tentang Perlindungan Saksi dan Korban memberikan jaminan bagi pelapor atau saksi ....",
+    "options": [
+      "memberikan perlindungan hanya untuk saksi di kasus narkotika",
+      "menghukum keras siapa saja yang melaporkan kejahatan",
+      "menjamin keamanan pelapor tanpa ancaman saat memberikan keterangan",
+      "membatasi jenis kasus yang dapat diadukan oleh saksi"
+    ],
+    "answer": "menjamin keamanan pelapor tanpa ancaman saat memberikan keterangan",
+    "penjelasan": "Esensi utama perlindungan saksi dan korban adalah memberikan rasa aman dan bebas dari ancaman fisik maupun psikis."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Konsep dasar penyusunan UU yang lemah, tidak berperspektif pemberantasan korupsi, terdapat kerancuan dalam menempatkan hak-hak saksi dan perlakukan terhadap saksi, belum ada ketentuan peran serta masyarakat dan penghargaan terhadap orang yang memberikan kesaksian atau melaporkan tindak pidana serta pembentukan lembaga yang tidak realistis, merupakan kelemahan-kelemahan yang dapat ditemukan dalam UU Perlindungan Saksi dan Korban menurut ....",
+    "options": [
+      "Mastra Liba",
+      "Bagir Manan",
+      "Agung Hendarto",
+      "Harkristuti"
+    ],
+    "answer": "Harkristuti",
+    "penjelasan": "Pandangan kritis tersebut disampaikan dalam evaluasi akademis terkait naskah akademik dan kelemahan awal UU Perlindungan Saksi dan Korban."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Kepentingan yang dikaitkan dengan dengan tugas-tugas kenegaraan, misalnya jaksa Agung tidak menuntut/tidak memerkarakan tindakan kriminal yang dilakukan oleh oknum pejabat teras atau wiraswastawan terpandang dari pemerintah atau dari suatu negara sahabat yang sedang dibutuhkan bantuannya oleh negara. Dalam hal ini langkah Jaksa Agung ini barangkali disadari melanggar hukum. Hal tersebut merupakan kepentingan ....",
+    "options": [
+      "pribadi atau golongan",
+      "umum",
+      "partai",
+      "dinas"
+    ],
+    "answer": "umum",
+    "penjelasan": "Tindakan kebijakan penegakan hukum yang dilepaskan demi menjaga stabilitas atau kepentingan negara yang lebih besar dikategorikan sebagai pertimbangan kepentingan umum."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Apa yang dimaksud dengan perasaan etik atau moral sense ....",
+    "options": [
+      "perasaan yang hanya muncul dalam situasi bahaya",
+      "perasaan yang berkaitan dengan penilaian baik atau buruk suatu perbuatan",
+      "perasaan terhadap rasa sakit dan sentuhan fisik",
+      "perasaan yang hanya bisa dirasakan oleh anak-anak"
+    ],
+    "answer": "perasaan yang berkaitan dengan penilaian baik atau buruk suatu perbuatan",
+    "penjelasan": "Moral sense merujuk pada kepekaan batiniah seseorang dalam membedakan serta menilai nilai etis antara perbuatan yang baik dan buruk."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Etika yang banyak ragamnya dan yang mengajarkan bahwa hakekat paling dalam dari kenyataan bersifat kejiwaan yang tampak jelas dalam proses kesadaran manusia, adalah ....",
+    "options": [
+      "teologis",
+      "hedonistis",
+      "utilitas",
+      "idealistis"
+    ],
+    "answer": "idealistis",
+    "penjelasan": "Etika idealistis berpandangan bahwa realitas tertinggi dan dasar moralitas bersumber dari dimensi kejiwaan serta kesadaran rohaniah manusia."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Etika harus menyelidiki dua hal berikut ini, yaitu ....",
+    "options": [
+      "individu dan kelompok",
+      "hal umum dan khusus",
+      "bangsa dan negara",
+      "ideal dan riil"
+    ],
+    "answer": "ideal dan riil",
+    "penjelasan": "Objek penyelidikan etika mencakup tatanan nilai ideal (seharusnya) serta kenyataan perilaku moral manusia yang riil dalam kehidupan sehari-hari."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Pembagian kekuasaan menurut Locke dengan penyempurnaan oleh Montequieu, yaitu...",
+    "options": [
+      "kekuasaan untuk membuat peraturan perundang-undangan",
+      "kekuasaan melaksanakan undang-undang",
+      "kekuasaan menjatuhkan pidana atau mengadili mereka yang berlawanan dengan peraturan perundang-undangan",
+      "kekuasaan legislatife, eksekutif dan peradilan"
+    ],
+    "answer": "kekuasaan legislatife, eksekutif dan peradilan",
+    "penjelasan": "Montesquieu menyempurnakan trias politica Locke menjadi legislatif, eksekutif, dan yudikatif (peradilan) yang terpisah satu sama lain."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Adalah suatu kenyataan bahwa di dalam setiap hidup masyarakat terdapat tiga macam fungsi berikut ini, kecuali ....",
+    "options": [
+      "menjalankan fungsi social sebagai makhluk yang universal, manusiawi dan kodrat",
+      "mengatur kehidupan dalam masyarakat untuk waktu tertentu demi usaha memenuhi kebutuhan hidup",
+      "mewujudkan tujuan umum, yaitu tujuan bersama dengan melaksanakan aturan yang berlaku",
+      "reaksi terhadap tingkah laku yang berlawanan dengan aturan yang berlaku"
+    ],
+    "answer": "menjalankan fungsi social sebagai makhluk yang universal, manusiawi dan kodrat",
+    "penjelasan": "Pilihan tersebut bukan merupakan bagian dari klasifikasi tiga fungsi dasar sosiologis/hukum masyarakat yang umumnya meliputi fungsi pengatur, pencapaian tujuan bersama, dan mekanisme kontrol sosial atau sanksi."
+  },
+
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Berikut salah satu tujuan Etika Pemerintahan Daerah, yaitu ....",
+    "options": [
+      "menegakkan norma etika, martabat kehormatan, sikap, perilaku dan tindakan yang etis bagi penyelenggaraan pemerintahan daerah dan warga masyarakat.",
+      "meningkatkan tata kelola pemerintahan yang responsive",
+      "menyediakan informasi ke publik secara terbuka",
+      "memenuhi kebutuhan dengan memanfaatkan sumber daya yang ada untuk kepetningan publik."
+    ],
+    "answer": "menegakkan norma etika, martabat kehormatan, sikap, perilaku dan tindakan yang etis bagi penyelenggaraan pemerintahan daerah dan warga masyarakat.",
+    "penjelasan": "Tujuan fundamental etika pemerintahan daerah adalah menegakkan martabat serta standar perilaku etis bagi aparatur dan masyarakat."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Filsafat Aristoteles dianggapnya sebagai filsafat yang sebenarnya, murni atau asli yang disebutnya sebagai filsafat ....",
+    "options": [
+      "teoritis",
+      "praktis",
+      "barat",
+      "timur"
+    ],
+    "answer": "praktis",
+    "penjelasan": "Filsafat Aristoteles dikenal bercorak empiris dan berorientasi pada realitas nyata sehingga sering dikaitkan dengan dimensi praktis kehidupan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Salah satu ciri menonjol dalam filsafat Barat ....",
+    "options": [
+      "penolakan terhadap prinsip logika dan rasionalitas",
+      "penekanan pada penyatuan manusia dan alam",
+      "pemisahan tegas antara akal dan pengalaman mistis",
+      "penggunaan logika sebagai dasar berpikir filosofis"
+    ],
+    "answer": "penggunaan logika sebagai dasar berpikir filosofis",
+    "penjelasan": "Tradisi filsafat Barat sangat mengedepankan pendekatan rasional, argumen logis, dan analisis kritis dalam membangun sistem pengetahuannya."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Apa yang dimaksud dengan \"hakikat objek\" dalam filsafat?",
+    "options": [
+      "penggunaan objek dalam kehidupan sehari-hari.",
+      "ciri-ciri mendasar atau esensi yang membuat objek itu apa adanya.",
+      "hubungan antara objek dengan makna sosialnya.",
+      "tujuan akhir dari keberadaan objek tersebut."
+    ],
+    "answer": "ciri-ciri mendasar atau esensi yang membuat objek itu apa adanya.",
+    "penjelasan": "Hakikat (essence) mengacu pada inti atau sifat esensial mendasar yang mendefinisikan keberadaan suatu objek."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Apa yang dianggap sebagai inti dari ajaran Socrates mengenai hukum dan pemerintahan?",
+    "options": [
+      "hukum yang ada dalam diri manusia adalah yang penting",
+      "hukum adalah hasil keputusan manusia dibuat untuk ketenteraman.",
+      "pemerintah harus selalu mengutamakan kebutuhan pribadi.",
+      "keputusan hukum harus selalu berdasarkan pertimbangan rakyat."
+    ],
+    "answer": "hukum yang ada dalam diri manusia adalah yang penting",
+    "penjelasan": "Socrates menekankan pentingnya kesadaran moral internal dan keadilan yang bersumber dari nurani serta akal budi manusia."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Menurut Plato, apa yang merupakan inti dari semua kenyataan ....",
+    "options": [
+      "norma susila yang menuntun kehidupan manusia.",
+      "kebaikan yang tercermin dalam tindakan manusia.",
+      "keindahan yang murni dan abadi.",
+      "kebenaran tertinggi yang mengatur segala sesuatu."
+    ],
+    "answer": "kebenaran tertinggi yang mengatur segala sesuatu.",
+    "penjelasan": "Dalam teori Ide Plato, kenyataan tertinggi dan sejati adalah dunia ide yang berpusat pada Ide Kebaikan/Kebenaran mutlak."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Metode penyelidikan yang digunakan Aristoteles ....",
+    "options": [
+      "deduktif spekulatif yang bertolak dari ide umum",
+      "intuitif transendental berdasarkan akal murni",
+      "sintetik rasional berdasarkan hukum alam mutlak",
+      "induktif empiris dengan dasar kenyataan yang khusus"
+    ],
+    "answer": "induktif empiris dengan dasar kenyataan yang khusus",
+    "penjelasan": "Berbeda dari Plato, Aristoteles membangun ilmu pengetahuan melalui pengamatan empiris dan penalaran induktif dari data konkret khusus."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Sikap yang diteladani dari laku Dewa Indra adalah ....",
+    "options": [
+      "memberikan pelayanan yang menyeluruh kepada masyarakat",
+      "mengumpulkan kekayaan untuk kepentingan pribadi",
+      "memberi keputusan yang cepat dan tegas kepada rakyat",
+      "menegaskan kekuasaan melalui wewenang absolut"
+    ],
+    "answer": "memberikan pelayanan yang menyeluruh kepada masyarakat",
+    "penjelasan": "Filosofi kepemimpinan Dewa Indra digambarkan sebagai pemberi kesejahteraan dan pelindung yang melayani kebutuhan rakyat secara luas."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Berikut amanat Rama kepada Barata dalam menjalankan pemerintahan, apabila setiap orang diantara rakyatmu yang mengajukan keluh kesahnya, maka kewajiban seorang raja, kecuali ....",
+    "options": [
+      "mengutamakan konstituennya",
+      "janganlah diam",
+      "tidak boleh menghina siapapun termasuk seseorang yang yang rendah sekalipun",
+      "jangan menghina mereka yang meminta pertolongan"
+    ],
+    "answer": "mengutamakan konstituennya",
+    "penjelasan": "Ajaran kepemimpinan klasik menekankan sikap adil, responsif, dan tidak sombong kepada seluruh rakyat tanpa sekat politik praktis modern (konstituen)."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Sifat etika yang menumbuhkan cinta tanah air dan semangat untuk membela serta berkorban demi orang lain adalah ....",
+    "options": [
+      "malu jo sopan",
+      "adil",
+      "setia",
+      "hemat cermat"
+    ],
+    "answer": "setia",
+    "penjelasan": "Nilai kesetiaan (loyalty) mencakup komitmen mendalam, rasa cinta tanah air, serta kesediaan berkorban demi kepentingan yang lebih besar."
+  },
+
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Cendekiawan Luwu yang menyatakan ada empat perbuatan jujur sebagai nilai utama dalam masyarakat Bugis yakni memaafkan orang yang berbuat salah kepadanya, dipercaya lalu tak curang, tak menyerakahi yang bukan haknya serta tidak memandang kebaikan kalau hanya buat dirinya, adalah ....",
+    "options": [
+      "Tociung",
+      "Kajaliddong",
+      "Kajao",
+      "La Inca"
+    ],
+    "answer": "Kajao",
+    "penjelasan": "Falsafah moral dan nilai-nilai kejujuran tradisional Bugis tersebut termuat dalam ajaran budaya yang diwariskan oleh tokoh Cendekiawan Kajao (Kajao Laliddong atau sering disebut Kajao)."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Norma yang mengatur perilaku seseorang berdasarkan hati nurani dan rasa baik-buruk yang tumbuh dari dalam diri disebut ....",
+    "options": [
+      "agama",
+      "moral",
+      "kebiasaan",
+      "hukum"
+    ],
+    "answer": "moral",
+    "penjelasan": "Norma moral bersumber dari suara hati nurani manusia mengenai kesadaran akan baik dan buruknya suatu perbuatan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Norma yang mengatur hubungan manusia dengan Tuhan serta bersumber dari wahyu disebut sebagai ....",
+    "options": [
+      "moral",
+      "agama",
+      "kebiasaan",
+      "hukum"
+    ],
+    "answer": "agama",
+    "penjelasan": "Norma agama didasarkan pada ajaran kitab suci atau wahyu Tuhan yang mengatur hubungan vertikal (manusia dengan Tuhan) maupun horizontal."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "\"Makan siang pada pukul 13.00, masak mengikuti jadwal itu setiap hari\". Contoh aturan etika kebiasaan itu oleh Lemaire disebut ....",
+    "options": [
+      "fatsoen (kesopanan)",
+      "gewoonte (kebiasaan)",
+      "dooge zeden",
+      "gebruik (praktik, perbuatan nyata)"
+    ],
+    "answer": "gebruik (praktik, perbuatan nyata)",
+    "penjelasan": "Dalam penggolongan Lemaire, pola tindakan rutin sehari-hari yang dilakukan secara nyata dalam praktik hidup dinamakan gebruik."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Hukum dapat menjamin ketertiban masyarakat apabila memiliki ....",
+    "options": [
+      "aturan-aturan umum",
+      "nilai-nilai tradisional",
+      "kekuasaan pemaksa",
+      "penafsiran bebas"
+    ],
+    "answer": "kekuasaan pemaksa",
+    "penjelasan": "Salah satu unsur mutlak yang membedakan hukum dengan norma lainnya adalah sifatnya yang dapat dipaksakan penegakannya melalui kekuasaan alat negara."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Aturan hukum yang mengatur kepentingan khusus serta pemeliharaan dan penggunaannya terserah pada pihak-pihak yang bersangkutan, disebut hukum ....",
+    "options": [
+      "publik",
+      "privat material",
+      "privat formal",
+      "privat"
+    ],
+    "answer": "privat",
+    "penjelasan": "Hukum privat (perdata) mengatur hubungan antarindividu yang menitikberatkan pada perlindungan kepentingan perseorangan dan bersifat otonom bagi pihak yang bersangkutan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Ketentuan-ketentuan atau standar-standar yang mengatur perilaku moral para aparatur yang berisi ajaran-ajaran moral dan asas-asas kelakukan yang baik bagi aparatur dalam menenuaikan tugas dan melakukan tindakan jabatan, adalah definisi dari ....",
+    "options": [
+      "etika jabatan",
+      "etika pegawai",
+      "etika penyelenggara negara",
+      "etika profesi"
+    ],
+    "answer": "etika jabatan",
+    "penjelasan": "Standar moral dan perilaku khusus yang harus dipatuhi oleh seseorang dalam menunaikan wewenang jabatannya disebut sebagai etika jabatan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Nilai-nilai etik pemerintahan yang menjadi landasan moral bagi penyelenggara pemerintahan, disebut ....",
+    "options": [
+      "etika jabatan",
+      "etika pemerintahan",
+      "etika pegawai",
+      "etika profesi"
+    ],
+    "answer": "etika pemerintahan",
+    "penjelasan": "Etika pemerintahan merupakan pedoman nilai moral yang mengarahkan sikap dan kebijakan penyelenggara negara dalam menjalankan urusan publik."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Pandangan Heymans tentang norma etika menunjukkan perbedaan dengan pandangan neokantian, karena menurut Heymans, penilaian etika terkait ....",
+    "options": [
+      "perasaan individu",
+      "sistem nilai yang terpisah dari kenyataan",
+      "pandangan masyarakat tentang kebaikan",
+      "fungsi kodrat asli dalam kenyataan psikis"
+    ],
+    "answer": "fungsi kodrat asli dalam kenyataan psikis",
+    "penjelasan": "Heymans mendasarkan pandangan etikanya pada realitas psikologis dan struktur kejiwaan manusia (kenyataan psikis), berbeda dengan aliran formalistis neokantian."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Apa yang dimaksud dengan misbruik van recht dalam konteks penyalahgunaan hak ....",
+    "options": [
+      "penyalahgunaan hak untuk keuntungan pribadi",
+      "penggunaan hak yang sesuai dengan tujuan hukum",
+      "penggunaan hak untuk kepentingan sosial",
+      "penyalahgunaan kekuasaan dalam pemerintahan"
+    ],
+    "answer": "penyalahgunaan hak untuk keuntungan pribadi",
+    "penjelasan": "Misbruik van recht merujuk pada tindakan menggunakan hak atau kewenangan yang melampaui batas atau menyimpang dari tujuan aslinya demi keuntungan atau kepentingan pribadi."
+  },
+
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Tindakan pejabat pemerintah yang tidak patut dan harus dihindarkan adalah menyalahgunakan kewenangan. Perbuatan tidak patut ini disebut dengan istilah ....",
+    "options": [
+      "misbruik van macht",
+      "misbruik van recht",
+      "detournement de pouvoir",
+      "chicaner"
+    ],
+    "answer": "misbruik van macht",
+    "penjelasan": "Istilah misbruik van macht merujuk secara langsung pada penyalahgunaan kekuasaan atau wewenang oleh pihak yang berkuasa."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Apa yang dimaksud dengan \"disfungsi etika\" dalam konteks pemerintahan terkait red tape?",
+    "options": [
+      "ketidaksesuaian antara tujuan pemerintah dan penerapan peraturan yang berlebihan",
+      "proses administrasi yang berjalan sesuai dengan prinsip efisiensi",
+      "penerapan prosedur yang menguntungkan bagi masyarakat",
+      "penyelesaian masalah pemerintahan secara cepat dan tepat"
+    ],
+    "answer": "ketidaksesuaian antara tujuan pemerintah dan penerapan peraturan yang berlebihan",
+    "penjelasan": "Red tape (birokrasi yang berbelit-belit) menciptakan disfungsi etika ketika aturan prosedural diterapkan secara berlebihan hingga mengaburkan tujuan utama pelayanan publik."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Mengapa pemerintah dapat mempergunakan hukum privat meskipun tersedia hukum publik untuk tujuan tertentu? Karena ....",
+    "options": [
+      "hukum privat lebih mudah diakses",
+      "hukum privat lebih sesuai untuk kepentingan pemerintah",
+      "hukum publik tidak cukup mengatur semua perbuatan hukum pemerintah",
+      "hukum privat lebih murah biayanya"
+    ],
+    "answer": "hukum publik tidak cukup mengatur semua perbuatan hukum pemerintah",
+    "penjelasan": "Dalam tindakan tertentu (seperti keperdataan atau kontrak bisnis), hukum publik tidak mencakup atau mengatur seluruh hubungan hukum yang diperlukan pemerintah, sehingga instansi pemerintah dapat menggunakan instrumen hukum privat."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Apa yang dimaksud dengan keputusan menurut perumusan Stellinga ....",
+    "options": [
+      "tidak terkait dengan pembuatan perundang-undangan, polisi, atau peradilan",
+      "dibuat oleh pengadilan dan polisi",
+      "hanya berkaitan dengan hukum pidana",
+      "mengatur hubungan hukum di antara dua pihak"
+    ],
+    "answer": "tidak terkait dengan pembuatan perundang-undangan, polisi, atau peradilan",
+    "penjelasan": "Menurut rumusan Stellinga, keputusan administrasi negara merupakan tindakan sepihak yang berada di luar lingkup pembentukan undang-undang formal, kepolisian, maupun peradilan murni."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Pemerintah harus menghindari atau menjauhkan diri dari penggunaan wewenang secara nyata untuk tujuan lain daripada tujuan wewenang tersebut diberikan atau penggunaan wewenang untuk tujuan lain daripada tujuan yang menjadi dasar diberikannya wewenang tersebut, Pernyataan tersebut dikenal dengan istilah ....",
+    "options": [
+      "detournement de pouvoir",
+      "exes de pouvoir",
+      "conseil d’etat",
+      "bellum omnium kontra omnes"
+    ],
+    "answer": "detournement de pouvoir",
+    "penjelasan": "Detournement de pouvoir (penyalahgunaan wewenang/pencetusan wewenang) adalah tindakan pejabat yang menggunakan wewenangnya untuk tujuan yang menyimpang dari maksud awal wewenang itu diberikan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Seorang pegawai negeri sipil memperoleh ijin menggunakan kendaraannya sendiri untuk keperluan dinas. Setelah beberapa lama, ia tidak mendapat tunjangan atau bantuan apa-apa karena peraturan yang ada pada dinas ini tidak memberikan kemungkinan untuk pemberian bantuan demikian. Maka itu, pemerintah yang bersangkutan menarik kembali keputusannya. Hal tersebut termasuk dalam asas ....",
+    "options": [
+      "kecermatan berbuat",
+      "keadilan",
+      "permainan yang jujur",
+      "menanggapi harapan yang wajar"
+    ],
+    "answer": "menanggapi harapan yang wajar",
+    "penjelasan": "Pemerintah harus melindungi dan menghargai ekspektasi atau harapan yang wajar dari warga negara/pegawainya yang timbul berdasarkan kebijakan atau izin yang telah diberikan sebelumnya."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Data penanganan/penindakan korupsi oleh KPK periode 2004-2015, berdasarkan jenis perkara terdapat 3 jenis yang cukup dominan, yaitu ....",
+    "options": [
+      "penyuapan, pengadaan barang/jasa dan penyalahgunaan anggaran",
+      "penyuapan, pungutan liar dan tppu",
+      "pengadaan barang/jasa, perijinan dan merintangi proses kpk",
+      "perijinan, penyuapan dan penyalahgunaan anggaran"
+    ],
+    "answer": "penyuapan, pengadaan barang/jasa dan penyalahgunaan anggaran",
+    "penjelasan": "Berdasarkan statistik penindakan KPK pada periode tersebut, kasus penyuapan, pengadaan barang dan jasa, serta penyalahgunaan anggaran menempati urutan terbanyak yang paling dominan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Imbalan yang harus dibayar akibat kemerosotan kepercayaan pada budaya hidup demokratis mengharuskan masing-masing kita untuk menuntut ....",
+    "options": [
+      "reformasi hukum",
+      "tingkah laku etis di kalangan pejabat-pejabat",
+      "memecat pejabat korupsi",
+      "revolusi mental"
+    ],
+    "answer": "tingkah laku etis di kalangan pejabat-pejabat",
+    "penjelasan": "Krisis kepercayaan publik terhadap sistem demokratis menuntut adanya pemulihan moral melalui penegakan standar tingkah laku etis yang tinggi di kalangan pejabat."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Contoh dari perilaku tidak etis yang umum dalam birokrasi adalah ....",
+    "options": [
+      "mengabaikan hukum demi keuntungan pribadi",
+      "gagal menunjukkan inisiatif dalam pelayanan",
+      "memberikan perlakuan yang tidak adil pada staf",
+      "berperilaku tidak sesuai norma profesi publik"
+    ],
+    "answer": "mengabaikan hukum demi keuntungan pribadi",
+    "penjelasan": "Tindakan menomorsekiankan atau mengabaikan aturan hukum demi kepentingan atau keuntungan pribadi merupakan bentuk pelanggaran etika birokrasi yang paling mendasar."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "“Salah satu hal yang mendorong terjadinya pelanggaran hukum atau perbuatan yang tidak etis oleh pejabat Negara ini adalah tabiat mereka yang serakah (greedy). Rasa berkuasa yang kuat dengan semangat memperluas dan memperbesar kekuasaan itulah yang sering membuat sang penguasa memandang remeh orang lain dan berani bertindak apa saja”. Pernyataan tersebut dikemukaan oleh ....",
+    "options": [
+      "Kwik Kian Gie",
+      "Lopa",
+      "Sudradjat",
+      "Adnan Topan Husodo"
+    ],
+    "answer": "Sudradjat",
+    "penjelasan": "Pandangan kritis mengenai keserakahan (greed) dan nafsu kekuasaan pejabat yang memicu pelanggaran etika tersebut dikemukakan oleh Sudradjat."
+  },
+
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Setiap penyelenggara Negara ataupun penyelenggara pemerintahan daerah patuh dan taat pada aturan, tata tertib dan prosedur dalam melaksanakan tugas, kewenangan dan kewajiban secara professional. Hal tersebut merupakan penjelasan norma etika yang melekat pada para penyelenggara Negara, yaitu ....",
+    "options": [
+      "keadilan",
+      "arif",
+      "disiplin",
+      "taat hukum dan aturan"
+    ],
+    "answer": "taat hukum dan aturan",
+    "penjelasan": "Kepatuhan dan ketaatan terhadap segala aturan, tata tertib, serta prosedur secara profesional merupakan wujud nyata dari norma etika taat hukum dan aturan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Pada saat masih menjabat, salah satu mantan Presiden RI pernah mengucapkan kata, \"sulit membedakan antara DPR dan taman kanak-kanak,\" di forum siding pleno DPR pada 18 November 1999. Reaksi para anggota DPR yang sangat terhormat ketika itu adalah marah besar dan menuntut Presiden untuk menarik kembali ucapannya itu. Ucapan mantan Presiden tersebut merupakan contoh pelanggaran dalam penerapan norma etika penyelenggara, yaitu ....",
+    "options": [
+      "penerapan norma etika kecermatan dan kehati-hatian",
+      "penerapan norma tanggungjawab dan akuntabel",
+      "penerapan norma sopan santun",
+      "penerapan norma etika kesetaraan"
+    ],
+    "answer": "penerapan norma sopan santun",
+    "penjelasan": "Penggunaan perumpamaan atau ucapan yang merendahkan lembaga legislatif di ruang publik melanggar etika kesopanan dan kepatutan dalam beretorika antarlembaga negara."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Sikap, perilaku, tindakan dan ucapan penyelenggara negara yang dianggap melanggar norma etika penyelenggagra negara dapat dikenakan sanksi ....",
+    "options": [
+      "sosial dan kesopanan",
+      "hukum dan social",
+      "moral dan administratif",
+      "hukum dan adminsitratif"
+    ],
+    "answer": "moral dan administratif",
+    "penjelasan": "Pelanggaran terhadap kode etik dan norma etika bagi penyelenggara negara umumnya dijatuhi sanksi yang bersifat moral (kecaman/reputasi) serta sanksi administratif kepegawaian."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Setiap penyelenggara negara dalam menjalankan tugas dan wewenang dalam rangka menjalankan kegiatan penyelenggaraan negara harus berlandaskan keteraturan, keserasian dan keseimbangan, merupakan penjelasan asas dari penegakan etika penyelenggara Negara, yaitu asas ....",
+    "options": [
+      "profesionalitas",
+      "keteladanan",
+      "tertib penyelenggaraan negara",
+      "kepentingan umum"
+    ],
+    "answer": "tertib penyelenggaraan negara",
+    "penjelasan": "Asas tertib penyelenggaraan negara menuntut adanya keteraturan, keserasian, dan keseimbangan dalam setiap pelaksanaan tugas pemerintahan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Sebagai lembaga yang bertanggungjawab menangani permasalahan mengenai pelanggaran etika dan sanksinya, maka lembaga ini harus bersifat ....",
+    "options": [
+      "profesional",
+      "mandiri",
+      "integritas",
+      "independen"
+    ],
+    "answer": "independen",
+    "penjelasan": "Lembaga penegak etika dan kode etik harus menjunjung tinggi independensi agar penanganan pelanggaran dapat berjalan secara objektif tanpa intervensi pihak luar."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Tujuan transparansi dalam penyelenggaraan pemerintahan adalah ....",
+    "options": [
+      "memberikan dan menjamin hak masyarakat pengguna/subjek hukum untuk mendapatkan informasi publik",
+      "meminta informasi dari pejabat yang bertanggungjawab di bidang penyediaan dan pelayanan informasi pada badan publik dengan pemberiahuan secara tertulis terlebih dahulu",
+      "memfasilitasi penyelesaian masalah/sengketa yang menyangkut penyelenggaraan transparansi",
+      "memantau pelaksanaan kebijakan publik"
+    ],
+    "answer": "memberikan dan menjamin hak masyarakat pengguna/subjek hukum untuk mendapatkan informasi publik",
+    "penjelasan": "Esensi utama keterbukaan atau transparansi informasi publik adalah memberikan perlindungan dan jaminan atas hak masyarakat dalam mengakses informasi pemerintahan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Pengawasan atas penyelenggaraan pemerintahan diperlukan untuk menjamin agar ....",
+    "options": [
+      "pelaksanaan kegiatan pemerintahan berjalan sesuai dengan rencana yang telah ditetapkan dalam rangka pencapaian tujuan",
+      "pelaksanaan kegiatan sesuai dengan rencana yang telah ditetapkan dalam rangka pencapaian tujuan.",
+      "pelaksanaan kegiatan terjalin dalam tata laksana kegiatan yang dialkukan organisasi",
+      "pelaksanaan kegiatan sesuai dengan hasil keputusan dan kebijakan badan publik"
+    ],
+    "answer": "pelaksanaan kegiatan pemerintahan berjalan sesuai dengan rencana yang telah ditetapkan dalam rangka pencapaian tujuan",
+    "penjelasan": "Fungsi utama pengawasan adalah mengontrol agar seluruh roda organisasi dan kegiatan pemerintahan berjalan selaras dengan perencanaan awal guna mencapai target tujuan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Pola berikut ini sering ditemukan khususnya terhadap kasus-kasus kejahatan korupsi, perkosaan dan KDRT, di mana para pelaku biasanya melakukan upaya dengan cara melaporkan para saksi atau pelapor ke pihak kepolisian. Pasal-pasal KUHP yang sering digunakan adalah pencemaran nama baik, memfitnah, perbuatan tidak menyenangkan atau dalam kasus tertentu para pelapor dijadikan sebagai pihak yang membantu perbuatan tindak pidana pelaku. Hal tersebut merupakan pola ....",
+    "options": [
+      "ancaman penganiayaan fisik hingga pembunuhan",
+      "ancaman intimidasi dan teror",
+      "kriminalisasi saksi dan pelapor",
+      "ancaman terhadap pelapor dan saksi"
+    ],
+    "answer": "kriminalisasi saksi dan pelapor",
+    "penjelasan": "Tindakan membalikkan keadaan dengan melaporkan balik saksi atau korban menggunakan pasal pencemaran nama baik atau fitnah dikenal sebagai bentuk kriminalisasi terhadap saksi dan pelapor."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Apa kelemahan dalam pembentukan lembaga perlindungan saksi berdasarkan UU Perlindungan Saksi dan Korban ....",
+    "options": [
+      "lembaga yang dibentuk akan lebih efektif karena bersifat independen",
+      "lembaga yang dibentuk tidak realistis karena tidak memanfaatkan lembaga yang sudah ada",
+      "lembaga ini hanya akan beroperasi di tingkat nasional",
+      "lembaga tersebut tidak memiliki kewenangan untuk melibatkan masyarakat dalam pemberantasan kejahatan"
+    ],
+    "answer": "lembaga yang dibentuk tidak realistis karena tidak memanfaatkan lembaga yang sudah ada",
+    "penjelasan": "Kritik terhadap desain awal kelembagaan perlindungan saksi sering kali menyoroti aspek efektivitas dan realisme struktur yang tidak mengoptimalkan infrastruktur institusi penegak hukum yang telah ada."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Faktor apa yang dianggap sangat mempengaruhi keberhasilan penegakan hukum, yang berkaitan dengan politik negara….",
+    "options": [
+      "kemauan politik pemerintah untuk menegakkan hukum secara konsisten",
+      "kepemimpinan yang lemah di dalam institusi penegak hukum",
+      "ketidakpastian hukum yang dihasilkan oleh legislatif",
+      "kurangnya kinerja lembaga internasional dalam membantu penegakan hukum"
+    ],
+    "answer": "kemauan politik pemerintah untuk menegakkan hukum secara konsisten",
+    "penjelasan": "Dalam teori penegakan hukum, political will (kemauan politik) dari pemerintah memegang peranan krusial untuk menjamin konsistensi dan efektivitas penegakan hukum di suatu negara."
+  },
+
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Mengapa istilah ethos kemudian hanya dikaitkan dengan perbuatan manusia?",
+    "options": [
+      "manusia punya kekuatan fisik untuk melanggar batas",
+      "etika hanya penting bagi masyarakat modern",
+      "hanya manusia yang mampu menilai baik atau buruk suatu perbuatan",
+      "manusia lebih sering berada di luar pagar"
+    ],
+    "answer": "hanya manusia yang mampu menilai baik atau buruk suatu perbuatan",
+    "penjelasan": "Konsep ethos dan etika melekat pada subjek moral yang memiliki kesadaran akal budi serta kemampuan untuk mempertimbangkan dan menilai nilai baik atau buruknya suatu tindakan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Etika yang menganggap segala sesuatu mendatangkan kesenangan sebagai satu-satunya dasar kebaikan bagi manusia, disebut etika ....",
+    "options": [
+      "hedonistis",
+      "teologis",
+      "utilitas",
+      "vitalistis"
+    ],
+    "answer": "hedonistis",
+    "penjelasan": "Etika hedonisme memandang bahwa ukuran tertinggi dari kebaikan dan tujuan hidup manusia adalah perolehan kesenangan (pleasure) serta menghindari penderitaan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Jika kesadaran etik mengarah pada manusia sebagai individu, maka etika akan memandang manusia individu sebagai ....",
+    "options": [
+      "individu yang terpisah dan berbeda dengan manusia lain serta manusia sebagai anggota kelompok dalam hidup bermasyarakat",
+      "individu dan masyarakatnya saling mempengaruhi dan dan saling mengisi",
+      "sebuah sistem yang didalamnya terdapat bagian, unsur yang saling terkait sebagai satu kesatuan.",
+      "satu kesatuan yang utuh dengan badan, roh, dan jiwa sebagai aspek-aspek yang berbeda."
+    ],
+    "answer": "individu yang terpisah dan berbeda dengan manusia lain serta manusia sebagai anggota kelompok dalam hidup bermasyarakat",
+    "penjelasan": "Dalam kacamata etika individual sekaligus sosial, manusia dipandang sebagai pribadi yang otonom dan unik sekaligus bagian integral dari kehidupan bermasyarakat."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Istilah yang biasanya dipakai dalam pengertian pemerintahan sebagai kekuasaan negara yang dilaksanakan oleh yang berwenang untuk menetapkan keputusan dan kebijakan pada tahap tertinggi, yaitu tahap negara, adalah ....",
+    "options": [
+      "regering",
+      "overheid",
+      "bestuur",
+      "gemeente"
+    ],
+    "answer": "regering",
+    "penjelasan": "Istilah regering (pemerintahan dalam arti sempit/eksekutif tertinggi) merujuk pada organ atau badan penguasa tertinggi yang menetapkan kebijakan serta keputusan kenegaraan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Untuk melaksanakan fungsi-fungsi pemerintah yang demikian banyak ragam dan sangat luas terdapat suatu rule of the game agar fungsi-fungsi tersebut berjalan lancer, tepat dan dengan daya guna dan hasil guna setinggi mungkin. Rule of the game adalah ....",
+    "options": [
+      "etika pemerintahan",
+      "etika jabatan",
+      "etika pegawai",
+      "etika hukum"
+    ],
+    "answer": "etika pemerintahan",
+    "penjelasan": "Etika pemerintahan berfungsi sebagai aturan main (rule of the game) moral dan profesional yang menuntun aparatur dalam menjalankan fungsi pelayanan publik secara efektif dan efisien."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Terminologi yang digunakan untuk menggantikan istilah government yang menunjukan penggunaan otoritas politik, ekonomi dan administrasi dalam mengelola masalah-masalah kenegaraan, adalah ....",
+    "options": [
+      "governability",
+      "governing",
+      "governance",
+      "governmentality"
+    ],
+    "answer": "governance",
+    "penjelasan": "Konsep governance (tata kelola) memperluas arti tradisional government dengan melibatkan sinergi antara unsur pemerintah, swasta, dan masyarakat dalam pengelolaan kekuasaan serta sumber daya."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Filsafat yang mengajarkan manusia bagaimana caranya untuk menjadi baik dan bahagia, adalah filsafat ....",
+    "options": [
+      "shopia",
+      "metafisika",
+      "teoritis",
+      "praktis"
+    ],
+    "answer": "praktis",
+    "penjelasan": "Cabang filsafat praktis (seperti etika dan moral) mengarahkan manusia pada tindakan nyata untuk mencapai keutamaan hidup serta kebahagiaan (eudaimonia)."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Seorang filsuf senantiasa mencari kebenaran. Kebenaran tersebut dicarinya dengan berpikir dan merasa melalui penggunaan ....",
+    "options": [
+      "teknologi informasi",
+      "pengetahuan formal dan informal",
+      "pancaindera, akal dan rasa",
+      "khayalan dan kenyataan"
+    ],
+    "answer": "pancaindera, akal dan rasa",
+    "penjelasan": "Proses pencarian kebenaran filosofis melibatkan pengamatan empiris (pancaindera), penalaran logis (akal), serta kepekaan nurani/intuisi (rasa)."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Yen yang diartikan sebagai mencintai orang lain, cinta demi orang lain, dan mencintai manusia merupakan istilah yang ditampilkan oleh K’ung yang berkaitan dengan hal berikut ini, kecuali ....",
+    "options": [
+      "kebajikan",
+      "kebaikan",
+      "moral",
+      "etika"
+    ],
+    "answer": "etika",
+    "penjelasan": "Konsep Ren (Yen) dari Konfusius (K'ung Fu-tzu) berkaitan erat dengan kebajikan, kebaikan, dan moralitas kemanusiaan, bukan merujuk pada sistem cabang ilmu etika formal secara akademis."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Apa yang dimaksud dengan \"insan kamil\" menurut ajaran Socrates ....",
+    "options": [
+      "manusia yang memiliki kekuasaan tertinggi.",
+      "manusia yang sempurna dan memiliki kesadaran hukum.",
+      "manusia yang berfokus pada pemenuhan kebutuhan pribadi.",
+      "manusia yang hanya mengikuti aturan hukum tertulis."
+    ],
+    "answer": "manusia yang sempurna dan memiliki kesadaran hukum.",
+    "penjelasan": "Konsep manusia ideal atau paripurna (insan kamil) dalam pandangan filosofis klasik dikaitkan dengan kesempurnaan moral, kebijaksanaan, serta kesadaran hukum dan keadilan yang tinggi."
+  },
+
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Ajaran Plato yang mengatakan bahwa dorongan cinta mendorong kearah zat atau hakikat tertinggi agar keindahan mencapai tahap sepenuhnya, bukanlah keindahan yang terlihat atau yang ada pada sesuatu yang lahiriah, bukan juga sebagai akal dan pengetahuan melainkan keindahan abadi, disebut ....",
+    "options": [
+      "keegoisan",
+      "realisme",
+      "materialisme",
+      "idealism"
+    ],
+    "answer": "idealism",
+    "penjelasan": "Filsafat Plato dikenal sebagai idealisme karena memandang bahwa hakikat tertinggi dan keindahan abadi berada di dunia ide, melampaui bentuk fisik/lahiriah."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Bagaimanakah pemerintahan yang ideal menurut Aristoteles, yaitu ....",
+    "options": [
+      "pemerintah sebagai kenyataan tertinggi atas individu dan individu dengan kebahagiaannya ditingkatkan menjadi kebahagiaan negara.",
+      "individu sebagai kenyataan tertinggi atas pemerintah. kebahagiaan negara hanya tercipta jika semua individu merasa bahagia.",
+      "monarchy yaitu kerajaan yang absolut adalah jaminan kebahaiaan individu",
+      "pengaturan pemerintah yang paling baik adalah semua warga Negara sama derajad di mata hukum."
+    ],
+    "answer": "pemerintah sebagai kenyataan tertinggi atas individu dan individu dengan kebahagiaannya ditingkatkan menjadi kebahagiaan negara.",
+    "penjelasan": "Menurut Aristoteles, negara bertujuan mencapai kebaikan tertinggi, sehingga kebahagiaan individu dilebur dan ditingkatkan demi terwujudnya kebahagiaan bersama dalam negara."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Laku Dewa Baruna yang patut dicontoh oleh pemimpin ....",
+    "options": [
+      "mengandalkan kekuasaan mutlak untuk menaklukkan lawan",
+      "mengutamakan strategi militer dalam menghadapi ancaman luar",
+      "mengembangkan ilmu untuk menghadapi berbagai persoalan negara",
+      "mengendalikan masyarakat dengan aturan yang ketat dan tegas"
+    ],
+    "answer": "mengembangkan ilmu untuk menghadapi berbagai persoalan negara",
+    "penjelasan": "Dalam ajaran kepemimpinan Astabrata, watak Dewa Baruna melambangkan keluasan ilmu pengetahuan dan wawasan yang dalam untuk mengatasi segala permasalahan negara."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Perbuatan etik Sri Rama kepada Barata setelah menolak permintaan Barata ialah memberi sesuatu sebagai simbol bahwa pemerintahan dan kekuasaan negara, Sri Rama serahkan dengan ikhlas kepada Barata. Pemberian tersebut berupa ....",
+    "options": [
+      "terompah (sandal terbuat dari kulit model kuno)",
+      "wangsit",
+      "mahkota",
+      "brata"
+    ],
+    "answer": "terompah (sandal terbuat dari kulit model kuno)",
+    "penjelasan": "Dalam kisah Ramayana, Sri Rama menyerahkan sepasang terompah (paduka) kepada Barata untuk diletakkan di singgasana sebagai lambang legitimasi kekuasaan sementara."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Nilai yang menuntut seseorang untuk menjaga perasaan orang lain demi menjaga keharmonisan dalam hubungan sosial disebut ....",
+    "options": [
+      "tenggang raso",
+      "waspada",
+      "arif bijaksana",
+      "adil"
+    ],
+    "answer": "tenggang raso",
+    "penjelasan": "Tenggang raso adalah sikap menghargai dan menjaga perasaan orang lain demi menjaga keharmonisan hubungan sosial."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Istilah siri dalam Kebudayaan Bugis merupakan ....",
+    "options": [
+      "kejujuran",
+      "adat kebiasaan yang melembaga dan masih besar pengaruhnya dalam budaya kehidupan masyarakat sulawesi selatan",
+      "Kecendekiaan",
+      "keteguhan"
+    ],
+    "answer": "adat kebiasaan yang melembaga dan masih besar pengaruhnya dalam budaya kehidupan masyarakat sulawesi selatan",
+    "penjelasan": "Siri' merupakan sistem nilai budaya dan adat kebiasaan yang sangat mengakar dalam menjaga harga diri serta tata kehidupan masyarakat Bugis-Makassar di Sulawesi Selatan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Moral yang hanya ditentukan oleh kecendrungan alami manusia yang timbul karena kekuatan yang ada dalam diri atau pribadi manusia, disebut moral ....",
+    "options": [
+      "otonom",
+      "kebiasaan",
+      "adat istiadat",
+      "asli atau positif"
+    ],
+    "answer": "otonom",
+    "penjelasan": "Moral otonom bersumber dari kesadaran, kehendak bebas, dan dorongan batin individu itu sendiri, bukan karena paksaan aturan dari luar."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Kebiasaan mempunyai alat pemaksa yang akan menjatuhkan hukuman kepada siapa saja yang melawan atau melanggarnya. Contoh hukuman tersebut sebagai berikut, kecuali ....",
+    "options": [
+      "boikot",
+      "celaan",
+      "cemoohan",
+      "pidana"
+    ],
+    "answer": "pidana",
+    "penjelasan": "Pelanggaran terhadap norma kebiasaan hanya dikenai sanksi sosial (seperti boikot, celaan, atau cemoohan), sedangkan sanksi pidana hanya berlaku untuk pelanggaran norma hukum."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Menurut Etika kebiasaan yang dikemukakan oleh Lemaire, Kegiatan menyapa tetangga setiap pagi meskipun tanpa mengetahui alasan nilainya merupakan contoh dari aturan ....",
+    "options": [
+      "hukum",
+      "gewoonte",
+      "fatsoen",
+      "gebruik"
+    ],
+    "answer": "gebruik",
+    "penjelasan": "Menurut Lemaire, gebruik adalah kelaziman atau kebiasaan sehari-hari yang dilakukan berulang-ulang tanpa disertai kesadaran akan alasan nilai moral di baliknya."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Ketika suatu kebijakan dilihat dari sisi rechtmatigheid, maka yang menjadi perhatian utama adalah ....",
+    "options": [
+      "kesesuaian dengan ketentuan hukum yang berlaku",
+      "manfaat sosial yang dihasilkan",
+      "keadilan bagi pihak-pihak yang terlibat",
+      "keuntungan ekonomi jangka panjang"
+    ],
+    "answer": "kesesuaian dengan ketentuan hukum yang berlaku",
+    "penjelasan": "Rechtmatigheid berarti keabsahan menurut hukum, sehingga fokus utamanya adalah menilai apakah suatu tindakan atau kebijakan telah sesuai dengan peraturan perundang-undangan yang berlaku."
+  },
+
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Teori berikut ini menegaskan bahwa hukum bertujuan menjamin faedah sebesar-besarnya kepada sebanyak mungkin orang, yaitu ....",
+    "options": [
+      "utilistis",
+      "komulatif",
+      "liberalism",
+      "individualism"
+    ],
+    "answer": "utilistis",
+    "penjelasan": "Teori utilitis (utilitarianisme) berpandangan bahwa tujuan hukum adalah memberikan kebahagiaan dan kemanfaatan yang sebesar-besarnya bagi sebanyak mungkin orang."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Nilai-nilai moral dan norma-norma moral yang menjadi pegangan atau acuan bagi penyelenggara negara dalam mengatur aktivitas tingkah lakunya sebagai penyelenggara negara, disebut etika ....",
+    "options": [
+      "pegawai",
+      "jabatan",
+      "profesi",
+      "penyelenggaraan negara"
+    ],
+    "answer": "penyelenggaraan negara",
+    "penjelasan": "Etika penyelenggaraan negara adalah seperangkat nilai dan norma moral yang secara khusus menjadi pedoman perilaku bagi para penyelenggara negara dalam menjalankan tugas dan wewenangnya."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Dalam kaitannya dengan etika jabatan, seorang pejabat pemerintah sebagai individu wajib ....",
+    "options": [
+      "melaksanakan tugas berdasarkan kepentingan pribadi",
+      "menyesuaikan perilaku sesuai dengan etika jabatan dan etika pemerintahan",
+      "meninggalkan semua norma sosial dalam menjalankan tugasnya",
+      "mengutamakan kepentingan kelompok daripada kepentingan umum"
+    ],
+    "answer": "menyesuaikan perilaku sesuai dengan etika jabatan dan etika pemerintahan",
+    "penjelasan": "Sebagai pejabat, seseorang terikat untuk menyelaraskan tindakan dan perilakunya dengan standar etika jabatan serta etika pemerintahan yang berlaku."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Menurut filsafat Heymans, norma etika berlaku secara ....",
+    "options": [
+      "relatif, bergantung pada keadaan individu",
+      "mutlak, tanpa tergantung pada faktor lain",
+      "tergantung pada hukum alam dan kebiasaan",
+      "bergantung pada pandangan masyarakat"
+    ],
+    "answer": "mutlak, tanpa tergantung pada faktor lain",
+    "penjelasan": "Dalam pandangan filsafat Heymans, norma etika memiliki sifat yang mutlak dan mengikat secara universal tanpa bergantung pada situasi atau faktor luar."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Perbuatan apa yang dapat dianggap sebagai misbruik van recht dalam konteks pilkada?",
+    "options": [
+      "membuat program kegiatan untuk kepentingan masyarakat",
+      "membagikan HP kepada Ketua RW dengan biaya APBD menjelang pemungutan suara",
+      "menggunakan dana APBD untuk proyek infrastruktur",
+      "menerima bantuan dari partai politik dalam kampanye"
+    ],
+    "answer": "membagikan HP kepada Ketua RW dengan biaya APBD menjelang pemungutan suara",
+    "penjelasan": "Tindakan tersebut merupakan bentuk penyalahgunaan kewenangan/hak (misbruik van recht) menggunakan anggaran negara untuk kepentingan politik praktis menjelang pemilu/pilkada."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Istilah misbruik van recht dalam perbuatan tidak patut yang dilakukan oleh pemerintah, dapat diartikan sebagai ....",
+    "options": [
+      "penyalahgunaan hak",
+      "penyalahgunaan kekuasaan",
+      "penyalahgunaan kewajiban",
+      "penyalahgunaan kewenangan"
+    ],
+    "answer": "penyalahgunaan kewenangan",
+    "penjelasan": "Secara harfiah dan yuridis dalam hukum administrasi, misbruik van recht atau detournement de pouvoir merujuk pada tindakan penyalahgunaan kewenangan oleh organ pemerintahan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Apa yang dimaksud dengan \"red tape\" dalam konteks pemerintahan ....",
+    "options": [
+      "prosedur yang efisien dalam pekerjaan administratif",
+      "proses administratif yang bebas dari hambatan",
+      "pengelolaan aturan yang cepat dan tanpa birokrasi",
+      "kepatuhan yang berlebihan terhadap peraturan yang menghambat kelancaran"
+    ],
+    "answer": "kepatuhan yang berlebihan terhadap peraturan yang menghambat kelancaran",
+    "penjelasan": "Istilah red tape menggambarkan birokrasi yang kaku, lambat, dan terlalu berbelit-belit akibat kepatuhan berlebihan pada aturan formal yang justru menghambat efisiensi."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Apa alasan pemerintah dapat menggunakan hukum privat meskipun mengatur kepentingan perorangan atau khusus?",
+    "options": [
+      "hukum privat lebih mengutamakan kepentingan umum",
+      "kepentingan perorangan selalu berkaitan dengan kepentingan umum",
+      "hukum privat hanya mengatur masalah internal pemerintah",
+      "hukum privat lebih cepat menyelesaikan masalah"
+    ],
+    "answer": "kepentingan perorangan selalu berkaitan dengan kepentingan umum",
+    "penjelasan": "Pemerintah dapat menggunakan instrumen hukum privat karena dalam batas-batas tertentu kepentingan perorangan yang diatur tetap bersinggungan dan bertujuan untuk kepentingan umum."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Perbuatan hukum publik yang bersisi dua biasanya disebut dengan istilah ....",
+    "options": [
+      "perjanjian",
+      "ketetapan",
+      "keputusan",
+      "beschikking"
+    ],
+    "answer": "perjanjian",
+    "penjelasan": "Perbuatan hukum publik bersisi dua (konsensual) melibatkan kesepakatan antara dua belah pihak atau lebih, yang umumnya diwujudkan dalam bentuk perjanjian atau kontrak publik."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Bagaimana kontrol terhadap detournement de pouvoir dilakukan dalam sistem hukum administrasi?",
+    "options": [
+      "intervensi langsung oleh badan legislatif",
+      "peninjauan ulang oleh perangkat pemerintah terkait",
+      "pembatalan oleh hakim peradilan administrasi negara",
+      "peraturan tambahan yang disusun oleh pemerintah"
+    ],
+    "answer": "pembatalan oleh hakim peradilan administrasi negara",
+    "penjelasan": "Kontrol terhadap tindakan penyalahgunaan wewenang (detournement de pouvoir) oleh pemerintah dilakukan melalui pengujian dan pembatalan keputusan oleh hakim di peradilan administrasi negara."
+  },
+
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Asas ini menghendaki agar perangkat pemerintah yang melakukan perbuatan tetap memegang keadilan yang tertumpu pada kesamaan kedudukan dan kewajiban seluruh warga Negara di dalam hukum dan pemerintahan sesuai dengan yang tercantum dalam pasal 27 ayat (1) Undang-Undang Dasar 1945. Misalnya, memperlakukan setiap warga Negara sama dalam rekrutmen, mutasi dan promosi. Hal tersebut termasuk dalam asas ....",
+    "options": [
+      "kecermatan berbuat",
+      "keadilan",
+      "kesamaan",
+      "menanggapi harapan yang wajar"
+    ],
+    "answer": "kesamaan",
+    "penjelasan": "Asas kesamaan (equality before the law) menuntut perlakuan yang sama rata serta kesadaran kedudukan di hadapan hukum dan pemerintahan bagi setiap warga negara."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Kebijakan yang secara mudah untuk memberikan izin pemeriksaan terhadap pejabat negara belum bisa dijadikan ukuran untuk mengatakan program pemberantasan korupsi dianggap berhasil. Hal ini sebab dalam diri Presiden sebagai pemberi aturan ijin pemeriksaan terdapat ....",
+    "options": [
+      "veto",
+      "privilese",
+      "diskresi",
+      "prerogative"
+    ],
+    "answer": "prerogative",
+    "penjelasan": "Kebijakan izin pemeriksaan pejabat negara berkaitan erat dengan hak prerogatif presiden dalam sistem ketatanegaraan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Mengapa argumen mempertahankan izin pemeriksaan dinilai lemah ....",
+    "options": [
+      "tidak disertai alasan yang relevan secara hukum",
+      "tidak memiliki dasar hukum yang konsisten",
+      "tidak pernah dijelaskan secara terbuka",
+      "tidak berdasarkan bukti empirik yang kuat"
+    ],
+    "answer": "tidak disertai alasan yang relevan secara hukum",
+    "penjelasan": "Argumen yang mempertahankan izin pemeriksaan kerap dinilai lemah karena kurang didukung oleh alasan yuridis yang relevan untuk menegakkan keadilan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Bentuk penyimpangan yang menunjukkan seseorang menyembunyikan pelanggaran yang telah terjadi disebut ....",
+    "options": [
+      "favoritisme dalam menafsirkan aturan hukum",
+      "ketidakjujuran dalam menyampaikan informasi",
+      "menutupi kesalahan dalam pengambilan keputusan",
+      "gagal menunjukkan inisiatif yang dibutuhkan"
+    ],
+    "answer": "menutupi kesalahan dalam pengambilan keputusan",
+    "penjelasan": "Tindakan menyembunyikan suatu pelanggaran atau kesalahan yang telah diperbuat merupakan bentuk penyimpangan berupa penutupan kesalahan dalam pengambilan keputusan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Ketika seorang pejabat tidak mau mengambil langkah apa pun untuk memperbaiki pelayanan publik, hal itu mencerminkan ....",
+    "options": [
+      "favoritisme dalam menafsirkan aturan hukum",
+      "menutupi kesalahan dalam penyampaian laporan",
+      "ketidakjujuran dalam pelaporan kinerja",
+      "gagal menunjukkan inisiatif dalam pekerjaan"
+    ],
+    "answer": "gagal menunjukkan inisiatif dalam pekerjaan",
+    "penjelasan": "Sikap pasif dan keengganan mengambil langkah perbaikan pelayanan publik menunjukkan kegagalan pejabat dalam menunjukkan inisiatif kerja."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Setiap penyelenggara negara ataupun penyelenggaraan pemerintahan daerah untuk mematuhi peraturan hukum dan perundang-undangan. Maksud dari pernyataan tersebut merupakan penjelasan norma etika yan melekat pada para penyelenggara negara, yaitu ....",
+    "options": [
+      "taat hukum atau aturan",
+      "disiplin",
+      "keadilan",
+      "tanggungjawab dan akuntabel"
+    ],
+    "answer": "taat hukum atau aturan",
+    "penjelasan": "Kewajiban untuk mematuhi peraturan hukum dan perundang-undangan secara langsung mencerminkan norma etika taat hukum atau aturan bagi penyelenggara negara."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Seorang pemimpin yang mengedepankan keadilan dalam memberikan pelayanan kepada semua golongan masyarakat, tanpa membeda-bedakan status sosial atau ras, telah menerapkan norma ....",
+    "options": [
+      "jujur dan Keiklasan",
+      "taat Hukum dan Aturan",
+      "adil",
+      "sopan Santun"
+    ],
+    "answer": "adil",
+    "penjelasan": "Pelayanan yang tidak membeda-bedakan golongan, status sosial, atau ras merupakan wujud nyata penerapan norma keadilan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Salah satu tujuan utama dari kode etik instansi dan profesi adalah untuk ....",
+    "options": [
+      "menentukan sanksi administratif bagi pelanggaran etika",
+      "menetapkan prinsip dasar yang harus diikuti oleh setiap penyelenggara negara",
+      "menghukum pelanggar etik dengan sanksi yang tegas dan langsung",
+      "menjamin bahwa semua anggota instansi mendapatkan promosi jabatan"
+    ],
+    "answer": "menetapkan prinsip dasar yang harus diikuti oleh setiap penyelenggara negara",
+    "penjelasan": "Kode etik berfungsi sebagai pedoman yang menetapkan prinsip dasar perilaku dan moral yang wajib dipatuhi oleh para anggotanya."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Setiap penyelenggara negara dalam menjalankan tugas dan wewenang dalam rangka menjalankan kegiatan penyelenggaraan negara harus berlandaskan keteraturan, keserasian dan keseimbangan, merupakan penjelasan asas dari penegakan etika penyelenggara negara, yaitu asas ....",
+    "options": [
+      "kepastian hukum",
+      "kepentingan umum",
+      "keterbukaan",
+      "tertib penyelenggaraan negara"
+    ],
+    "answer": "tertib penyelenggaraan negara",
+    "penjelasan": "Asas tertib penyelenggaraan negara menghendaki pelaksanaan tugas yang berlandaskan pada prinsip keteraturan, keserasian, dan keseimbangan."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Apabila keputusan majelis kode etik dalam menentukan seorang pegawai ASN melanggar kode etik secara musyawarah mufakat tidak tercapai, maka keputusan yang diambil adalah ....",
+    "options": [
+      "negosiasi",
+      "mediasi",
+      "melalui suara terbanyak",
+      "yudisial"
+    ],
+    "answer": "melalui suara terbanyak",
+    "penjelasan": "Jika musyawarah mufakat tidak tercapai dalam sidang majelis kode etik, mekanisme pengamannya ditempuh melalui pengambilan keputusan suara terbanyak."
+  },
+
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Fungsi utama dari pengawasan fungsional yang dilakukan oleh Inspektorat Jenderal Departemen/Kementerian adalah untuk ....",
+    "options": [
+      "melakukan evaluasi keuangan negara pada tingkat pusat",
+      "mengawasi pelaksanaan kebijakan yang ditetapkan oleh gubernur",
+      "mengawasi pelaksanaan kebijakan yang ditetapkan oleh menteri atau kepala LPND",
+      "memastikan transparansi pengelolaan anggaran daerah"
+    ],
+    "answer": "mengawasi pelaksanaan kebijakan yang ditetapkan oleh menteri atau kepala LPND",
+    "penjelasan": "Inspektorat Jenderal pada kementerian bertugas melaksanakan pengawasan internal terhadap pelaksanaan tugas serta kebijakan yang dipimpin oleh menteri atau kepala lembaga."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Pengawasan yang diwujudkan dalam berbagai upaya yang terjalin dalam tata laksana kegiatan yang dilakukan organisasi melalui pengawasan atasan langsung terhadap kegiatan yang dilaksanakan oleh unit kerja yang berada dibawahnya, merupakan penjelasan dari pengawasan ....",
+    "options": [
+      "masyarakat",
+      "melekat",
+      "fungsional",
+      "struktural"
+    ],
+    "answer": "melekat",
+    "penjelasan": "Pengawasan melekat (waskat) adalah pengawasan yang dilakukan secara terus-menerus oleh atasan langsung terhadap bawahannya di dalam suatu organisasi."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Melakukan percobaan pembunuhan, memasang bom, penganiayaan misalnya dengan menyiram air keras ke wajah seperti yang dialami oleh mantan penyidik KPK Novel Baswedan merupakan salah satu pola umum ancaman yang biasanya dilakukan terhadap para saksi atau pelapor yang mencoba membantu aparat untuk membongkar sebuah tindak pidana, yaitu pola ....",
+    "options": [
+      "kriminalisasi",
+      "pemutusan hubungan kerja sepihak",
+      "kekerasan fisik",
+      "teror dan intimidasi"
+    ],
+    "answer": "kekerasan fisik",
+    "penjelasan": "Tindakan seperti penganiayaan dan penyiraman air keras merupakan bentuk nyata dari ancaman berupa kekerasan fisik terhadap saksi atau pelapor."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Berikut salah satu tata cara memperoleh perlindungan terhadap saksi dan korban, kecuali ....",
+    "options": [
+      "saksi atau korban yang bersangkutan baik atas inisiatif sendiri maupun atas permintaan pejabat yang berwenang, mengajukan permohonan secara tertulis kepada LPSK",
+      "LPSK segera melakukan pemeriksaan terhadap permohonan dari saksi atau korban",
+      "keputusan LPSK diberikan secara tertulis paling lambat tiga hari sejak permohonan perlindungan diajukan",
+      "keputusan LPSK diberikan secara tertulis paling lambat tujuh hari sejak permohonan perlindungan diajukan"
+    ],
+    "answer": "keputusan LPSK diberikan secara tertulis paling lambat tiga hari sejak permohonan perlindungan diajukan",
+    "penjelasan": "Berdasarkan aturan yang berlaku di UU Perlindungan Saksi dan Korban, batas waktu pemberian keputusan tertulis oleh LPSK umumnya adalah paling lambat tujuh hari, sehingga opsi tiga hari merupakan pernyataan yang salah (kecuali)."
+  },
+  {
+    "kode_soal": "FSPE4401",
+    "kategori": "Etika Pemerintahan",
+    "question": "Semua bentuk kejahatan yang dilakukan dua orang atau lebih ataupun beberapa orang dengan cara melakukan kerja sama secara rapi dan terorganisasi untuk suatu tujuan tertentu dalam melakukan kejahatan. Hasil yang bakal diperoleh dengan sendirinya sudah menjadi hak bersama untuk bersama-sama menikmati/memanfaatkannya, disebut ....",
+    "options": [
+      "kuatnya pengaruh kolusi dalam jiwa pensiuanan aparat penegak hukum",
+      "kuatnya jaringan kerjasama pelaku kejahatan (organized crime)",
+      "tekanan yang kuat kepada aparat penegak hukum",
+      "faktor kepentingan yang melekat pada aparat pelaksana"
+    ],
+    "answer": "kuatnya jaringan kerjasama pelaku kejahatan (organized crime)",
+    "penjelasan": "Definisi tersebut merujuk pada kejahatan terorganisasi (organized crime), di mana para pelaku bekerja sama secara sistematis untuk memperoleh keuntungan bersama."
   }
 ]
+
+
+
+
+
+
+
+
+
+
