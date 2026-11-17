@@ -213,8 +213,10 @@ button:disabled {
 }
 
 .option-button.correct {
-  background: #dcfce7;
+  background: #86efac;
   border: 1px solid #16a34a;
+  color: #14532d;
+  opacity: 1;
 }
 
 .option-button.correct .option-letter {
@@ -240,8 +242,8 @@ button:disabled {
 }
 
 .feedback.correct {
-  background: #f0fdf4;
-  border: 1px solid #86efac;
+  background: #86efac;
+  border: 1px solid #121313;
 }
 
 .feedback.wrong {
