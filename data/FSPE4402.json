@@ -1,0 +1,1731 @@
+
+[
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam perspektif manajemen, tata kelola aset tidak hanya berkaitan dengan pencatatan kekayaan, tetapi juga mencakup proses pengelolaan yang sistematis. Berdasarkan pengertian tersebut, tata kelola aset mencakup kegiatan ....",
+    "options": [
+      "perencanaan, pengorganisasian, pengarahan, dan pengendalian",
+      "pembelian, penjualan, peminjaman, dan penghapusan",
+      "penganggaran, perpajakan, pembiayaan, dan pemeriksaan",
+      "pembangunan, penggunaan, pemindahan, dan pembagian"
+    ],
+    "answer": "perencanaan, pengorganisasian, pengarahan, dan pengendalian",
+    "penjelasan": "Dalam perspektif manajemen umum (fungsi POAC), tata kelola aset mencakup proses pengelolaan sistematis yang terdiri dari perencanaan, pengorganisasian, pengarahan, dan pengendalian atas seluruh siklus hidup aset."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Suatu pemerintah daerah perlu mengetahui nilai ekonomis suatu aset sebelum menentukan kebijakan pemanfaatannya. Aspek dalam ruang lingkup tata kelola aset yang paling berkaitan dengan kebutuhan tersebut adalah ....",
+    "options": [
+      "keuangan",
+      "hukum",
+      "teknik sipil",
+      "teknologi informasi"
+    ],
+    "answer": "keuangan",
+    "penjelasan": "Penilaian aset untuk mengetahui nilai ekonomis maupun nilai wajarnya merupakan bagian utama dari aspek keuangan dalam ruang lingkup manajemen/tata kelola aset."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah pemerintah daerah melakukan pendataan seluruh aset sebelum menyusun rencana pengadaan. Hasil pendataan menunjukkan bahwa beberapa aset yang akan dibeli sebenarnya masih tersedia dan dapat digunakan. Manfaat tata kelola aset dalam kondisi tersebut adalah ....",
+    "options": [
+      "menghindari pembelian aset yang berlebihan",
+      "meningkatkan jumlah aset yang tersedia",
+      "mempercepat proses pengadaan barang",
+      "meningkatkan biaya pemeliharaan aset"
+    ],
+    "answer": "menghindari pembelian aset yang berlebihan",
+    "penjelasan": "Inventarisasi dan pendataan aset sebelum pengadaan membantu organisasi mengetahui ketersediaan aset yang ada sehingga dapat mencegah duplikasi atau pembelian aset yang berlebihan (over-procurement) dan menghemat anggaran."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pernyataan yang paling tepat untuk menjelaskan manajemen logistik publik dibawah ini adalah ....",
+    "options": [
+      "proses perencanaan, implementasi, dan pengendalian seluruh kegiatan logistik",
+      "kegiatan logistik yang hanya dilakukan oleh perusahaan swasta untuk memperoleh keuntungan",
+      "pengelolaan barang di dalam pabrik yang terbatas pada penyediaan bahan baku produksi",
+      "kegiatan penjualan barang publik kepada pelanggan melalui jaringan ritel"
+    ],
+    "answer": "proses perencanaan, implementasi, dan pengendalian seluruh kegiatan logistik",
+    "penjelasan": "Manajemen logistik publik adalah proses perencanaan, implementasi, dan pengendalian aliran serta penyimpanan barang, jasa, dan informasi terkait secara efektif dan efisien di sektor publik untuk memenuhi kebutuhan masyarakat."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Manakah pernyataan dibawah ini yang paling tepat mengenai tujuan manajemen rantai pasokan (supply chain management) ...",
+    "options": [
+      "Memastikan seluruh item barang berada pada tempat dan waktu yang tepat agar memberikan keuntungan terbaik dan pelayanan kepada pelanggan",
+      "Menjamin setiap perusahaan dalam rantai memperoleh harga jual setinggi mungkin dari pelanggan",
+      "Memisahkan aktivitas tiap bagian perusahaan agar masing-masing memiliki ukuran keberhasilan sendiri",
+      "Membatasi aliran informasi hanya pada bagian pengadaan agar biaya operasional berkurang"
+    ],
+    "answer": "Memastikan seluruh item barang berada pada tempat dan waktu yang tepat agar memberikan keuntungan terbaik dan pelayanan kepada pelanggan",
+    "penjelasan": "Tujuan utama supply chain management adalah mengintegrasikan seluruh rantai pasokan agar barang/jasa tersedia pada tempat dan waktu yang tepat dengan biaya optimal guna memberikan nilai serta pelayanan terbaik kepada pelanggan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah organisasi menerapkan pembagian tugas yang jelas antarunit kerja, memiliki struktur wewenang yang berjenjang dari atas ke bawah, serta menetapkan aturan dan prosedur baku yang wajib diikuti oleh seluruh anggotanya. Karakteristik tersebut sesuai dengan salah satu konsep utama dalam teori organisasi klasik, yaitu ....",
+    "options": [
+      "spesialisasi dan pengawasan informal",
+      "pembagian kerja dan hierarki wewenang",
+      "fleksibilitas dan desentralisasi organisasi",
+      "hubungan personal dan kebebasan kerja"
+    ],
+    "answer": "pembagian kerja dan hierarki wewenang",
+    "penjelasan": "Teori organisasi klasik (seperti gagasan Henri Fayol dan Max Weber) menekankan efisiensi melalui pembagian kerja (division of work), hierarki wewenang yang jelas dari atas ke bawah, serta aturan dan prosedur yang baku."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah pendekatan manajemen menggunakan pola hubungan fungsional \"bila-maka\" (if-then), di mana \"bila\" menunjukkan variabel-variabel lingkungan, sedangkan \"maka\" berupa konsep dan teknik manajemen yang diarahkan pada pencapaian tujuan organisasi. Pendekatan yang dimaksud adalah ....",
+    "options": [
+      "pendekatan proses",
+      "pendekatan situasional (contingency)",
+      "pendekatan keperilakuan",
+      "pendekatan kuantitatif"
+    ],
+    "answer": "pendekatan situasional (contingency)",
+    "penjelasan": "Pendekatan situasional (contingency approach) memandang bahwa tidak ada satu cara terbaik yang berlaku universal; teknik manajemen (\"maka\") harus disesuaikan dengan kondisi atau variabel situasi lingkungan yang dihadapi (\"bila\")."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Suatu organisasi pemerintah menyediakan informasi mengenai kebijakan dan tindakan yang dilakukan kepada masyarakat. Informasi tersebut dapat diakses oleh pihak yang berkepentingan sehingga masyarakat dapat mengetahui dan mengawasi proses pengelolaan organisasi. Kondisi tersebut menunjukkan penerapan prinsip good governance, yaitu ....",
+    "options": [
+      "konsensus",
+      "partisipasi",
+      "transparansi",
+      "efektivitas"
+    ],
+    "answer": "transparansi",
+    "penjelasan": "Prinsip transparansi dalam good governance dibangun atas dasar kebebasan memperoleh informasi yang berkaitan dengan kepentingan publik secara langsung oleh pihak-pihak yang membutuhkan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Tingkatan manajemen perubahan yang berkaitan erat dengan manajemen proyek, di mana manajer memastikan sumber daya mana yang perlu diubah demi keberhasilan proyek, disebut ....",
+    "options": [
+      "perubahan individu",
+      "perubahan organisasi",
+      "perubahan kemampuan perusahaan",
+      "perubahan kultural"
+    ],
+    "answer": "perubahan organisasi",
+    "penjelasan": "Dalam model manajemen perubahan (seperti kerangka Prosci), perubahan organisasi (organizational/initiative change management) berkaitan langsung dengan manajemen proyek untuk mengidentifikasi kelompok atau sumber daya dalam organisasi yang terdampak dan perlu diubah demi keberhasilan proyek."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Seorang peneliti melakukan studi kasus mendalam pada satu perusahaan untuk memahami praktik pencatatan asetnya, tanpa membawa asumsi teori tertentu sebelumnya. Tujuan penelitian ini hanya untuk menjawab pertanyaan \"apa yang terjadi di perusahaan ini?\" tanpa bermaksud menggeneralisasi hasilnya. Pendekatan yang digunakan peneliti tersebut adalah ....",
+    "options": [
+      "pendekatan ilmiah, karena menggunakan metode sistematis",
+      "pendekatan naturalis, karena fleksibel, kontekstual, dan tidak bertujuan generalisasi",
+      "pendekatan normatif, karena menentukan standar pencatatan aset",
+      "pendekatan pragmatik, karena mengamati perilaku akuntan"
+    ],
+    "answer": "pendekatan naturalis, karena fleksibel, kontekstual, dan tidak bertujuan generalisasi",
+    "penjelasan": "Pendekatan naturalistik (kualitatif/interpretatif) dalam penelitian menelaah fenomena secara alami dan kontekstual pada kasus spesifik tanpa hipotesis kaku sebelumnya serta tidak berorientasi pada generalisasi statistik."
+  },
+
+
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah instansi pemerintah daerah mewajibkan seluruh unit pengelola aset untuk membentuk struktur organisasi tertentu dan menerapkan prosedur standar (seperti sistem informasi manajemen aset) karena adanya peraturan pemerintah pusat yang mengharuskan demikian agar mendapatkan pengakuan/legitimasi. Bentuk isomorphisme yang terjadi pada kasus tersebut adalah ....",
+    "options": [
+      "mimesis isomorphis, karena instansi meniru instansi lain",
+      "normatif isomorphis, karena adanya tuntutan profesional",
+      "coersif isomorphis, karena adanya tekanan/paksaan dari peraturan pemerintah",
+      "loose-coupling, karena organisasi bersifat sebagai sistem terbuka"
+    ],
+    "answer": "coersif isomorphis, karena adanya tekanan/paksaan dari peraturan pemerintah",
+    "penjelasan": "Isomorfisme koersif (coercive isomorphism) terjadi ketika suatu organisasi menyesuaikan struktur dan prosedurnya akibat adanya tekanan formal maupun informal dari pihak lain yang memiliki otoritas, seperti peraturan atau mandat pemerintah."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dua daerah otonom baru berencana membentuk unit pengelola aset bersama. Proses pelembagaan di daerah pertama berjalan lancar karena kedua wilayah memiliki latar belakang adat dan kebiasaan kerja yang serupa, sedangkan di daerah kedua proses tersebut mengalami hambatan karena masing-masing pihak memiliki kebiasaan kerja yang sangat berbeda. Perbedaan hasil pelembagaan pada kedua kasus tersebut paling tepat dijelaskan oleh faktor ....",
+    "options": [
+      "frekuensi interaksi yang tinggi",
+      "koordinasi interaksi/kerja sama yang baik",
+      "kesamaan pola kebudayaan asal di antara para anggota",
+      "ketersediaan tokoh pemimpin yang memenuhi syarat"
+    ],
+    "answer": "kesamaan pola kebudayaan asal di antara para anggota",
+    "penjelasan": "Latar belakang adat, nilai, dan kebiasaan kerja yang serupa mempermudah penyatuan persepsi dan norma sehingga proses pelembagaan berjalan lancar karena adanya kesamaan pola kebudayaan asal di antara para anggotanya."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Salah satu alasan tidak optimalnya kapasitas kelembagaan pusat-daerah di organisasi publik Indonesia adalah ....",
+    "options": [
+      "kurangnya jumlah pegawai di setiap instansi",
+      "adanya multiplisitas dan konflik antartujuan organisasi",
+      "terlalu banyak pelatihan yang diberikan kepada pegawai",
+      "anggaran organisasi yang terlalu besar"
+    ],
+    "answer": "adanya multiplisitas dan konflik antartujuan organisasi",
+    "penjelasan": "Kapasitas kelembagaan pusat-daerah sering terkendala oleh tumpang tindih kewenangan serta adanya multiplisitas dan konflik antartujuan antarinstansi pemerintah yang menghambat sinergi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam hal Kepala Badan Pengelolaan Keuangan dan Aset Daerah berhalangan menjalankan tugasnya, dan Sekretaris juga berhalangan, maka yang berwenang mewakili adalah ....",
+    "options": [
+      "Bupati secara langsung",
+      "Salah seorang Kepala Bidang dengan memperhatikan senioritas kepangkatan",
+      "Kepala Unit Pelaksana Teknis Badan",
+      "Sekretaris Daerah"
+    ],
+    "answer": "Salah seorang Kepala Bidang dengan memperhatikan senioritas kepangkatan",
+    "penjelasan": "Sesuai tata urutan struktur kelembagaan perangkat daerah (BPKAD), apabila Kepala Badan dan Sekretaris berhalangan melaksanakan tugas, maka pelaksana tugas/perwakilan diserahkan kepada salah seorang Kepala Bidang dengan mempertimbangkan senioritas kepangkatan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah lembaga pengelola aset menetapkan target dalam pernyataan visinya agar dapat diukur ketercapaiannya oleh setiap pegawai, apakah tindakan yang dilakukan sudah sesuai arah pencapaian visi atau belum. Kriteria visi yang ditunjukkan pada contoh tersebut adalah ....",
+    "options": [
+      "Succinct",
+      "Appealing",
+      "Measurable",
+      "Feasible"
+    ],
+    "answer": "Measurable",
+    "penjelasan": "Kriteria measurable (terukur) berarti pernyataan visi memiliki indikator atau target yang jelas sehingga tingkat pencapaiannya dapat diukur dan dievaluasi secara objektif."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Akuntansi pemerintahan membantu pemerintah melaksanakan program-program secara terencana dan tercatat, sehingga kebijakan dapat berjalan efektif dan efisien. Hal ini menggambarkan tujuan ....",
+    "options": [
+      "akuntabilitas",
+      "manajerial",
+      "pengawasan",
+      "legalitas"
+    ],
+    "answer": "manajerial",
+    "penjelasan": "Tujuan manajerial akuntansi pemerintahan adalah menyediakan informasi keuangan yang terencana dan akurat untuk membantu pimpinan pemerintah dalam merencanakan, mengendalikan, dan menjalankan program secara efektif dan efisien."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dibawah ini yang merupakan sumber pendapatan akuntansi pemerintahan umumnya adalah ....",
+    "options": [
+      "penjualan barang dan jasa kepada konsumen",
+      "penetapan aturan secara hukum, misalnya pemberlakuan pajak",
+      "dividen dari investasi saham",
+      "bunga pinjaman bank"
+    ],
+    "answer": "penetapan aturan secara hukum, misalnya pemberlakuan pajak",
+    "penjelasan": "Berbeda dengan sektor swasta yang mengandalkan transaksi jual beli komersial, sumber pendapatan utama pemerintahan berasal dari kewenangan memaksa berdasarkan hukum, seperti pemungutan pajak dan retribusi. (Catatan: kata \"Dibawah\" disalin persis sesuai teks pada gambar)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Salah satu poin reformasi pengelolaan keuangan negara menurut Halim (2004) adalah perubahan dari anggaran tradisional menjadi anggaran kinerja. Perbedaan mendasar keduanya terletak pada ....",
+    "options": [
+      "anggaran tradisional menekankan pertanggungjawaban output dan outcome",
+      "anggaran kinerja hanya menekankan pertanggungjawaban input",
+      "anggaran tradisional menekankan pertanggungjawaban input, anggaran kinerja juga menekankan output dan outcome",
+      "keduanya sama-sama tidak memperhatikan pertanggungjawaban"
+    ],
+    "answer": "anggaran tradisional menekankan pertanggungjawaban input, anggaran kinerja juga menekankan output dan outcome",
+    "penjelasan": "Anggaran tradisional (line-item budgeting) berfokus pada pengendalian dan pertanggungjawaban input (alokasi belanja), sedangkan anggaran berbasis kinerja (performance-based budgeting) menekankan keterkaitan anggaran dengan capaian output dan outcome."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Aset berwujud yang mempunyai masa manfaat lebih dari 12 bulan dan digunakan dalam kegiatan pemerintah atau dimanfaatkan masyarakat umum, menurut Permenkeu 225/PMK.05/2019 disebut ....",
+    "options": [
+      "aset lancar",
+      "aset tetap",
+      "persediaan",
+      "aset lainnya"
+    ],
+    "answer": "aset tetap",
+    "penjelasan": "Berdasarkan PSAP Nomor 07 dan PMK No. 225/PMK.05/2019, aset berwujud yang memiliki masa manfaat lebih dari 12 bulan untuk digunakan dalam kegiatan pemerintah atau dimanfaatkan masyarakat umum diklasifikasikan sebagai aset tetap."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Metode penyusutan aset tetap yang digunakan pemerintah dan tarifnya sama setiap periode adalah ....",
+    "options": [
+      "metode saldo menurun ganda",
+      "metode jumlah angka tahun",
+      "metode garis lurus (straight line method)",
+      "metode unit produksi"
+    ],
+    "answer": "metode garis lurus (straight line method)",
+    "penjelasan": "Dalam Standar Akuntansi Pemerintahan (SAP), pemerintah menggunakan metode garis lurus (straight line method) yang membebankan nilai penyusutan secara merata dengan tarif yang sama setiap periode selama masa manfaat aset tetap."
+  },
+
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pada saat dilakukan pemeriksaan terhadap aset sebuah kementerian, auditor menemukan bahwa nilai beberapa aset yang tercatat dalam laporan berbeda dengan kondisi dan nilai wajarnya. Pengelola BMN sebenarnya telah memiliki data aset, tetapi data tersebut belum direkonsiliasi secara berkala. Akibatnya, terdapat perbedaan antara nilai yang tercatat dalam administrasi kementerian dengan nilai aset yang seharusnya dilaporkan. Berdasarkan kasus tersebut, kegiatan yang diperlukan untuk mengetahui kesesuaian nilai aset dengan nilai wajarnya adalah ....",
+    "options": [
+      "penghapusan aset",
+      "pemindahtanganan aset",
+      "rekonsiliasi aset",
+      "pemanfaatan aset"
+    ],
+    "answer": "rekonsiliasi aset",
+    "penjelasan": "Rekonsiliasi aset adalah kegiatan pencocokan dan penyesuaian data transaksi serta nilai aset antara pengelola/pengguna barang dengan unit akuntansi keuangan agar laporan yang disajikan akurat dan sesuai kondisi wajarnya."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah daerah memiliki gedung perkantoran yang luas. Setelah dilakukan evaluasi, diketahui bahwa hanya sekitar 40% ruangan yang digunakan secara rutin, sedangkan sebagian besar ruangan kosong dan tetap membutuhkan biaya listrik, keamanan, serta pemeliharaan. Berdasarkan konsep pengelolaan aset dalam kebijakan fiskal, kondisi tersebut dapat dijelaskan sebagai ....",
+    "options": [
+      "financial burden karena pemerintah memperoleh manfaat ekonomi dari gedung",
+      "underutilized asset karena aset tidak digunakan secara optimal",
+      "asset recycling karena seluruh gedung telah dijual kepada pihak swasta",
+      "kebijakan fiskal ekspansif karena pemerintah meningkatkan pengeluaran"
+    ],
+    "answer": "underutilized asset karena aset tidak digunakan secara optimal",
+    "penjelasan": "Underutilized asset merujuk pada aset milik pemerintah yang penggunaannya berada di bawah kapasitas optimalnya (sebagian besar menganggur/kosong), sementara tetap menimbulkan beban biaya operasional dan pemeliharaan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah memiliki gedung kantor yang dibeli menggunakan APBN dan digunakan oleh sebuah kementerian untuk melaksanakan tugas pemerintahan. Gedung tersebut dicatat dalam daftar BMN dan berada dalam pengelolaan kementerian terkait. Berdasarkan klasifikasi aset negara, gedung tersebut termasuk ....",
+    "options": [
+      "kekayaan negara yang dipisahkan",
+      "kekayaan negara yang dikuasai masyarakat",
+      "barang milik negara yang tidak dipisahkan",
+      "investasi pemerintah pada badan usaha"
+    ],
+    "answer": "barang milik negara yang tidak dipisahkan",
+    "penjelasan": "Aset yang diperoleh atas beban APBN dan dikelola langsung oleh kementerian/lembaga untuk penyelenggaraan tugas pemerintahan diklasifikasikan sebagai Barang Milik Negara (BMN) atau kekayaan negara yang tidak dipisahkan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah Kabupaten Sejahtera menemukan bahwa sertifikat tanah milik daerah belum seluruhnya terdokumentasi dengan baik. Untuk menghindari sengketa kepemilikan, pemerintah melakukan penertiban dokumen kepemilikan tanah. Tindakan tersebut merupakan bentuk ....",
+    "options": [
+      "pengamanan administrasi dan hukum",
+      "pemanfaatan aset",
+      "pemindahtanganan aset",
+      "penghapusan aset"
+    ],
+    "answer": "pengamanan administrasi dan hukum",
+    "penjelasan": "Penertiban, pencatatan, dan pengurusan bukti kepemilikan (seperti sertifikat tanah) bertujuan untuk menjamin kepastian status kepemilikan dan mencegah sengketa, yang merupakan bagian dari pengamanan administrasi dan pengamanan hukum atas aset daerah."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah kantor pemerintah daerah mengalami kebakaran yang menyebabkan sebagian besar komputer, meja, dan peralatan kantor hangus serta tidak dapat digunakan lagi. Pemerintah daerah kemudian mengusulkan penghapusan barang tersebut sesuai prosedur. Alasan penghapusan dalam kasus tersebut adalah ....",
+    "options": [
+      "barang sedang tidak digunakan sementara",
+      "barang terbakar dan tidak dapat digunakan",
+      "barang menghasilkan pendapatan yang rendah",
+      "barang masih memiliki nilai ekonomis tinggi"
+    ],
+    "answer": "barang terbakar dan tidak dapat digunakan",
+    "penjelasan": "Salah satu alasan sah untuk melakukan penghapusan Barang Milik Daerah (BMD) dari daftar inventaris adalah kondisi force majeure atau musibah seperti barang terbakar, hancur, atau rusak berat sehingga secara fisik maupun ekonomis tidak dapat digunakan lagi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Desa Sukamaju memiliki hasil pertanian yang melimpah, tetapi petani mengalami kesulitan memasarkan produknya. Pemerintah desa kemudian membentuk BUMDes yang bertugas mengumpulkan dan mengelola hasil produksi masyarakat. Di sisi lain, masyarakat membentuk koperasi untuk membantu pengolahan, pemasaran, dan pengembangan produk pertanian. Berdasarkan kasus tersebut, hubungan BUMDes dan koperasi dapat dijelaskan sebagai ....",
+    "options": [
+      "kedua lembaga harus menjalankan fungsi yang sama agar tidak terjadi perbedaan",
+      "BUMDes dan koperasi dapat menjalankan fungsi yang berbeda dan saling melengkapi",
+      "koperasi harus berada di bawah struktur organisasi BUMDes",
+      "BUMDes harus menggantikan seluruh kegiatan koperasi"
+    ],
+    "answer": "BUMDes dan koperasi dapat menjalankan fungsi yang berbeda dan saling melengkapi",
+    "penjelasan": "BUMDes (milik desa) dan koperasi (milik anggota/masyarakat) merupakan dua entitas ekonomi di desa yang dapat bersinergi dengan pembagian peran yang berbeda namun saling melengkapi dalam rantai nilai ekonomi masyarakat desa."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah Desa Sukamaju membeli satu unit kendaraan operasional desa menggunakan dana yang telah dianggarkan dalam APB Desa. Kendaraan tersebut kemudian dicatat dalam daftar inventaris desa dan digunakan untuk mendukung pelayanan kepada masyarakat. Berdasarkan kasus tersebut, alasan kendaraan tersebut dapat dikategorikan sebagai aset desa adalah ....",
+    "options": [
+      "kendaraan digunakan oleh kepala desa dalam melaksanakan tugas pemerintahan",
+      "kendaraan dibeli atau diperoleh atas beban APB Desa dan menjadi kekayaan desa",
+      "kendaraan digunakan untuk kegiatan yang memberikan keuntungan bagi pemerintah desa",
+      "kendaraan dibeli oleh pemerintah desa sehingga menjadi milik pribadi kepala desa"
+    ],
+    "answer": "kendaraan dibeli atau diperoleh atas beban APB Desa dan menjadi kekayaan desa",
+    "penjelasan": "Sesuai UU Desa dan Permendagri tentang Pengelolaan Aset Desa, aset desa adalah barang milik desa yang berasal dari kekayaan asli desa, dibeli atau diperoleh atas beban Anggaran Pendapatan dan Belanja Desa (APB Desa), atau perolehan hak lainnya yang sah."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Desa Makmur melakukan pembayaran pajak atas suatu kegiatan pembangunan. Kaur Keuangan mencatat penerimaan potongan pajak dan penyetoran pajak dalam buku khusus. Buku yang digunakan untuk mencatat transaksi tersebut adalah ....",
+    "options": [
+      "buku pembantu bank",
+      "buku pembantu panjar",
+      "buku pembantu pajak",
+      "buku inventaris aset"
+    ],
+    "answer": "buku pembantu pajak",
+    "penjelasan": "Dalam penatausahaan keuangan desa (Permendagri No. 20 Tahun 2018), Kaur Keuangan wajib mencatat seluruh transaksi pemungutan/pemotongan serta penyetoran pajak ke kas negara ke dalam Buku Pembantu Pajak."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam rangka mempercepat pelayanan masyarakat, Desa Makmur menerima kewenangan mengelola pasar desa, pengaturan tata pemukiman, dan pengelolaan hutan desa. Pemerintah desa kemudian berusaha mengambil keputusan pelayanan secara langsung sesuai kewenangan yang diterima. Kondisi tersebut menunjukkan bahwa penyerahan urusan kepada desa bertujuan ....",
+    "options": [
+      "memusatkan seluruh keputusan di pemerintah kabupaten",
+      "mempercepat pelayanan pemerintahan kepada masyarakat",
+      "mengurangi tanggung jawab pemerintah desa",
+      "menghilangkan fungsi BPD dalam pemerintahan desa"
+    ],
+    "answer": "mempercepat pelayanan pemerintahan kepada masyarakat",
+    "penjelasan": "Penyerahan urusan pemerintahan disertai pelimpahan kewenangan kepada desa bertujuan mendekatkan pengambilan keputusan kepada warga sehingga pelayanan publik dapat berjalan lebih cepat, tepat, dan sesuai kebutuhan masyarakat setempat."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Petugas Desa Makmur memungut biaya pelayanan kepada masyarakat, tetapi sebagian uang yang diterima tidak disetorkan ke kas desa. Akibatnya, penerimaan desa menjadi lebih kecil daripada jumlah yang seharusnya diterima. Kondisi tersebut merupakan ....",
+    "options": [
+      "risiko penerimaan kas tidak disetor seluruhnya",
+      "risiko pemanfaatan aset desa",
+      "risiko pengadaan barang fiktif",
+      "risiko keterlambatan laporan"
+    ],
+    "answer": "risiko penerimaan kas tidak disetor seluruhnya",
+    "penjelasan": "Tindakan petugas pemungut yang tidak menyetorkan seluruh hasil pungutan resmi ke rekening kas desa merupakan bentuk risiko pengendalian internal berupa risiko penerimaan kas tidak disetor seluruhnya."
+  },
+
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah kantor pemerintah daerah memiliki gedung pelayanan, kendaraan dinas, komputer, dan berbagai dokumen elektronik. Selain aset tersebut, kantor juga memiliki pegawai yang memiliki keahlian khusus dalam mengelola sistem informasi pelayanan publik. Jika pimpinan ingin mengidentifikasi aset yang menjadi penggerak utama organisasi, aset yang paling tepat dijelaskan sebagai skilled labor asset adalah ....",
+    "options": [
+      "gedung pelayanan",
+      "kendaraan dinas",
+      "pegawai dengan keahlian khusus",
+      "dokumen elektronik"
+    ],
+    "answer": "pegawai dengan keahlian khusus",
+    "penjelasan": "Skilled labor asset adalah aset tidak berwujud berupa sumber daya manusia yang memiliki kompetensi, keterampilan, dan keahlian khusus yang menggerakkan operasional organisasi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah Kota Sejahtera membangun jalan tol lingkar kota, pelabuhan peti kemas, dan jalur kereta api baru untuk memperlancar distribusi barang. Berdasarkan jenisnya, ketiga proyek tersebut paling tepat dikelompokkan sebagai ....",
+    "options": [
+      "infrastruktur lunak",
+      "infrastruktur keras",
+      "infrastruktur keras nonfisik",
+      "infrastruktur sosial budaya"
+    ],
+    "answer": "infrastruktur keras",
+    "penjelasan": "Infrastruktur keras (hard infrastructure) mencakup fasilitas fisik nyata seperti jalan raya, pelabuhan, bandara, dan jalur kereta api yang menunjang kelancaran transportasi dan distribusi ekonomi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam rapat perencanaan, Bupati X menyampaikan bahwa kawasan wisata di daerahnya sudah berkembang pesat, sehingga pemerintah cukup menyerahkan seluruh pengelolaan kepada pelaku usaha. Padahal, tingkat pencemaran dan kesenjangan pendapatan warga sekitar mulai meningkat. Pandangan Bupati kurang tepat karena pembangunan berkelanjutan ....",
+    "options": [
+      "hanya diukur dari pertumbuhan konsumsi, investasi, dan tabungan",
+      "cukup bergantung pada sektor ekonomi tanpa peran pemerintah",
+      "memerlukan campur tangan pemerintah dalam implementasinya",
+      "hanya berfokus pada pelestarian lingkungan tanpa memperhatikan aspek sosial"
+    ],
+    "answer": "memerlukan campur tangan pemerintah dalam implementasinya",
+    "penjelasan": "Pembangunan berkelanjutan menyelaraskan aspek ekonomi, sosial, dan lingkungan sehingga memerlukan campur tangan serta regulasi pemerintah untuk mencegah ketimpangan sosial dan kerusakan lingkungan akibat mekanisme pasar murni."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah kementerian memiliki gedung layanan di daerah yang frekuensi banjir dan cuaca ekstremnya meningkat. Kementerian tersebut belum memiliki kerangka kerja untuk mengantisipasi dampak perubahan iklim pada asetnya. Dampak yang paling mungkin terjadi pada aset tersebut adalah ....",
+    "options": [
+      "masa manfaat aset menjadi lebih pendek dan kebutuhan anggaran pemeliharaan dari APBN semakin besar",
+      "masa manfaat aset tetap sesuai rencana awal, tetapi kebutuhan anggaran pemeliharaan dari APBN semakin besar",
+      "masa manfaat aset menjadi lebih pendek, tetapi kebutuhan anggaran pemeliharaan dari APBN cenderung menurun",
+      "masa manfaat aset tetap sesuai rencana awal dan kebutuhan anggaran pemeliharaan dari APBN tidak berubah"
+    ],
+    "answer": "masa manfaat aset menjadi lebih pendek dan kebutuhan anggaran pemeliharaan dari APBN semakin besar",
+    "penjelasan": "Bencana banjir dan cuaca ekstrem tanpa mitigasi mempercepat kerusakan fisik bangunan sehingga memperpendek masa manfaat ekonomis aset sekaligus membebani APBN dengan biaya perbaikan/pemeliharaan yang jauh lebih besar."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "DJKN menetapkan target peningkatan komposisi portofolio pembiayaan berorientasi lingkungan (green business) pada Rencana Kerja dan Anggaran Perusahaan (RKAP) PT SMI. Langkah ini dimaksudkan untuk ....",
+    "options": [
+      "memperkuat fungsi penjaminan risiko proyek infrastruktur melalui peningkatan porsi proyek kerja sama pemerintah dan badan usaha",
+      "memperkuat fungsi pembiayaan proyek infrastruktur melalui peningkatan porsi proyek yang mendukung pencegahan dampak perubahan iklim",
+      "memperkuat fungsi pembiayaan sektor perumahan melalui peningkatan porsi proyek hunian yang terjangkau bagi masyarakat",
+      "memperkuat fungsi pembiayaan ekspor melalui peningkatan porsi proyek yang berorientasi pada pasar luar negeri"
+    ],
+    "answer": "memperkuat fungsi pembiayaan proyek infrastruktur melalui peningkatan porsi proyek yang mendukung pencegahan dampak perubahan iklim",
+    "penjelasan": "Penetapan target pembiayaan green business pada PT Sarana Multi Infrastruktur (SMI) bertujuan memperbesar porsi pembiayaan proyek infrastruktur berkelanjutan yang mendukung mitigasi dan pencegahan dampak perubahan iklim."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam rapat evaluasi, Inspektorat menemukan bahwa lelang pembangunan jembatan di Kabupaten Tirta hanya diumumkan di papan kantor dinas sehingga sedikit penyedia yang mengetahuinya. Pelanggaran ini terutama bertentangan dengan prinsip pengadaan ....",
+    "options": [
+      "efisien",
+      "terbuka dan bersaing",
+      "akuntabel",
+      "efektif"
+    ],
+    "answer": "terbuka dan bersaing",
+    "penjelasan": "Prinsip terbuka dan bersaing dalam pengadaan barang/jasa pemerintah mewajibkan informasi pengadaan diumumkan secara luas melalui media resmi yang mudah diakses agar seluruh penyedia yang memenuhi syarat memiliki kesempatan yang sama untuk berkompetisi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dinas Pekerjaan Umum Kota Bahari baru saja menyelesaikan pembelian alat berat. Kepala bagian aset menjelaskan bahwa pembelian hanyalah satu bagian dari rangkaian pengelolaan barang milik negara/daerah. Rangkaian kegiatan yang termasuk lingkup pengelolaan tersebut adalah ....",
+    "options": [
+      "perencanaan kebutuhan, pengadaan, penggunaan, pemanfaatan, serta penetapan tarif pajak dan retribusi daerah",
+      "perencanaan kebutuhan dan penganggaran, pengadaan, penggunaan, pemanfaatan, pengamanan dan pemeliharaan, penilaian, hingga penghapusan dan penatausahaan",
+      "perencanaan kebutuhan, pengadaan, penggunaan, serta pemungutan pendapatan dan penyusunan laporan kinerja pegawai",
+      "perencanaan kebutuhan dan penganggaran, pengadaan, penggunaan, serta penetapan harga dan pemasaran barang"
+    ],
+    "answer": "perencanaan kebutuhan dan penganggaran, pengadaan, penggunaan, pemanfaatan, pengamanan dan pemeliharaan, penilaian, hingga penghapusan dan penatausahaan",
+    "penjelasan": "Berdasarkan PP No. 27 Tahun 2014 (jo. PP No. 28 Tahun 2020), siklus pengelolaan BMN/BMD meliputi perencanaan kebutuhan dan penganggaran, pengadaan, penggunaan, pemanfaatan, pengamanan dan pemeliharaan, penilaian, pemindahtanganan, pemusnahan, penghapusan, penatausahaan, serta pembinaan, pengawasan, dan pengendalian."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah lembaga akan mengadakan pekerjaan yang sangat kompleks. Hasil kajian menunjukkan hanya sedikit penyedia di Indonesia yang diyakini mampu melaksanakannya. Metode yang sesuai dengan kondisi tersebut adalah ....",
+    "options": [
+      "pengadaan langsung",
+      "pengadaan umum",
+      "pemilihan langsung",
+      "pengadaan terbatas"
+    ],
+    "answer": "pengadaan terbatas",
+    "penjelasan": "Dalam ketentuan pengadaan barang/jasa (dan konteks tata kelola logistik/aset publik), metode tender/pengadaan terbatas digunakan untuk pekerjaan yang bersifat kompleks dan jumlah penyedia yang mampu melaksanakannya diyakini terbatas."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Kepala Dinas Pekerjaan Umum Kabupaten Makmur meminta Dewi, pejabat pengadaan, agar memudahkan CV Karya Utama dalam tender pembangunan jalan. Alasannya, CV tersebut sudah belasan tahun menjadi mitra pemerintah daerah dan selalu menyelesaikan pekerjaan dengan baik. Dewi diminta menyesuaikan persyaratan kualifikasi agar sesuai dengan kemampuan perusahaan itu. Jika Dewi menuruti permintaan tersebut, tindakannya melanggar prinsip etika pengadaan karena ....",
+    "options": [
+      "pengguna barang/jasa wajib memilih penyedia yang paling berpengalaman agar kualitas pekerjaan terjamin, sehingga rekam jejak tidak boleh dijadikan pertimbangan",
+      "pelaku pengadaan wajib menghindari dan mencegah pertentangan kepentingan, sehingga perlakuan istimewa kepada pihak tertentu merusak persaingan yang sehat",
+      "penyedia yang pernah menjadi mitra pemerintah daerah tidak diperbolehkan lagi mengikuti pemilihan penyedia untuk pekerjaan serupa",
+      "pejabat pengadaan hanya berwenang melaksanakan pengadaan langsung, sehingga tidak boleh terlibat dalam penetapan persyaratan tender"
+    ],
+    "answer": "pelaku pengadaan wajib menghindari dan mencegah pertentangan kepentingan, sehingga perlakuan istimewa kepada pihak tertentu merusak persaingan yang sehat",
+    "penjelasan": "Sesuai etika pengadaan barang/jasa pemerintah (Perpres No. 16 Tahun 2018), pelaku pengadaan wajib menghindari serta mencegah pertentangan kepentingan dan penyalahgunaan wewenang; mengarahkan spesifikasi atau kualifikasi untuk menguntungkan penyedia tertentu melanggar prinsip persaingan sehat dan perlakuan adil."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam pengadaan peralatan kantor, pemerintah telah menyelesaikan persiapan dan menentukan metode pemilihan penyedia. Tahap berikutnya adalah melaksanakan proses pemilihan sesuai metode yang telah ditetapkan. Kegiatan tersebut merupakan tahap ....",
+    "options": [
+      "persiapan pemilihan",
+      "pelaksanaan pemilihan penyedia",
+      "penyusunan rencana umum",
+      "evaluasi kebijakan"
+    ],
+    "answer": "pelaksanaan pemilihan penyedia",
+    "penjelasan": "Setelah tahap persiapan pengadaan dan persiapan pemilihan selesai dilakukan, tahapan selanjutnya dalam siklus pengadaan barang/jasa adalah pelaksanaan pemilihan penyedia sesuai metode yang telah ditetapkan."
+  },
+
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Seorang kepala dinas membuka seleksi jabatan kepala bidang. Dalam proses seleksi, terdapat beberapa pegawai yang memiliki kompetensi tinggi. Namun, kepala dinas memilih saudaranya yang memiliki kompetensi lebih rendah karena hubungan keluarga. Kasus tersebut menunjukkan praktik ....",
+    "options": [
+      "korupsi",
+      "kolusi",
+      "nepotisme",
+      "akuntabilitas"
+    ],
+    "answer": "nepotisme",
+    "penjelasan": "Nepotisme adalah setiap perbuatan penyelenggara negara secara melawan hukum yang menguntungkan kepentingan keluarganya dan atau kroninya di atas kepentingan masyarakat, bangsa, dan negara."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Seorang pegawai mengetahui bahwa proses pelayanan di kantornya sangat rumit. Banyak tahapan yang harus dilalui masyarakat dan beberapa prosedur tidak memiliki penjelasan yang jelas. Kondisi tersebut kemudian dimanfaatkan oleh oknum pegawai untuk meminta uang tambahan agar pelayanan dipercepat. Faktor eksternal yang terlihat dalam kasus tersebut adalah ....",
+    "options": [
+      "gaya hidup konsumtif",
+      "prosedur atau sistem yang berbelit-belit",
+      "rendahnya harga diri pegawai",
+      "sifat serakah individu"
+    ],
+    "answer": "prosedur atau sistem yang berbelit-belit",
+    "penjelasan": "Prosedur atau sistem pelayanan yang berbelit-belit dan tidak transparan merupakan faktor eksternal (aspek organisasi/sistem) yang membuka celah terjadinya praktik pungutan liar dan korupsi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Seorang pegawai mengetahui bahwa atasannya menerima pemberian dari perusahaan yang sedang mengikuti proses pengadaan. Ia merasa takut karena atasannya memiliki jabatan lebih tinggi. Namun, ia tetap menyampaikan dugaan tersebut melalui saluran pengaduan resmi. Nilai integritas yang paling tepat ditunjukkan oleh pegawai tersebut adalah ....",
+    "options": [
+      "peduli",
+      "sederhana",
+      "berani",
+      "mandiri"
+    ],
+    "answer": "berani",
+    "penjelasan": "Nilai integritas \"berani\" tercermin dari sikap teguh mempertahankan kebenaran serta tetap melaporkan pelanggaran atau tindak korupsi melalui saluran resmi meskipun menghadapi risiko dan rasa takut terhadap atasan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah kabupaten A memiliki sebidang tanah yang tercatat sebagai barang milik negara/daerah. Tanah tersebut kemudian dijual kepada pihak swasta dengan harga yang jauh di bawah nilai wajarnya tanpa melalui prosedur yang sah. Akibatnya, pemerintah kehilangan aset yang seharusnya dapat dimanfaatkan untuk kepentingan masyarakat. Berdasarkan kasus tersebut, bentuk permasalahan yang paling tepat adalah ....",
+    "options": [
+      "optimalisasi pemanfaatan aset",
+      "penyalahgunaan aset negara",
+      "penghapusan aset secara administratif",
+      "pemindahtanganan aset secara normal"
+    ],
+    "answer": "penyalahgunaan aset negara",
+    "penjelasan": "Penjualan aset milik negara/daerah secara melawan prosedur dan jauh di bawah nilai wajarnya sehingga merugikan keuangan negara/masyarakat merupakan bentuk penyalahgunaan aset negara."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah pemerintah daerah melakukan tender pembangunan fasilitas kesehatan melalui sistem elektronik. Penyedia memasukkan penawaran melalui sistem dan proses pemilihan dilakukan berdasarkan kriteria yang telah ditetapkan. Berdasarkan kasus tersebut, penerapan e-tendering dapat membantu mencegah korupsi karena ....",
+    "options": [
+      "menghilangkan seluruh peran pejabat pengadaan",
+      "mempersempit ruang manipulasi dalam proses pemilihan",
+      "menjamin semua penyedia menjadi pemenang",
+      "menghapus kebutuhan terhadap dokumen pengadaan"
+    ],
+    "answer": "mempersempit ruang manipulasi dalam proses pemilihan",
+    "penjelasan": "Penerapan e-tendering meminimalkan pertemuan tatap muka langsung serta meningkatkan transparansi jejak audit digital, sehingga mempersempit peluang intervensi dan manipulasi dalam proses pemilihan penyedia."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Suatu barang dapat dikategorikan sebagai aset apabila memiliki nilai tertentu dan dimiliki atau dikuasai oleh individu, organisasi, atau pemerintah. Nilai yang dimaksud antara lain ....",
+    "options": [
+      "ekonomi, komersial, dan tukar",
+      "politik, sosial, dan budaya",
+      "administratif, hukum, dan politik",
+      "produksi, konsumsi, dan distribusi"
+    ],
+    "answer": "ekonomi, komersial, dan tukar",
+    "penjelasan": "Dalam konsep dasar manajemen aset (seperti yang dijelaskan Siregar), suatu barang dikategorikan sebagai aset apabila memiliki nilai ekonomi (economic value), nilai komersial (commercial value), dan nilai tukar (exchange value)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah pemerintah daerah menemukan bahwa suatu tanah milik pemerintah dikuasai oleh pihak lain tanpa kejelasan status haknya. Pemerintah kemudian melakukan pemeriksaan untuk mencari solusi atas permasalahan tersebut. Kegiatan ini merupakan ....",
+    "options": [
+      "legal audit",
+      "penilaian aset",
+      "inventarisasi aset",
+      "optimalisasi aset"
+    ],
+    "answer": "legal audit",
+    "penjelasan": "Legal audit merupakan tahapan kerja manajemen aset berupa pemeriksaan status penguasaan aset, sistem dan prosedur penguasaan atau pengalihan aset, serta identifikasi dan pencarian solusi atas permasalahan hukum yang menyertai aset."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dibawah ini yang merupakan cakupan proses rangkaian manajemen logistik public adalah, kecuali ....",
+    "options": [
+      "perencanaan",
+      "implementasi",
+      "pengendalian",
+      "penawaran"
+    ],
+    "answer": "penawaran",
+    "penjelasan": "Sesuai definisi manajemen logistik (Council of Logistics Management), cakupan proses utamanya meliputi perencanaan, implementasi, dan pengendalian aliran serta penyimpanan barang/jasa secara efektif dan efisien, sedangkan penawaran bukan merupakan cakupan inti tersebut. (Catatan: kata \"Dibawah\" dan \"public\" disalin persis sesuai teks pada gambar)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah bank menawarkan jam tangan kepada nasabahnya. Setelah nasabah setuju, bank mendebit rekening nasabah, memesan ke toko, toko memesan ke supplier, lalu supplier mengirim jam tangan baru dan mengambil jam tangan lama. Pengaturan aliran informasi, uang, barang, dan pengembalian barang lama tersebut merupakan penerapan ....",
+    "options": [
+      "manajemen aset",
+      "manajemen rantai pasokan (SCM)",
+      "peramalan permintaan",
+      "pengemasan (packaging)"
+    ],
+    "answer": "manajemen rantai pasokan (SCM)",
+    "penjelasan": "Manajemen rantai pasokan (Supply Chain Management/SCM) mengintegrasikan seluruh aliran informasi, aliran finansial (uang), maupun aliran fisik barang dari hulu ke hilir termasuk arus balik (reverse logistics/pengembalian barang)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Untuk meningkatkan efisiensi kerja, sebuah organisasi berupaya meninggalkan kebiasaan bekerja secara coba-coba (trial and error) dan menggantinya dengan pendekatan kerja yang berdasarkan pengamatan sistematis serta kaidah-kaidah ilmiah. Penerapan pendekatan tersebut mencerminkan prinsip ....",
+    "options": [
+      "birokrasi Max Weber",
+      "fungsionalisme Henry Fayol",
+      "manajemen ilmiah Frederick W. Taylor",
+      "manajemen personalia Robert Owen"
+    ],
+    "answer": "manajemen ilmiah Frederick W. Taylor",
+    "penjelasan": "Salah satu prinsip utama manajemen ilmiah (scientific management) yang dikemukakan Frederick W. Taylor adalah menggantikan metode kerja coba-coba (rule of thumb / trial and error) dengan metode berbasis observasi dan ilmu pengetahuan."
+  },
+
+
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah kajian manajemen berupaya mengidentifikasi fungsi-fungsi manajemen kemudian merumuskannya menjadi prinsip-prinsip dasar organisasi dan manajemen, seperti kesatuan perintah, persamaan wewenang dan tanggung jawab, rentang kendali terbatas, serta delegasi pekerjaan rutin. Kajian tersebut merupakan ciri dari ....",
+    "options": [
+      "pendekatan keperilakuan",
+      "pendekatan kuantitatif",
+      "pendekatan proses (fungsional/klasik)",
+      "pendekatan sistem"
+    ],
+    "answer": "pendekatan proses (fungsional/klasik)",
+    "penjelasan": "Pendekatan proses atau fungsional/klasik (dipelopori Henri Fayol) berfokus pada identifikasi fungsi-fungsi utama manajer serta perumusan prinsip-prinsip umum manajemen dan organisasi seperti kesatuan perintah dan rentang kendali."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam teori manajemen sumber daya manusia kontemporer, manusia tidak hanya dipandang sebagai salah satu faktor produksi, tetapi sebagai bagian penting dari organisasi yang perlu dikelola sesuai dengan kebutuhan dan martabatnya. Pandangan tersebut menunjukkan bahwa ....",
+    "options": [
+      "manusia diperlakukan sebagai alat produksi utama",
+      "manusia dipandang sebagai aset penting organisasi",
+      "manusia hanya berperan dalam kegiatan operasional",
+      "manusia ditempatkan sebagai pengganti teknologi"
+    ],
+    "answer": "manusia dipandang sebagai aset penting organisasi",
+    "penjelasan": "Dalam paradigma manajemen SDM kontemporer, pegawai/manusia tidak lagi dianggap sekadar beban biaya atau alat produksi mekanis, melainkan diposisikan sebagai aset strategis (human capital) yang perlu dikembangkan dan dihargai martabatnya."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Kementerian XYZ mengganti seluruh sistem pelayanan publik manual dengan sistem digital berbasis kecerdasan buatan, yang mengakibatkan pemangkasan besar-besaran pegawai serta perubahan total struktur organisasi dan menimbulkan resistensi kuat dari para pegawai. Berdasarkan kasus tersebut, jenis perubahan yang dilakukan kementerian XYZ menurut tipologi Kreitner dan Kinicki (2001) termasuk dalam kategori ....",
+    "options": [
+      "perubahan adaptif",
+      "perubahan inovatif",
+      "perubahan inovatif radikal",
+      "perubahan bertahap"
+    ],
+    "answer": "perubahan inovatif radikal",
+    "penjelasan": "Menurut tipologi Kreitner dan Kinicki (2001), perubahan inovatif radikal (radically innovative change) merupakan tingkat perubahan yang paling kompleks, menyeluruh, mendasar, dan berbiaya tinggi sehingga menimbulkan dampak dan resistensi besar di dalam organisasi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Penelitian mengenai strategi pengelolaan aset alat berat pada Dinas Pekerjaan Umum yang mengolah data 38 unit alat berat menjadi persentase kondisi baik, kurang baik, dan rusak berat, kemudian dianalisis dengan SWOT, merupakan contoh pendekatan ....",
+    "options": [
+      "kualitatif",
+      "naturalis",
+      "kuantitatif",
+      "pragmatik"
+    ],
+    "answer": "kuantitatif",
+    "penjelasan": "Penelitian yang mengolah data numerik (38 unit alat berat) ke dalam perhitungan statistik deskriptif berupa angka persentase sebagai dasar analisis merupakan ciri dari pendekatan kuantitatif."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Prinsip akuntabilitas yang berkaitan dengan pertanggungjawaban pemerintah daerah kepada DPRD dan masyarakat atas kebijakan perencanaan, pengadaan, hingga penghapusan aset disebut ....",
+    "options": [
+      "akuntabilitas kejujuran",
+      "akuntabilitas proses",
+      "akuntabilitas kebijakan",
+      "akuntabilitas hukum"
+    ],
+    "answer": "akuntabilitas kebijakan",
+    "penjelasan": "Akuntabilitas kebijakan (policy accountability) berkaitan dengan pertanggungjawaban pemerintah (eksekutif) kepada DPRD dan masyarakat luas atas penetapan maupun pelaksanaan kebijakan publik, termasuk kebijakan pengelolaan aset."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pengembangan kapasitas di mana individu, organisasi, lembaga, dan kemampuan masyarakat dilakukan dengan tujuan ....",
+    "options": [
+      "menambah aset fisik organisasi",
+      "melakukan fungsi, memecahkan masalah, dan mengatur pencapaian tujuan",
+      "memperbesar struktur organisasi",
+      "meningkatkan jumlah anggaran tahunan"
+    ],
+    "answer": "melakukan fungsi, memecahkan masalah, dan mengatur pencapaian tujuan",
+    "penjelasan": "Menurut definisi UNDP/literatur pengembangan kapasitas (capacity building), pengembangan kapasitas pada tingkat individu, organisasi, maupun sistem bertujuan meningkatkan kemampuan dalam melaksanakan fungsi-fungsinya, memecahkan masalah, serta menetapkan dan mencapai tujuan secara berkelanjutan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Menurut Halim (2002), akuntansi pemerintahan adalah jasa pembuatan informasi mengenai keuangan negara dalam bentuk ....",
+    "options": [
+      "laporan laba rugi tahunan",
+      "data-data kuantitatif yang bisa dijadikan arah kebijakan ekonomi negara",
+      "laporan arus kas untuk pemegang saham",
+      "neraca keuangan perusahaan swasta"
+    ],
+    "answer": "data-data kuantitatif yang bisa dijadikan arah kebijakan ekonomi negara",
+    "penjelasan": "Menurut Abdul Halim (2002), akuntansi pemerintahan merupakan sebuah kegiatan jasa dalam rangka menyediakan informasi kuantitatif terutama yang bersifat keuangan dari entitas pemerintah guna pengambilan keputusan dan arah kebijakan ekonomi negara."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Lembaga yang bertugas merumuskan standar akuntansi khusus untuk entitas pemerintahan di Indonesia adalah ....",
+    "options": [
+      "Ikatan Akuntansi Indonesia (IAI)",
+      "Komite Standar Akuntansi Pemerintahan (KSAP)",
+      "Badan Pemeriksa Keuangan (BPK)",
+      "Otoritas Jasa Keuangan (OJK)"
+    ],
+    "answer": "Komite Standar Akuntansi Pemerintahan (KSAP)",
+    "penjelasan": "Sesuai UU No. 17 Tahun 2003 dan UU No. 1 Tahun 2004, lembaga independen yang bertugas menyusun dan merumuskan Standar Akuntansi Pemerintahan (SAP) di Indonesia adalah Komite Standar Akuntansi Pemerintahan (KSAP)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pengeluaran setelah perolehan awal aset tetap dapat dikapitalisasi (menambah nilai aset) apabila ....",
+    "options": [
+      "nilainya di bawah nilai satuan minimum kapitalisasi",
+      "hanya bersifat mempertahankan kondisi aset seperti semula",
+      "menambah masa manfaat, kapasitas, kualitas, atau volume aset",
+      "merupakan biaya pemeliharaan rutin harian"
+    ],
+    "answer": "menambah masa manfaat, kapasitas, kualitas, atau volume aset",
+    "penjelasan": "Berdasarkan PSAP Nomor 07, pengeluaran setelah perolehan awal suatu aset tetap hanya dapat dikapitalisasi (menambah nilai tercatat aset) apabila memenuhi batas minimum kapitalisasi dan secara nyata memperpanjang masa manfaat atau meningkatkan kapasitas, mutu/kualitas produksi, maupun kinerja aset tersebut."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah instansi pemerintah melakukan kerja sama dengan perusahaan swasta untuk memanfaatkan sebidang tanah milik pemerintah. Kerja sama tersebut berlangsung dalam jangka waktu yang panjang. Dalam perkembangannya, terjadi pergantian pimpinan daerah beberapa kali dan administrasi mengenai aset tersebut tidak diperbarui dengan baik. Pemerintah daerah kemudian mengalami kesulitan mengetahui perkembangan penguasaan dan pemanfaatan aset tersebut. Permasalahan yang dapat dijelaskan berdasarkan kasus tersebut adalah ....",
+    "options": [
+      "lemahnya administrasi dan pengawasan dapat menyebabkan aset sulit ditelusuri penguasaannya",
+      "kerja sama pemanfaatan selalu menyebabkan aset pemerintah bertambah",
+      "pergantian pimpinan otomatis menghapus kepemilikan pemerintah",
+      "pemanfaatan aset oleh pihak ketiga tidak memerlukan pencatatan"
+    ],
+    "answer": "lemahnya administrasi dan pengawasan dapat menyebabkan aset sulit ditelusuri penguasaannya",
+    "penjelasan": "Penatausahaan dan pengawasan yang tidak tertib serta tidak diperbarui secara berkelanjutan mengakibatkan hilangnya rekam jejak dokumen sehingga aset pemerintah sulit ditelusuri status penguasaan dan pemanfaatannya."
+  },
+
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah daerah memiliki sebuah bangunan yang rusak berat akibat bencana alam. Bangunan tersebut tidak dapat digunakan kembali dan mempertahankannya justru menimbulkan biaya tambahan. Berdasarkan kondisi tersebut, tindakan yang dapat dilakukan adalah ....",
+    "options": [
+      "menggunakan bangunan tanpa perbaikan",
+      "menghapus bangunan dari daftar aset sesuai prosedur",
+      "menyewakan bangunan kepada masyarakat",
+      "memindahkan bangunan kepada perangkat daerah lain"
+    ],
+    "answer": "menghapus bangunan dari daftar aset sesuai prosedur",
+    "penjelasan": "Aset tetap yang rusak berat akibat bencana alam sehingga tidak dapat dimanfaatkan lagi dan justru membebani anggaran pemeliharaan harus diusulkan penghapusannya dari daftar inventaris aset daerah sesuai prosedur yang berlaku."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Di Desa Mekar Jaya terdapat tanah kas desa yang akan dimanfaatkan untuk kegiatan ekonomi masyarakat. Kepala desa menyerahkan proses pengelolaan kepada petugas aset desa dan memastikan penggunaan tanah tersebut sesuai dengan kebijakan pengelolaan aset desa. Berdasarkan kasus tersebut, kewenangan kepala desa dapat dijelaskan sebagai ....",
+    "options": [
+      "pemegang kekuasaan dalam pengelolaan aset desa sesuai dengan ketentuan yang berlaku",
+      "pelaksana utama dalam pengelolaan seluruh aset desa sesuai dengan kebutuhan masyarakat",
+      "penanggung jawab teknis dalam pelaksanaan pengelolaan aset desa sesuai dengan keputusan pemerintah desa",
+      "pengendali seluruh kegiatan pemanfaatan aset desa berdasarkan keputusan kepala desa"
+    ],
+    "answer": "pemegang kekuasaan dalam pengelolaan aset desa sesuai dengan ketentuan yang berlaku",
+    "penjelasan": "Berdasarkan Permendagri Nomor 1 Tahun 2016 tentang Pengelolaan Aset Desa, Kepala Desa berkedudukan sebagai pemegang kekuasaan pengelolaan aset desa yang berwenang menetapkan kebijakan serta melimpahkan sebagian pelaksanaannya kepada perangkat desa."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah Desa Bersama telah menyepakati pembayaran kepada penyedia barang pada akhir bulan. Namun, sampai tanggal pencatatan uang belum dibayarkan dari rekening kas desa. Berdasarkan penerapan basis kas dalam pengelolaan keuangan desa, perlakuan terhadap transaksi tersebut adalah ....",
+    "options": [
+      "langsung dicatat sebagai pengeluaran kas karena kewajibannya sudah disepakati",
+      "belum dicatat sebagai pengeluaran kas sampai uang benar-benar dibayarkan",
+      "dicatat sebagai penerimaan kas karena terdapat perjanjian pembayaran",
+      "tidak perlu dicatat sebagai transaksi keuangan karena berkaitan dengan penyedia barang"
+    ],
+    "answer": "belum dicatat sebagai pengeluaran kas sampai uang benar-benar dibayarkan",
+    "penjelasan": "Dalam akuntansi/pengelolaan keuangan desa berbasis kas (cash basis), transaksi belanja atau pengeluaran baru dicatat pada saat kas benar-benar telah dikeluarkan/dibayarkan dari rekening kas desa."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah kantor pemerintah membeli perlengkapan kantor dari penyedia dengan kesepakatan pembayaran dilakukan dalam waktu tiga bulan. Sampai akhir periode pencatatan, pembayaran tersebut belum dilakukan sehingga masih terdapat tagihan kepada penyedia. Berdasarkan jangka waktu pelunasannya, kewajiban tersebut termasuk ....",
+    "options": [
+      "kewajiban kontinjensi",
+      "kewajiban tidak lancar",
+      "kewajiban lancar",
+      "aset finansial"
+    ],
+    "answer": "kewajiban lancar",
+    "penjelasan": "Dalam Standar Akuntansi Pemerintahan (PSAP Nomor 09), kewajiban/utang yang diharapkan akan dibayar atau jatuh tempo dalam waktu paling lama 12 bulan (seperti jangka waktu 3 bulan) diklasifikasikan sebagai kewajiban jangka pendek atau kewajiban lancar."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Kabupaten Makmur sedang memperluas jaringan pasokan listrik, instalasi air bersih, dan jaringan telekomunikasi bagi warganya. Ketiga layanan ini termasuk ....",
+    "options": [
+      "infrastruktur keras karena berupa bangunan fisik semata",
+      "infrastruktur lunak karena berkaitan dengan peraturan",
+      "infrastruktur keras nonfisik karena berkaitan dengan fungsi utilitas publik",
+      "bukan infrastruktur karena disediakan oleh perusahaan"
+    ],
+    "answer": "infrastruktur keras nonfisik karena berkaitan dengan fungsi utilitas publik",
+    "penjelasan": "Dalam klasifikasi infrastruktur, jaringan utilitas publik seperti pasokan listrik, air bersih, dan jaringan telekomunikasi dikelompokkan sebagai infrastruktur keras nonfisik yang menopang fungsi dasar pelayanan umum dan aktivitas ekonomi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pembangunan jalan raya menembus kawasan hutan lindung menyebabkan satwa tertabrak dan habitat terpecah. Dampak ini menunjukkan bahwa jalan raya ...",
+    "options": [
+      "selalu meningkatkan keanekaragaman hayati",
+      "dapat mengancam keanekaragaman hayati",
+      "tidak berdampak pada objek wisata",
+      "hanya berdampak positif bagi kawasan lindung"
+    ],
+    "answer": "dapat mengancam keanekaragaman hayati",
+    "penjelasan": "Pembangunan infrastruktur jalan yang membelah kawasan hutan lindung mengakibatkan fragmentasi habitat dan meningkatkan risiko kematian satwa liar sehingga mengancam kelestarian keanekaragaman hayati."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemda menunda adaptasi iklim pada aset gedungnya dengan alasan anggarannya mahal. Penjelasan yang paling tepat untuk menanggapi alasan tersebut adalah ....",
+    "options": [
+      "penundaan selalu lebih hemat karena teknologi akan semakin murah",
+      "adaptasi hanya perlu dilakukan setelah aset rusak",
+      "biaya adaptasi saat ini diperkirakan lebih rendah daripada biaya akibat penundaan",
+      "biaya adaptasi akan ditanggung sepenuhnya oleh pihak swasta"
+    ],
+    "answer": "biaya adaptasi saat ini diperkirakan lebih rendah daripada biaya akibat penundaan",
+    "penjelasan": "Dalam prinsip manajemen risiko aset dan kebijakan adaptasi perubahan iklim, investasi pencegahan/adaptasi sejak dini jauh lebih efisien dan murah dibandingkan menanggung kerugian kerusakan aset serta biaya pemulihan akibat penundaan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam tender elektronik di Kota Samudra, peserta menyangkal pernah mengajukan penawaran karena keaslian dokumen dan identitas penandatangan tidak dapat dipastikan oleh panitia. Agar kasus serupa tidak terulang, aspek yang perlu dimasukkan dalam ketentuan khusus e-procurement adalah ....",
+    "options": [
+      "pengelolaan kearsipan dan mekanisme pembayaran secara elektronik",
+      "standar pelayanan dan prosedur penyelesaian sengketa secara elektronik",
+      "mekanisme pertukaran data secara elektronik dan mekanisme pembayaran secara elektronik",
+      "penggunaan tanda tangan digital dan kewajiban akan penggunaan sertifikasi keandalan"
+    ],
+    "answer": "penggunaan tanda tangan digital dan kewajiban akan penggunaan sertifikasi keandalan",
+    "penjelasan": "Untuk menjamin keaslian (authentication), keutuhan dokumen elektronik, serta sifat nirsangkal (non-repudiation) dalam transaksi elektronik/e-procurement, diperlukan penggunaan tanda tangan digital dan sertifikasi keandalan sesuai UU ITE."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Kementerian X akan mengadakan jasa lainnya dengan nilai pagu Rp12.000.000.000,00. Pengumuman dibuka untuk umum, dan setiap penyedia yang memenuhi persyaratan kualifikasi boleh mendaftar. Seorang staf menjelaskan kepada atasannya mengenai metode pemilihan yang digunakan. Penjelasan yang paling tepat adalah ....",
+    "options": [
+      "pengadaan terbatas, karena nilai pekerjaan tergolong besar sehingga peserta dibatasi pada penyedia yang dianggap mampu",
+      "pengadaan umum, karena nilai pekerjaan melebihi Rp5 miliar dan seluruh penyedia yang memenuhi syarat berhak mengikuti pemilihan",
+      "penunjukan langsung, karena nilai pekerjaan besar sehingga PA menunjuk satu penyedia yang memenuhi kualifikasi",
+      "pemilihan langsung, karena pekerjaan bernilai paling tinggi Rp5 miliar dan terbuka bagi seluruh penyedia yang memenuhi syarat"
+    ],
+    "answer": "pengadaan umum, karena nilai pekerjaan melebihi Rp5 miliar dan seluruh penyedia yang memenuhi syarat berhak mengikuti pemilihan",
+    "penjelasan": "Pengadaan/pelelangan umum merupakan metode pemilihan penyedia untuk pekerjaan bernilai besar (di atas Rp5 miliar) yang diumumkan secara luas kepada masyarakat dan terbuka bagi seluruh penyedia barang/jasa yang memenuhi persyaratan kualifikasi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah pemerintah daerah akan melakukan pengadaan kendaraan operasional. Sebelum menentukan metode pemilihan penyedia, pejabat pengadaan melakukan kajian terhadap rencana umum pengadaan dan menyusun rencana pelaksanaan. Kegiatan tersebut termasuk tahap ....",
+    "options": [
+      "persiapan pemilihan penyedia barang",
+      "pelaksanaan kontrak",
+      "penandatanganan kontrak",
+      "penyelesaian sanggah"
+    ],
+    "answer": "persiapan pemilihan penyedia barang",
+    "penjelasan": "Pengkajian ulang rencana umum pengadaan, penyusunan rencana pelaksanaan pemilihan, serta penetapan metode pemilihan merupakan bagian dari tahap persiapan pemilihan penyedia barang/jasa."
+  },
+
+
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam suatu tender pembangunan gedung pemerintah, dua perusahaan peserta tender sepakat menentukan perusahaan yang akan memenangkan tender. Perusahaan lainnya tetap mengikuti proses tender hanya sebagai peserta formal agar proses terlihat kompetitif. Praktik tersebut merupakan ....",
+    "options": [
+      "korupsi karena semua peserta memperoleh keuntungan",
+      "nepotisme karena perusahaan saling mengenal",
+      "kolusi karena terdapat kesepakatan untuk mengatur proses tender",
+      "akuntabilitas karena proses tender tetap dilaksanakan"
+    ],
+    "answer": "kolusi karena terdapat kesepakatan untuk mengatur proses tender",
+    "penjelasan": "Persekongkolan atau kesepakatan rahasia antarpeserta tender (bid rigging) untuk mengatur pemenang secara tidak sehat merupakan bentuk praktik kolusi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam suatu kantor, seorang pegawai mengetahui bahwa rekannya sering menggunakan fasilitas kantor untuk kepentingan pribadi. Ia tidak langsung menuduh, tetapi menyampaikan informasi tersebut melalui mekanisme yang tersedia. Perilaku tersebut menunjukkan bahwa integritas dapat menjadi basis pencegahan korupsi melalui ....",
+    "options": [
+      "keberanian menjaga kepentingan pribadi",
+      "keberanian menghindari semua bentuk konflik",
+      "konsistensi dalam menjaga nilai dan aturan",
+      "keinginan memperoleh keuntungan dari laporan"
+    ],
+    "answer": "konsistensi dalam menjaga nilai dan aturan",
+    "penjelasan": "Integritas adalah keselarasan antara nilai moral, ucapan, dan tindakan; melaporkan penyalahgunaan fasilitas melalui jalur resmi menunjukkan konsistensi dalam menegakkan aturan dan nilai organisasi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam suatu perkara korupsi, aparat penegak hukum menemukan bahwa pelaku menyimpan uang hasil korupsi pada rekening di luar negeri. Setelah melalui kerja sama dengan lembaga penegak hukum negara tersebut, uang berhasil dikembalikan ke Indonesia dan disetorkan ke kas negara. Tindakan tersebut menunjukkan pentingnya ....",
+    "options": [
+      "penghapusan aset negara",
+      "pengadaan aset baru",
+      "pengembalian aset hasil korupsi",
+      "pemanfaatan aset oleh pihak swasta"
+    ],
+    "answer": "pengembalian aset hasil korupsi",
+    "penjelasan": "Upaya melacak, menyita, dan menarik kembali uang maupun kekayaan negara yang disembunyikan oleh pelaku tindak pidana korupsi (asset recovery) merupakan bagian penting dari pengembalian aset hasil korupsi ke kas negara."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Suatu pemerintah daerah tidak hanya mencatat tanah dan bangunan yang dimilikinya, tetapi juga merencanakan kebutuhan, melakukan pengadaan, inventarisasi, pemeliharaan, penilaian, hingga penghapusan aset. Kondisi tersebut menunjukkan bahwa tata kelola aset merupakan ....",
+    "options": [
+      "proses pengelolaan aset secara menyeluruh",
+      "kegiatan pencatatan aset secara administratif",
+      "kegiatan pengadaan aset pemerintah",
+      "proses penilaian nilai ekonomis aset"
+    ],
+    "answer": "proses pengelolaan aset secara menyeluruh",
+    "penjelasan": "Tata kelola atau manajemen aset mencakup keseluruhan rangkaian proses pengelolaan siklus hidup aset secara menyeluruh (komprehensif), mulai dari perencanaan kebutuhan hingga penghapusan aset, bukan sekadar pencatatan administratif."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam pengelolaan fasilitas pemerintah, manajemen perlu mengetahui kondisi aset saat ini, kondisi yang diharapkan pada masa mendatang, serta tindakan dan biaya yang diperlukan untuk mencapai kondisi tersebut. Pendekatan tersebut menunjukkan pentingnya ....",
+    "options": [
+      "perencanaan pengelolaan sepanjang siklus hidup aset",
+      "pengadaan aset berdasarkan jumlah kebutuhan",
+      "penghapusan aset berdasarkan usia penggunaan",
+      "pencatatan aset berdasarkan nilai perolehan"
+    ],
+    "answer": "perencanaan pengelolaan sepanjang siklus hidup aset",
+    "penjelasan": "Perencanaan pengelolaan sepanjang siklus hidup aset (life-cycle asset management) mempertimbangkan kondisi eksisting, proyeksi kebutuhan masa depan, serta strategi pemeliharaan dan pembiayaan agar aset tetap optimal sepanjang umur ekonomisnya."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah rumah sakit daerah mengalami penurunan kepercayaan masyarakat akibat pelayanan yang lambat. Direktur rumah sakit lalu menugaskan tim khusus untuk mengidentifikasi masalah, merancang sistem antrean digital, serta melatih staf agar dapat beradaptasi dengan sistem baru tersebut secara bertahap dan terarah. Tindakan direktur rumah sakit tersebut mencerminkan bahwa manajemen perubahan pada dasarnya bersifat ....",
+    "options": [
+      "insidental dan tidak dapat direncanakan",
+      "proses sistematis yang terencana untuk mencapai kondisi lebih baik",
+      "tanggung jawab individu karyawan semata tanpa keterlibatan pimpinan",
+      "perubahan yang hanya berlaku pada aspek teknologi saja"
+    ],
+    "answer": "proses sistematis yang terencana untuk mencapai kondisi lebih baik",
+    "penjelasan": "Manajemen perubahan merupakan suatu proses yang sistematis, terstruktur, dan terencana dalam mengarahkan individu maupun organisasi bertransisi menuju kondisi kinerja yang lebih baik."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah lembaga pengelola aset daerah berhasil bertahan dan berkembang karena keberadaannya dirasakan bermanfaat oleh masyarakat sekitar, misalnya melalui penyediaan layanan pemanfaatan aset publik yang mendukung aktivitas ekonomi warga. Kondisi ini menggambarkan terpenuhinya syarat pelembagaan berupa ....",
+    "options": [
+      "adanya norma yang dihayati masyarakat sebagai anggota",
+      "organisasi memberikan keuntungan bagi masyarakat",
+      "adanya stabilitas dan kapabilitas memecahkan masalah",
+      "adanya sanksi sosial yang mengikat"
+    ],
+    "answer": "organisasi memberikan keuntungan bagi masyarakat",
+    "penjelasan": "Suatu organisasi dapat melembaga (institutionalized) dan mendapat dukungan luas apabila keberadaannya dirasakan relevan serta memberikan manfaat atau keuntungan nyata bagi masyarakat di lingkungannya."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dibawah ini yang dibutuhkan dalam pengembangan kapasitas kelembagaan yang menekankan pada pemberdayaan individu dan organisasi adalah ....",
+    "options": [
+      "pendekatan sistematis dalam merancang strategi dan program pengembangan",
+      "penambahan jumlah cabang organisasi",
+      "pengurangan jumlah pegawai yang kurang produktif",
+      "perubahan nama organisasi secara berkala"
+    ],
+    "answer": "pendekatan sistematis dalam merancang strategi dan program pengembangan",
+    "penjelasan": "Pengembangan kapasitas kelembagaan yang efektif membutuhkan pendekatan yang sistematis, terencana, dan berkesinambungan dalam merancang strategi maupun program peningkatan kemampuan individu dan organisasi. (Catatan: kata \"Dibawah\" disalin persis sesuai teks pada gambar)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Salah satu capaian dari kegiatan penertiban barang milik negara (BMN) yang dilakukan DJKN adalah ....",
+    "options": [
+      "terbentuknya Kantor Pelayanan Pengurusan Piutang Negara (KP3N)",
+      "LKPP yang sebelumnya disclaimer berhasil meraih opini wajar dengan pengecualian",
+      "bergabungnya PUPN ke dalam Ditjen Pajak",
+      "ditetapkannya Peraturan Presiden Nomor 57 Tahun 2020"
+    ],
+    "answer": "LKPP yang sebelumnya disclaimer berhasil meraih opini wajar dengan pengecualian",
+    "penjelasan": "Penertiban dan inventarisasi BMN yang dilakukan oleh Direktorat Jenderal Kekayaan Negara (DJKN) berhasil memperbaiki kualitas laporan keuangan pemerintah sehingga opini BPK atas Laporan Keuangan Pemerintah Pusat (LKPP) meningkat dari Disclaimer (Tidak Menyatakan Pendapat) menjadi Wajar Dengan Pengecualian (WDP)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah misi organisasi dirumuskan agar tetap dapat memberikan perhatian pada kondisi organisasi saat ini, tanpa terlalu berorientasi jauh pada pencapaian di masa depan. Kriteria misi yang dimaksud adalah...",
+    "options": [
+      "simple and clear",
+      "broad and long-term in future",
+      "focus on the present",
+      "easy to understand"
+    ],
+    "answer": "focus on the present",
+    "penjelasan": "Berbeda dengan visi yang berorientasi pada gambaran masa depan, pernyataan misi harus memenuhi kriteria focus on the present, yakni berfokus pada tujuan, alasan keberadaan, serta aktivitas organisasi pada saat ini."
+  },
+
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pada masa orde baru, Indonesia dikatakan tidak pernah mengalami surplus maupun defisit karena menganut sistem ....",
+    "options": [
+      "anggaran kinerja",
+      "anggaran berbasis akrual",
+      "anggaran defisit terkendali",
+      "anggaran berimbang"
+    ],
+    "answer": "anggaran berimbang",
+    "penjelasan": "Pada masa Orde Baru, pemerintah menerapkan prinsip anggaran berimbang dan dinamis, di mana total pengeluaran selalu disusun sama besar dengan total penerimaan (termasuk pinjaman luar negeri sebagai penerimaan pembangunan), sehingga secara administratif tidak pernah mencatat defisit maupun surplus."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah instansi pemerintah melakukan pemeriksaan terhadap aset yang tersebar di berbagai kantor wilayah. Dari hasil pemeriksaan diketahui bahwa sebagian tanah, kendaraan, dan peralatan kantor tidak diketahui keberadaannya secara pasti. Data yang dimiliki kantor pusat juga tidak sepenuhnya sesuai dengan kondisi aset di lapangan. Untuk memperbaiki kondisi tersebut, instansi kemudian melakukan pendataan kembali terhadap seluruh aset dan mencocokkannya dengan dokumen administrasi. Kegiatan yang dilakukan instansi tersebut pada dasarnya bertujuan untuk ....",
+    "options": [
+      "mengurangi jumlah BMN yang tercatat dalam laporan",
+      "mengetahui keberadaan dan nilai aset yang berada dalam penguasaan instansi",
+      "meningkatkan jumlah aset yang dapat dipindahtangankan",
+      "mengalihkan penguasaan aset kepada pihak ketiga"
+    ],
+    "answer": "mengetahui keberadaan dan nilai aset yang berada dalam penguasaan instansi",
+    "penjelasan": "Kegiatan inventarisasi dan sensus aset bertujuan untuk mendata, mendaftar, dan mencocokkan fisik dengan dokumen administrasi guna mengetahui secara pasti jumlah, kondisi, keberadaan, serta nilai aset yang berada dalam penguasaan instansi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah kementerian melakukan evaluasi terhadap seluruh aset yang dimilikinya. Hasil evaluasi menunjukkan bahwa sebagian gedung tidak berkaitan langsung dengan tugas pokok dan fungsi kementerian, sedangkan sebagian aset lainnya sangat diperlukan untuk memberikan pelayanan publik. Pemerintah kemudian mempertimbangkan untuk mempertahankan aset yang berkaitan dengan tugas pokok dan fungsi serta mengoptimalkan aset yang tidak berkaitan langsung dengan tugas tersebut. Strategi tersebut sesuai dengan konsep ....",
+    "options": [
+      "asset recycling",
+      "financial burden",
+      "stock opname",
+      "ekspansi perpajakan"
+    ],
+    "answer": "asset recycling",
+    "penjelasan": "Asset recycling (daur ulang aset) adalah strategi mengoptimalkan atau memonetisasi aset-aset eksisting (terutama yang tidak berkaitan langsung dengan layanan inti/non-core) untuk menghasilkan nilai tambah atau mendanai pengembangan aset/infrastruktur publik lainnya."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah melakukan penyertaan modal berupa saham pada sebuah BUMN. Saham tersebut tidak dikelola langsung sebagai barang inventaris sebuah kementerian, tetapi menjadi bagian dari investasi pemerintah. Berdasarkan klasifikasi aset negara, kondisi tersebut menunjukkan ....",
+    "options": [
+      "BMN yang digunakan langsung oleh kementerian",
+      "kekayaan negara yang dipisahkan",
+      "barang hasil pengadaan pemerintah",
+      "aset negara yang berasal dari hibah"
+    ],
+    "answer": "kekayaan negara yang dipisahkan",
+    "penjelasan": "Penyertaan modal negara pada BUMN/BUMD atau perusahaan lainnya yang pengelolaannya dipisahkan dari mekanisme APBN diklasifikasikan sebagai kekayaan negara yang dipisahkan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah daerah memiliki aset berupa kendaraan yang telah memenuhi persyaratan untuk dihapuskan. Sebelum penghapusan dilaksanakan, perangkat daerah harus menyampaikan usulan secara berjenjang, memperoleh persetujuan pengelola, dan kemudian menerbitkan surat keputusan penghapusan. Urutan tersebut menunjukkan bahwa ....",
+    "options": [
+      "penghapusan dapat dilakukan langsung oleh pengguna barang tanpa persetujuan",
+      "penghapusan merupakan proses administratif yang dilakukan melalui tahapan dan kewenangan tertentu",
+      "penghapusan hanya dilakukan jika aset menghasilkan pendapatan",
+      "penghapusan selalu dilakukan melalui hibah kepada masyarakat"
+    ],
+    "answer": "penghapusan merupakan proses administratif yang dilakukan melalui tahapan dan kewenangan tertentu",
+    "penjelasan": "Penghapusan Barang Milik Daerah (BMD) dari daftar inventaris merupakan tindakan administratif yang memiliki prosedur baku, mulai dari pengusulan berjenjang, penelitian/persetujuan pengelola barang atau kepala daerah, hingga penerbitan keputusan penghapusan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Desa Tani Makmur memiliki jaringan irigasi yang dibangun menggunakan dana desa. Setelah beberapa tahun, jaringan tersebut mengalami kerusakan sehingga produktivitas pertanian menurun. Pemerintah desa kemudian mengalokasikan anggaran pemeliharaan dan melibatkan kelompok tani dalam pengawasan penggunaannya. Tindakan pemerintah desa tersebut menunjukkan bahwa pengelolaan aset desa perlu memperhatikan ....",
+    "options": [
+      "penggunaan aset tanpa perencanaan",
+      "pemanfaatan aset hanya untuk menghasilkan keuntungan finansial",
+      "pemeliharaan dan pengamanan agar aset tetap memberikan manfaat bagi masyarakat",
+      "pengalihan tanggung jawab pengelolaan aset kepada masyarakat sepenuhnya"
+    ],
+    "answer": "pemeliharaan dan pengamanan agar aset tetap memberikan manfaat bagi masyarakat",
+    "penjelasan": "Aset desa yang dibangun untuk kepentingan umum harus dipelihara dan diamankan secara berkelanjutan agar fungsi serta manfaat ekonomis dan sosialnya tetap terjaga bagi masyarakat desa."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Desa Sejahtera memiliki tanah desa yang akan disewakan untuk kegiatan ekonomi. Kepala desa mengadakan musyawarah dengan masyarakat untuk membahas bentuk pemanfaatan tanah tersebut dan kelompok masyarakat yang menjadi pengguna. Berdasarkan kasus tersebut, partisipasi masyarakat penting karena ....",
+    "options": [
+      "masyarakat dapat menggantikan seluruh kewenangan kepala desa",
+      "masyarakat dapat memastikan pemanfaatan aset sesuai kepentingan bersama",
+      "masyarakat dapat menentukan sendiri harga seluruh aset desa",
+      "masyarakat menjadi pemilik pribadi tanah desa"
+    ],
+    "answer": "masyarakat dapat memastikan pemanfaatan aset sesuai kepentingan bersama",
+    "penjelasan": "Pelibatan masyarakat melalui musyawarah desa menjamin transparansi dan akuntabilitas sehingga pemanfaatan aset desa benar-benar selaras dengan kebutuhan dan kepentingan bersama warga desa."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Peralatan komputer di kantor Desa Harapan mulai mengalami kerusakan karena jarang diperiksa. Kepala desa kemudian membuat jadwal pemeriksaan dan perawatan secara berkala agar peralatan tetap dapat digunakan untuk pelayanan masyarakat. Kegiatan tersebut merupakan ....",
+    "options": [
+      "penghapusan",
+      "pemeliharaan",
+      "pemindahtanganan",
+      "penatausahaan"
+    ],
+    "answer": "pemeliharaan",
+    "penjelasan": "Pemeliharaan aset adalah kegiatan atau tindakan yang dilakukan secara berkala agar seluruh barang milik desa/daerah selalu berada dalam keadaan baik dan siap untuk digunakan secara berdaya guna dan berhasil guna."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah Kota Z berencana membangun kawasan pendidikan dan rumah sakit baru. Dinas Tata Ruang mengusulkan agar kawasan tersebut dilengkapi RTH yang lebih intensif. Alasan yang paling tepat adalah ....",
+    "options": [
+      "RTH hanya berfungsi sebagai penambah keindahan taman kota",
+      "RTH berfungsi ganda secara ekologis, arsitektural, sosial, dan ekonomi pada kawasan sensitif",
+      "RTH menggantikan kebutuhan jalan dan transportasi",
+      "RTH dibangun untuk menambah luas lahan komersial"
+    ],
+    "answer": "RTH berfungsi ganda secara ekologis, arsitektural, sosial, dan ekonomi pada kawasan sensitif",
+    "penjelasan": "Ruang Terbuka Hijau (RTH) pada kawasan publik seperti sekolah dan rumah sakit memiliki fungsi multifungsi, yakni fungsi ekologis (menyerap polusi dan menjaga iklim mikro), arsitektural/estetika, sosial (ruang interaksi dan pemulihan), serta nilai ekonomi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Seorang pegawai menjelaskan kepada peserta magang bahwa LMAN yang diresmikan Desember 2016 memiliki tiga fokus area. Fokus area yang dimaksud adalah ....",
+    "options": [
+      "pengadaan barang, penghapusan aset, dan audit",
+      "manajemen properti, solusi aset, dan pendanaan tanah bagi Proyek Strategis Nasional",
+      "penerbitan obligasi, penyertaan modal, dan pajak",
+      "pembiayaan ekspor, penjaminan, dan asuransi"
+    ],
+    "answer": "manajemen properti, solusi aset, dan pendanaan tanah bagi Proyek Strategis Nasional",
+    "penjelasan": "Lembaga Manajemen Aset Negara (LMAN) yang berada di bawah Kementerian Keuangan memiliki tiga fokus utama layanan, yaitu manajemen properti (optimalisasi aset negara), jasa konsultasi/solusi aset, serta pendanaan pengadaan tanah untuk Proyek Strategis Nasional (PSN)."
+  },
+
+
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah Kota Harapan mensyaratkan bahwa paket pengadaan katering untuk rapat dinas diberikan kepada UMKM milik kelompok perempuan setempat. Kebijakan ini menggambarkan bahwa pengadaan barang dan jasa publik ....",
+    "options": [
+      "dapat dimanfaatkan sebagai instrumen kebijakan publik untuk mendorong pertumbuhan usaha kecil dan kelompok perempuan",
+      "dapat dimanfaatkan sebagai instrumen pengendalian harga pasar untuk menekan biaya produksi usaha kecil di daerah",
+      "dapat dimanfaatkan sebagai instrumen pemerataan anggaran antarinstansi agar belanja setiap unit kerja seimbang",
+      "dapat dimanfaatkan sebagai instrumen penghematan belanja negara dengan memilih penyedia berbiaya paling rendah"
+    ],
+    "answer": "dapat dimanfaatkan sebagai instrumen kebijakan publik untuk mendorong pertumbuhan usaha kecil dan kelompok perempuan",
+    "penjelasan": "Pengadaan barang dan jasa pemerintah (public procurement) tidak hanya berfungsi memenuhi kebutuhan operasional instansi, tetapi juga berperan sebagai instrumen kebijakan sosial-ekonomi (affirmative policy) untuk memberdayakan UMKM dan kelompok rentan/perempuan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam rapat internal, Rudi bertanya mengenai pengelompokan pelaku pengadaan. Penjelasan yang benar adalah penyedia barang/jasa dan penyelenggara swakelola termasuk kelompok ....",
+    "options": [
+      "pengguna barang/jasa",
+      "pengguna anggaran",
+      "pelaksana pekerjaan",
+      "pemeriksa hasil pekerjaan"
+    ],
+    "answer": "pelaksana pekerjaan",
+    "penjelasan": "Dalam tata kelola pengadaan barang/jasa pemerintah, pelaku pengadaan dibagi menjadi kelompok pengguna/pengelola anggaran serta kelompok pelaksana pekerjaan yang terdiri dari penyedia barang/jasa maupun penyelenggara swakelola."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Instansi Dinas Komunikasi dan Informatika Kota Sejahtera sedang melaksanakan tender pengadaan 200 unit komputer. Pada saat Bu Sari, pejabat pengadaan, selesai menyusun berita acara evaluasi penawaran, Pak Doni, pegawai dari bagian keuangan yang tidak terlibat dalam pengadaan, meminta salinan dokumen tersebut. Pak Doni menyebut keperluannya \"hanya untuk kepentingan pribadi\" dan menegaskan bahwa ia akan menyimpannya dengan baik. Tindakan Bu Sari yang paling sesuai dengan etika pengadaan adalah ....",
+    "options": [
+      "menolak permintaan tersebut, karena informasi yang menurut sifatnya rahasia hanya boleh diakses pihak yang berkepentingan dalam proses pengadaan",
+      "memberikan dokumen, karena Pak Doni adalah pegawai instansi yang sama sehingga dianggap berada dalam lingkungan yang dapat dipercaya",
+      "memberikan sebagian dokumen yang tidak memuat harga penawaran, karena bagian tersebut dianggap tidak memengaruhi persaingan antarpeserta",
+      "menunda pemberian dokumen sampai pemenang tender diumumkan, karena setelah itu dokumen tidak lagi bersifat rahasia"
+    ],
+    "answer": "menolak permintaan tersebut, karena informasi yang menurut sifatnya rahasia hanya boleh diakses pihak yang berkepentingan dalam proses pengadaan",
+    "penjelasan": "Sesuai prinsip etika pengadaan barang/jasa pemerintah (Perpres No. 16 Tahun 2018), pelaku pengadaan wajib menghindari penyalahgunaan wewenang serta menjaga kerahasiaan dokumen pengadaan yang menurut sifatnya harus dirahasiakan dari pihak mana pun yang tidak berkepentingan langsung."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Di sebuah kantor pemerintah, pegawai baru mengetahui bahwa beberapa pegawai senior sering menerima pemberian dari pengusaha yang mengurus izin. Kebiasaan tersebut dianggap sebagai sesuatu yang wajar karena telah berlangsung selama bertahun-tahun. Berdasarkan kasus tersebut, faktor eksternal yang dapat mendorong korupsi adalah ....",
+    "options": [
+      "budaya dan lingkungan sosial",
+      "rendahnya moral pribadi",
+      "sifat konsumtif individu",
+      "keserakahan seseorang"
+    ],
+    "answer": "budaya dan lingkungan sosial",
+    "penjelasan": "Lingkungan kerja dan budaya organisasi yang permisif terhadap gratifikasi atau suap hingga dianggap sebagai kebiasaan wajar merupakan faktor eksternal (budaya dan lingkungan sosial) yang mendorong terjadinya tindak pidana korupsi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah daerah mengangkut sisa material yang tidak terpakai ke tempat daur ulang. Kegiatan tersebut termasuk aktivitas logistic ....",
+    "options": [
+      "inventory management (pengelolaan persediaan)",
+      "warehousing and storage (penyimpanan)",
+      "reverse logistics (logistic balik)",
+      "customer service (layanan pelanggan)"
+    ],
+    "answer": "reverse logistics (logistic balik)",
+    "penjelasan": "Reverse logistics (logistik balik) adalah proses pengelolaan aliran barang, material sisa, kemasan, atau produk rusak dari titik konsumsi/penggunaan kembali ke titik asal untuk didaur ulang, diperbaiki, atau dimusnahkan secara aman. (Catatan: kata \"logistic\" disalin persis sesuai teks pada gambar)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam pendekatan manajemen sumber daya manusia kontemporer, organisasi tidak lagi memandang pegawai hanya sebagai salah satu faktor produksi. Pendekatan tersebut menempatkan manusia sebagai bagian penting yang perlu dikembangkan untuk mendukung pencapaian tujuan organisasi. Pernyataan yang paling sesuai dengan pendekatan tersebut adalah ....",
+    "options": [
+      "pegawai diperlakukan sebagai alat untuk meningkatkan jumlah produksi",
+      "pegawai dipandang sebagai aset penting yang perlu dikelola dan dikembangkan",
+      "pegawai diarahkan untuk mengikuti seluruh keputusan pimpinan tanpa mempertimbangkan kebutuhan individu",
+      "pegawai hanya diberikan tanggung jawab sesuai dengan kemampuan teknis yang dimiliki"
+    ],
+    "answer": "pegawai dipandang sebagai aset penting yang perlu dikelola dan dikembangkan",
+    "penjelasan": "Pendekatan SDM kontemporer memosisikan pegawai sebagai human capital atau aset strategis organisasi yang kompetensi, motivasi, dan potensinya perlu dikelola serta dikembangkan secara berkelanjutan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Visi organisasi harus menyertakan tujuan dan objektif yang stretch (menantang) bagi pegawai, namun tetap dapat dicapai dengan sumber daya, energi, dan waktu yang dimiliki organisasi. Kriteria ini disebut ....",
+    "options": [
+      "appealing",
+      "feasible",
+      "measurable",
+      "succinct"
+    ],
+    "answer": "feasible",
+    "penjelasan": "Kriteria feasible (layak/realistis) berarti rumusan visi memuat target yang cukup menantang untuk memicu kinerja tinggi, namun tetap rasional dan mungkin dicapai berdasarkan kapasitas sumber daya dan waktu yang tersedia."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Perbedaan mendasar antara akuntansi pemerintahan dan akuntansi komersial dari sisi laporan keuangan adalah ....",
+    "options": [
+      "akuntansi pemerintahan memiliki laporan laba rugi, sedangkan akuntansi komersial tidak",
+      "akuntansi komersial memiliki laporan laba rugi, sedangkan akuntansi pemerintahan memiliki laporan operasional dan laporan realisasi anggaran",
+      "kedua jenis akuntansi memiliki laporan laba rugi yang sama",
+      "akuntansi pemerintahan tidak memiliki laporan keuangan sama sekali"
+    ],
+    "answer": "akuntansi komersial memiliki laporan laba rugi, sedangkan akuntansi pemerintahan memiliki laporan operasional dan laporan realisasi anggaran",
+    "penjelasan": "Karena entitas pemerintah tidak berorientasi mencari laba (non-profit), akuntansi pemerintahan tidak menyusun Laporan Laba Rugi seperti pada sektor komersial, melainkan menyusun Laporan Realisasi Anggaran (LRA) dan Laporan Operasional (LO)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dibawah yang merupakan salah satu kriteria agar suatu barang dapat diakui sebagai aset tetap adalah ....",
+    "options": [
+      "dimaksudkan untuk dijual dalam operasi normal entitas",
+      "masa manfaatnya kurang dari 12 bulan",
+      "biaya perolehannya tidak dapat diukur",
+      "diperoleh atau dibangun dengan maksud untuk digunakan"
+    ],
+    "answer": "diperoleh atau dibangun dengan maksud untuk digunakan",
+    "penjelasan": "Berdasarkan PSAP Nomor 07, syarat pengakuan aset tetap antara lain berwujud, mempunyai masa manfaat lebih dari 12 bulan, biaya perolehan dapat diukur secara andal, tidak dimaksudkan untuk dijual dalam operasi normal entitas, serta diperoleh atau dibangun dengan maksud untuk digunakan. (Catatan: kata \"Dibawah\" disalin persis sesuai teks pada gambar)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah kementerian melakukan pemeriksaan terhadap seluruh tanah dan bangunan yang dimilikinya untuk menentukan nilai wajar aset tersebut. Hasil penilaian akan digunakan sebagai salah satu dasar penyusunan neraca pemerintah. Berdasarkan kasus tersebut, kegiatan yang dilakukan kementerian merupakan ....",
+    "options": [
+      "penghapusan BMN",
+      "penilaian BMN",
+      "pemindahtanganan BMN",
+      "pemanfaatan BMN"
+    ],
+    "answer": "penilaian BMN",
+    "penjelasan": "Penilaian BMN adalah suatu proses kegiatan penelitian yang selektif didasarkan pada data/fakta yang objektif dan relevan dengan menggunakan metode/teknis tertentu untuk memperoleh nilai wajar atas suatu Barang Milik Negara, termasuk untuk keperluan penyusunan neraca pemerintah."
+  },
+
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah Kota Sentosa memiliki sebuah gedung milik daerah yang sudah tidak digunakan untuk kegiatan pemerintahan maupun pelayanan masyarakat. Gedung tersebut masih memiliki nilai ekonomis dan berpotensi disewakan kepada pihak lain sesuai ketentuan. Berdasarkan klasifikasi penggunaan aset daerah, gedung tersebut termasuk ....",
+    "options": [
+      "local government used assets",
+      "social used assets",
+      "surplus property",
+      "aset keuangan daerah"
+    ],
+    "answer": "surplus property",
+    "penjelasan": "Dalam klasifikasi penggunaan aset daerah, aset yang sudah tidak digunakan lagi dalam penyelenggaraan tugas pemerintahan maupun pelayanan publik namun masih memiliki nilai ekonomis untuk dioptimalkan/disewakan disebut sebagai surplus property (aset berlebih/menganggur)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Setelah APB Desa ditetapkan, Desa Makmur menyusun Rencana Anggaran Biaya (RAB) untuk pembangunan jalan desa. Setelah kegiatan dilaksanakan sesuai anggaran, pemerintah desa melakukan proses pembayaran kepada penyedia. Berdasarkan kasus tersebut, kegiatan tersebut termasuk tahap ....",
+    "options": [
+      "pelaksanaan",
+      "perencanaan",
+      "pelaporan",
+      "pertanggungjawaban"
+    ],
+    "answer": "pelaksanaan",
+    "penjelasan": "Dalam siklus pengelolaan keuangan desa (Permendagri No. 20 Tahun 2018), penyusunan Rencana Anggaran Biaya (RAB) setelah APB Desa ditetapkan hingga realisasi kegiatan dan pembayaran kepada penyedia merupakan bagian dari tahap pelaksanaan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah ingin membangun bandara baru, tetapi dana APBN terbatas. Pemerintah menggandeng BUMN dan perusahaan swasta berbentuk PT dengan pembagian risiko yang jelas. Skema ini disebut ....",
+    "options": [
+      "penanaman modal asing",
+      "Kerjasama Pemerintah dan Badan Usaha (KPBU)",
+      "kontrak investasi kolektif",
+      "reksadana infrastruktur"
+    ],
+    "answer": "Kerjasama Pemerintah dan Badan Usaha (KPBU)",
+    "penjelasan": "Kerjasama Pemerintah dan Badan Usaha (KPBU / Public-Private Partnership) adalah skema penyediaan infrastruktur yang melibatkan badan usaha (BUMN/swasta) untuk mengatasi keterbatasan APBN dengan prinsip pembagian risiko yang proporsional antarpara pihak."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah pemerintah daerah melakukan pengelolaan aset secara terencana mulai dari pengadaan, penggunaan, pemanfaatan, pemeliharaan, hingga penghapusan. Pengelolaan tersebut dilakukan agar aset dapat mendukung pelayanan kepada masyarakat secara optimal. Kondisi tersebut menunjukkan bahwa tujuan utama tata kelola aset adalah ....",
+    "options": [
+      "menyediakan pelayanan secara efektif dan efisien",
+      "meningkatkan jumlah aset pemerintah daerah",
+      "mempercepat proses pengadaan aset daerah",
+      "meningkatkan nilai aset melalui penjualan"
+    ],
+    "answer": "menyediakan pelayanan secara efektif dan efisien",
+    "penjelasan": "Tujuan utama tata kelola aset di sektor publik adalah memastikan ketersediaan dan keberlanjutan aset secara optimal guna mendukung penyelenggaraan pelayanan publik yang efektif, efisien, dan ekonomis."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dibandingkan dengan teori klasik dan neoklasik, teori manajemen modern dinilai lebih dinamis karena mempertimbangkan lebih banyak variabel dalam menjelaskan kerja suatu organisasi. Karakteristik kerja organisasi menurut teori modern tersebut adalah ....",
+    "options": [
+      "sederhana, statis, dan tunggal dimensi",
+      "kompleks, dinamis, multilevel, multidimensional, multivariabel, dan probabilistik",
+      "formal, birokratis, dan seragam di semua tingkatan",
+      "berbasis satu variabel dominan yaitu efisiensi kerja"
+    ],
+    "answer": "kompleks, dinamis, multilevel, multidimensional, multivariabel, dan probabilistik",
+    "penjelasan": "Teori manajemen modern (pendekatan sistem dan kontingensi) memandang organisasi sebagai sistem terbuka yang sangat kompleks, dinamis, multilevel, multidimensional, multivariabel, serta bersifat probabilistik dalam menghadapi perubahan lingkungan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Seorang peneliti ingin memahami bagaimana pengelolaan aset desa wisata dapat dikembangkan secara berkelanjutan. Ia melakukan wawancara mendalam dengan tokoh masyarakat, mengamati langsung kondisi objek wisata, dan menyebarkan kuesioner kepada pengelola desa. Pendekatan yang digunakan peneliti tersebut adalah ....",
+    "options": [
+      "kuantitatif, karena menggunakan kuesioner",
+      "kualitatif, karena bertujuan memahami fenomena secara mendalam melalui wawancara dan observasi",
+      "normatif, karena menentukan norma pengelolaan aset",
+      "positif, karena menguji hipotesis dengan data numerik"
+    ],
+    "answer": "kualitatif, karena bertujuan memahami fenomena secara mendalam melalui wawancara dan observasi",
+    "penjelasan": "Pendekatan kualitatif bertujuan mengeksplorasi dan memahami suatu fenomena sosial atau manajerial secara mendalam dan holistik melalui teknik pengumpulan data seperti wawancara mendalam dan observasi langsung."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Tiga prinsip dasar akuntabilitas dalam pengelolaan aset daerah menurut kajian tersebut meliputi ....",
+    "options": [
+      "perencanaan, pelaksanaan/pemanfaatan, dan pengawasan",
+      "pengadaan, penggunaan, dan penilaian",
+      "inventarisasi, sertifikasi, dan penghapusan",
+      "institusional, finansial, dan teknologi"
+    ],
+    "answer": "perencanaan, pelaksanaan/pemanfaatan, dan pengawasan",
+    "penjelasan": "Akuntabilitas dalam pengelolaan barang milik daerah bertumpu pada tiga tahapan kunci siklus pengelolaan, yaitu akuntabilitas pada tahap perencanaan, pelaksanaan/pemanfaatan, dan pengawasan/pengendalian."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dampak yang ditimbulkan oleh aset negara yang idle atau underutilized, selain opportunity loss, adalah ....",
+    "options": [
+      "peningkatan opini BPK terhadap LKPP",
+      "double inefficiency karena masih dibebankan biaya pemeliharaan dalam APBN/D",
+      "bertambahnya jumlah kantor wilayah DJKN",
+      "terbentuknya badan urusan piutang negara"
+    ],
+    "answer": "double inefficiency karena masih dibebankan biaya pemeliharaan dalam APBN/D",
+    "penjelasan": "Aset negara/daerah yang menganggur (idle) atau tidak optimal (underutilized) tidak hanya menimbulkan hilangnya potensi penerimaan (opportunity loss), tetapi juga memicu double inefficiency karena pemerintah tetap harus mengeluarkan biaya pemeliharaan dan pengamanan dari APBN/APBD."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Satuan Kerja Z memiliki sebuah genset yang mengalami rusak berat sehingga tidak dapat digunakan lagi dalam kegiatan operasional. Kepala satuan kerja telah mengusulkan penghapusan aset tersebut kepada pengelola barang. Selama proses penghapusan belum selesai, aset tersebut belum dapat dikeluarkan dari neraca, tetapi statusnya sudah tidak memenuhi definisi aset tetap. Setelah keputusan penghapusan diterbitkan oleh pejabat yang berwenang, aset tersebut tidak lagi memberikan manfaat ekonomi masa depan bagi pemerintah. Berdasarkan ilustrasi tersebut, penjelasan yang paling tepat mengenai perlakuan akuntansi atas genset tersebut adalah ....",
+    "options": [
+      "tetap disajikan sebagai aset tetap dan disusutkan",
+      "dieliminasi dari neraca dan diungkapkan dalam catatan atas laporan keuangan",
+      "dikeluarkan dari neraca saat usulan penghapusan diajukan",
+      "dicatat sebagai persediaan"
+    ],
+    "answer": "dieliminasi dari neraca dan diungkapkan dalam catatan atas laporan keuangan",
+    "penjelasan": "Berdasarkan PSAP Nomor 07, suatu aset tetap dieliminasi dari neraca ketika dilepaskan atau bila aset secara permanen dihentikan penggunaannya dan tidak ada manfaat ekonomi masa depan yang diharapkan (setelah SK penghapusan terbit), serta wajib diungkapkan dalam Catatan atas Laporan Keuangan (CaLK)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Desa Harapan memiliki tradisi gotong royong dalam membangun fasilitas umum. Pemerintah desa menggunakan dana desa untuk membangun sarana irigasi berdasarkan hasil musyawarah masyarakat. Pembangunan melibatkan warga desa, menggunakan sebagian material lokal, dan diarahkan untuk mendukung mata pencaharian utama masyarakat sebagai petani. Perspektif kemandirian desa yang terlihat dalam kasus tersebut terutama ditunjukkan oleh ....",
+    "options": [
+      "ketergantungan desa terhadap bantuan pemerintah",
+      "kemampuan masyarakat memanfaatkan potensi dan sumber daya lokal",
+      "penyeragaman pembangunan desa berdasarkan kebijakan pemerintah pusat",
+      "penghapusan peran masyarakat dalam proses pembangunan"
+    ],
+    "answer": "kemampuan masyarakat memanfaatkan potensi dan sumber daya lokal",
+    "penjelasan": "Kemandirian desa tercermin dari kemampuan pemerintah dan masyarakat desa dalam menggerakkan partisipasi warga (gotong royong) serta mengelola dan memanfaatkan potensi maupun sumber daya lokal secara swadaya untuk kesejahteraan bersama."
+  },
+
+
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah membuka ruang lebih luas bagi universitas untuk meneliti ketahanan gedung publik terhadap iklim, lalu menggunakan hasilnya untuk menyusun kebijakan. Langkah ini menjelaskan upaya mewujudkan ....",
+    "options": [
+      "Kebijakan adaptasi iklim yang disusun berdasarkan pertimbangan teknis internal pemerintah",
+      "Kebijakan adaptasi iklim yang disusun berdasarkan hasil kajian dan temuan penelitian akademisi",
+      "Kebijakan adaptasi iklim yang disusun berdasarkan kesepakatan antarinstansi pemerintah",
+      "Kebijakan adaptasi iklim yang disusun berdasarkan praktik yang berhasil di negara lain"
+    ],
+    "answer": "Kebijakan adaptasi iklim yang disusun berdasarkan hasil kajian dan temuan penelitian akademisi",
+    "penjelasan": "Melibatkan perguruan tinggi dalam meneliti ketahanan aset terhadap dampak perubahan iklim untuk kemudian dijadikan landasan perumusan regulasi merupakan bentuk penyusunan kebijakan berbasis kajian ilmiah dan temuan penelitian akademisi (evidence-based policy)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "PT Maju Bersama (swasta) dan Dinas PU Kota Merdeka sama-sama membeli semen. PT Maju Bersama memilih pemasok secara langsung berdasarkan hubungan lama, sedangkan Dinas PU wajib menggelar tender dengan prosedur terdokumentasi dan diawasi publik. Perbedaan mendasar kedua proses tersebut menunjukkan bahwa pengadaan pemerintah ....",
+    "options": [
+      "menekankan persaingan penawaran formal dan prosedur terdokumentasi karena pelanggarannya dapat berdampak politis dan diawasi publik",
+      "menekankan efisiensi waktu pembelian karena pelanggarannya hanya berdampak administratif bagi instansi",
+      "menekankan kebebasan memilih pemasok karena pelanggarannya terutama berdampak pada keuangan perusahaan",
+      "menekankan kerahasiaan harga penawaran karena pelanggarannya hanya diawasi oleh internal instansi"
+    ],
+    "answer": "menekankan persaingan penawaran formal dan prosedur terdokumentasi karena pelanggarannya dapat berdampak politis dan diawasi publik",
+    "penjelasan": "Berbeda dengan sektor swasta yang fleksibel dalam memilih mitra bisnis, pengadaan barang/jasa pemerintah menggunakan anggaran publik sehingga wajib mengutamakan kompetisi formal, transparansi, dan akuntabilitas yang diawasi masyarakat luas."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah Kabupaten Cahaya mengumumkan tender melalui situs web dan menerima pertanyaan peserta secara daring. Namun, dokumen penawaran tetap diserahkan langsung ke kantor panitia dan pembukaan penawaran dilakukan tatap muka. Menurut konsep e-procurement, proses ini belum dapat disebut e-procurement penuh karena ....",
+    "options": [
+      "e-procurement hanya mensyaratkan pengumuman tender dilakukan melalui situs web resmi pemerintah",
+      "e-procurement hanya mensyaratkan komunikasi dengan peserta dilakukan melalui surat elektronik",
+      "e-procurement mensyaratkan seluruh proses pengadaan dijalankan secara online melalui jaringan internet dengan memanfaatkan teknologi informasi",
+      "e-procurement mensyaratkan seluruh dokumen pengadaan disimpan dalam bentuk cetak dan digital secara bersamaan"
+    ],
+    "answer": "e-procurement mensyaratkan seluruh proses pengadaan dijalankan secara online melalui jaringan internet dengan memanfaatkan teknologi informasi",
+    "penjelasan": "Konsep e-procurement secara penuh (end-to-end) mensyaratkan pemanfaatan teknologi informasi dan transaksi elektronik berbasis internet pada seluruh tahapan proses pengadaan, termasuk pemasukan dan pembukaan dokumen penawaran secara daring."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah pemerintah daerah akan membeli kendaraan operasional. Seorang pejabat meminta penyedia menaikkan harga kendaraan dari Rp300 juta menjadi Rp350 juta. Selisih harga tersebut kemudian diberikan kepada pejabat sebagai imbalan karena telah memenangkan perusahaan tersebut dalam pengadaan. Berdasarkan kasus tersebut, tindakan pejabat tersebut paling tepat dijelaskan sebagai ....",
+    "options": [
+      "kolusi karena bekerja sama dengan penyedia",
+      "korupsi karena menyalahgunakan kewenangan untuk memperoleh keuntungan",
+      "nepotisme karena memberikan keuntungan kepada keluarga",
+      "transparansi karena melibatkan penyedia dalam pengadaan"
+    ],
+    "answer": "korupsi karena menyalahgunakan kewenangan untuk memperoleh keuntungan",
+    "penjelasan": "Menggelembungkan harga (mark-up) dengan menyalahgunakan wewenang jabatan untuk memperkaya diri sendiri atau memperoleh imbalan (kickback) yang merugikan keuangan negara merupakan tindak pidana korupsi."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Seorang bendahara desa menemukan bukti bahwa dirinya salah mencatat jumlah pembayaran kepada penyedia barang. Kesalahan tersebut menyebabkan laporan keuangan menjadi tidak sesuai. Ia segera melaporkan dan memperbaiki kesalahan tersebut. Nilai integritas yang paling jelas ditunjukkan dalam kasus tersebut adalah ....",
+    "options": [
+      "keberanian mengambil keuntungan",
+      "tanggung jawab terhadap pekerjaan",
+      "kesederhanaan dalam menggunakan anggaran",
+      "kemandirian dalam mengambil keputusan"
+    ],
+    "answer": "tanggung jawab terhadap pekerjaan",
+    "penjelasan": "Mengakui kekeliruan pencatatan secara terbuka serta segera mengambil langkah korektif untuk memperbaiki laporan keuangan mencerminkan nilai integritas berupa rasa tanggung jawab terhadap pekerjaan dan amanah jabatan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah kementerian melakukan pengadaan komputer dalam jumlah besar. PPK menyusun kebutuhan pengadaan, sedangkan Unit Layanan Pengadaan (ULP) melakukan proses teknis pemilihan penyedia. Setelah barang diterima, pemeriksaan hasil pekerjaan dilakukan oleh pejabat yang berbeda. Pembagian tersebut dimaksudkan agar kewenangan pengadaan tidak terkonsentrasi pada satu pejabat. Berdasarkan kasus tersebut, alasan utama pembagian kewenangan tersebut dalam pencegahan korupsi adalah ....",
+    "options": [
+      "mempercepat seluruh proses pengadaan",
+      "menciptakan mekanisme checks and balances",
+      "mengurangi jumlah pejabat yang terlibat",
+      "memberikan kewenangan lebih besar kepada PPK"
+    ],
+    "answer": "menciptakan mekanisme checks and balances",
+    "penjelasan": "Pemisahan fungsi dan kewenangan antara perencana/pembuat komitmen (PPK), pelaksana pemilihan (ULP/Pokja), dan pemeriksa hasil pekerjaan bertujuan menciptakan mekanisme saling uji dan saling kontrol (checks and balances) guna mencegah penyalahgunaan wewenang."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pengelolaan aset membutuhkan berbagai bidang keahlian karena aset tidak hanya berkaitan dengan pencatatan kekayaan, tetapi juga dengan nilai, pembangunan, kepastian hukum, dan informasi. Bidang yang termasuk dalam ruang lingkup tersebut adalah ....",
+    "options": [
+      "manajemen, keuangan, teknik sipil, hukum, dan teknologi informasi",
+      "politik, ekonomi, budaya, pertahanan, dan keamanan",
+      "pemasaran, komunikasi, diplomasi, politik, dan sosial",
+      "perpajakan, perdagangan, transportasi, pariwisata, dan kesehatan"
+    ],
+    "answer": "manajemen, keuangan, teknik sipil, hukum, dan teknologi informasi",
+    "penjelasan": "Ruang lingkup multidisiplin dalam tata kelola aset mencakup lima bidang keahlian utama, yaitu manajemen (pengelolaan siklus aset), keuangan (penilaian dan akuntansi), teknik sipil (pembangunan dan pemeliharaan fisik), hukum (kepastian legalitas), dan teknologi informasi (sistem database aset)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Berdasarkan PSAP 07, aset tetap diklasifikasikan menjadi enam kelompok. Kelompok berikut yang tidak termasuk klasifikasi aset tetap adalah ....",
+    "options": [
+      "tanah",
+      "jalan, irigasi, dan jaringan",
+      "investasi jangka panjang",
+      "konstruksi dalam pengerjaan"
+    ],
+    "answer": "investasi jangka panjang",
+    "penjelasan": "Berdasarkan PSAP Nomor 07, enam klasifikasi aset tetap meliputi: (1) Tanah, (2) Peralatan dan Mesin, (3) Gedung dan Bangunan, (4) Jalan, Irigasi, dan Jaringan, (5) Aset Tetap Lainnya, serta (6) Konstruksi dalam Pengerjaan. Investasi jangka panjang diatur tersendiri dalam PSAP Nomor 06."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Desa Sejahtera melakukan pencatatan seluruh tanah, kendaraan, dan peralatan milik desa. Data tersebut diperbarui dan dilaporkan sesuai ketentuan yang berlaku. Kegiatan yang dilakukan pemerintah desa tersebut merupakan ....",
+    "options": [
+      "penatausahaan aset",
+      "pemindahtanganan aset",
+      "penghapusan aset",
+      "pemanfaatan aset"
+    ],
+    "answer": "penatausahaan aset",
+    "penjelasan": "Berdasarkan Permendagri Nomor 1 Tahun 2016 tentang Pengelolaan Aset Desa, penatausahaan aset desa adalah rangkaian kegiatan yang meliputi pembukuan, inventarisasi, dan pelaporan aset desa sesuai ketentuan yang berlaku."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "PT Medika Sejahtera memenangkan tender pengadaan alat kesehatan di RSUD Kabupaten Maju. Seminggu setelah kontrak ditandatangani, direktur perusahaan mengirimkan sebuah telepon genggam kepada Pak Hendra, pejabat pengadaan, sebagai ungkapan terima kasih. Pak Hendra menerimanya dengan alasan proses tender sudah selesai, hadiah diberikan secara terang-terangan di kantor, dan harganya tidak terlalu mahal. Jika ditinjau dari etika pengadaan, penilaian yang paling tepat terhadap tindakan Pak Hendra adalah ....",
+    "options": [
+      "dapat dibenarkan, karena pemberian dilakukan setelah penetapan pemenang sehingga tidak lagi dapat memengaruhi keputusan pengadaan",
+      "dapat dibenarkan, karena pemberian dilakukan secara terbuka dan nilainya wajar sehingga tidak termasuk gratifikasi yang dilarang",
+      "tidak dapat dibenarkan, karena pelaku pengadaan dilarang menerima hadiah atau imbalan yang diketahui atau patut diduga berkaitan dengan pengadaan",
+      "tidak dapat dibenarkan, karena pejabat pengadaan hanya boleh menerima pemberian dari penyedia yang kontraknya belum ditandatangani"
+    ],
+    "answer": "tidak dapat dibenarkan, karena pelaku pengadaan dilarang menerima hadiah atau imbalan yang diketahui atau patut diduga berkaitan dengan pengadaan",
+    "penjelasan": "Berdasarkan etika pengadaan barang/jasa pemerintah (Perpres No. 16 Tahun 2018), para pihak yang terlibat dalam pengadaan dilarang keras menerima, menawarkan, atau menjanjikan hadiah/imbalan dalam bentuk apa pun yang berkaitan dengan proses pengadaan, baik sebelum maupun sesudah kontrak ditandatangani."
+  },
+
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah pemerintah kabupaten memiliki rencana untuk meningkatkan transparansi pengadaan melalui sistem elektronik. Namun, sampai akhir tahun pemerintah belum menerapkan sistem tersebut dan proses pengadaan tetap dilakukan dengan mekanisme lama. Berdasarkan konsep kebijakan publik, kondisi tersebut menunjukkan bahwa kebijakan publik lebih berkaitan dengan ....",
+    "options": [
+      "apa yang diinginkan pemerintah",
+      "apa yang direncanakan tanpa pelaksanaan",
+      "apa yang senyatanya dilakukan pemerintah",
+      "apa yang diharapkan oleh penyedia"
+    ],
+    "answer": "apa yang senyatanya dilakukan pemerintah",
+    "penjelasan": "Menurut definisi klasik kebijakan publik (Thomas R. Dye), kebijakan publik adalah apa pun yang dipilih pemerintah untuk dilakukan maupun tidak dilakukan (what governments actually do), bukan sekadar rencana atau keinginan di atas kertas."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah menemukan bahwa sejumlah barang hasil tindak pidana korupsi telah dirampas berdasarkan putusan pengadilan yang berkekuatan hukum tetap. Barang tersebut kemudian dikelola melalui mekanisme yang sesuai dengan ketentuan pengelolaan BMN. Kondisi tersebut menunjukkan bahwa barang hasil rampasan ....",
+    "options": [
+      "otomatis menjadi milik pelaku",
+      "dapat menjadi barang milik negara melalui perolehan yang sah",
+      "harus selalu dimusnahkan",
+      "tidak perlu dicatat oleh pemerintah"
+    ],
+    "answer": "dapat menjadi barang milik negara melalui perolehan yang sah",
+    "penjelasan": "Berdasarkan PP Nomor 27 Tahun 2014 tentang Pengelolaan BMN/BMD, barang yang diperoleh berdasarkan putusan pengadilan yang telah memperoleh kekuatan hukum tetap (seperti barang rampasan negara) merupakan salah satu sumber perolehan lain yang sah sebagai Barang Milik Negara."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Salah satu faktor keberhasilan proses pelembagaan menurut Wibowo (2011) adalah tingginya frekuensi interaksi antarpihak dalam suatu warga masyarakat. Fungsi utama frekuensi interaksi ini adalah ....",
+    "options": [
+      "meningkatkan pendapatan asli daerah secara langsung",
+      "sarana untuk mendiskusikan, menilai, dan mengevaluasi norma dan perilaku baru",
+      "mempercepat proses pengadaan barang milik daerah",
+      "mengurangi jumlah aset yang harus diinventarisasi"
+    ],
+    "answer": "sarana untuk mendiskusikan, menilai, dan mengevaluasi norma dan perilaku baru",
+    "penjelasan": "Menurut Wibowo (2011), tingginya frekuensi interaksi sosial menjadi wadah komunikasi bagi anggota masyarakat untuk mendiskusikan, menilai, serta mengevaluasi norma-norma maupun pola perilaku baru sebelum akhirnya dihayati dan melembaga."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Tantangan implementasi SAP yang berkaitan dengan kebutuhan tenaga yang menguasai akuntansi pemerintahan untuk menyusun laporan keuangan tepat waktu disebut tantangan ....",
+    "options": [
+      "resistensi terhadap perubahan",
+      "komitmen pimpinan",
+      "ketersediaan SDM yang kompeten",
+      "dukungan lingkungan/masyarakat"
+    ],
+    "answer": "ketersediaan SDM yang kompeten",
+    "penjelasan": "Penerapan Standar Akuntansi Pemerintahan (SAP) berbasis akrual membutuhkan aparatur dengan latar belakang serta keahlian akuntansi pemerintahan yang memadai agar laporan keuangan dapat disusun secara akurat dan tepat waktu."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Pemerintah Kabupaten Sejahtera telah membeli kendaraan operasional melalui APBD. Setelah kendaraan diterima, petugas mencatat identitas kendaraan, nomor polisi, tahun perolehan, kondisi, dan lokasi kendaraan dalam daftar barang pemerintah daerah. Kegiatan tersebut terutama menggambarkan ....",
+    "options": [
+      "penatausahaan aset",
+      "pemindahtanganan aset",
+      "penghapusan aset",
+      "penilaian aset"
+    ],
+    "answer": "penatausahaan aset",
+    "penjelasan": "Penatausahaan Barang Milik Daerah (BMD) meliputi kegiatan pembukuan (pendaftaran dan pencatatan identitas aset ke dalam daftar barang), inventarisasi, dan pelaporan aset."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Setelah pembangunan jalan desa selesai, bendahara Desa Makmur mencatat seluruh transaksi penerimaan dan pengeluaran serta menyimpan dokumen pendukung transaksi tersebut. Kegiatan tersebut berkaitan dengan tahap ....",
+    "options": [
+      "perencanaan",
+      "pelaksanaan",
+      "penatausahaan",
+      "pertanggungjawaban"
+    ],
+    "answer": "penatausahaan",
+    "penjelasan": "Berdasarkan Permendagri Nomor 20 Tahun 2018 tentang Pengelolaan Keuangan Desa, tahap penatausahaan dilakukan oleh Kaur Keuangan (bendahara desa) melalui pencatatan setiap penerimaan dan pengeluaran dalam buku kas umum serta penyimpanan bukti-bukti transaksi yang sah."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Sebuah dinas menyimpan data pelayanan masyarakat dalam komputer dan memiliki arsip elektronik yang terus diperbarui. Data tersebut digunakan pegawai sebagai bahan untuk mengambil keputusan dan meningkatkan pelayanan. Berdasarkan kasus tersebut, data dan pengetahuan yang terdokumentasi dapat dijelaskan sebagai ....",
+    "options": [
+      "aset fisik",
+      "aset informasi",
+      "aset finansial",
+      "aset kendaraan"
+    ],
+    "answer": "aset informasi",
+    "penjelasan": "Data, arsip elektronik, serta pengetahuan terdokumentasi yang dikelola organisasi dan dimanfaatkan sebagai dasar pengambilan keputusan strategis maupun operasional diklasifikasikan sebagai aset informasi (information asset)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Seorang pejabat memiliki penghasilan yang cukup, tetapi tetap menggunakan sebagian anggaran kantor untuk memenuhi gaya hidup mewahnya. Ia mengetahui bahwa tindakan tersebut melanggar aturan, tetapi tetap melakukannya karena ingin memiliki lebih banyak harta. Faktor penyebab korupsi yang paling sesuai dengan kasus tersebut adalah ....",
+    "options": [
+      "kelemahan sistem hukum",
+      "tekanan lingkungan politik",
+      "sifat tamak atau rakus",
+      "pengawasan masyarakat"
+    ],
+    "answer": "sifat tamak atau rakus",
+    "penjelasan": "Dalam teori penyebab korupsi (seperti GONE Theory oleh Jack Bologna), tindakan menyelewengkan anggaran demi memperkaya diri dan memenuhi gaya hidup mewah meski penghasilan sudah mencukupi didorong oleh faktor internal berupa sifat tamak atau keserakahan (greed)."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Dalam suatu proyek pengadaan gedung pemerintah, PPK mengusulkan spesifikasi teknis, sedangkan ULP melakukan proses pemilihan penyedia secara terpisah. Ketika terjadi perbedaan pendapat antara PPK dan ULP mengenai calon penyedia, masalah tersebut tidak diputuskan sepihak oleh PPK. Kondisi tersebut menunjukkan bahwa struktur organisasi pengadaan dirancang untuk ....",
+    "options": [
+      "menghilangkan seluruh kewenangan PPK",
+      "membatasi komunikasi antara PPK dan ULP",
+      "memungkinkan terjadinya saling kontrol antarpetugas",
+      "menyerahkan seluruh keputusan kepada penyedia"
+    ],
+    "answer": "memungkinkan terjadinya saling kontrol antarpetugas",
+    "penjelasan": "Pemisahan tugas dan kewenangan antara Pejabat Pembuat Komitmen (PPK) dan Unit Layanan Pengadaan (ULP/Pokja Pemilihan) dirancang untuk menciptakan mekanisme saling uji dan saling kontrol (checks and balances) agar tidak terjadi keputusan sepihak yang rawan penyimpangan."
+  },
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Alasan yang tepat penggunaan informasi dan teknologi informasi sebagai penggerak utama dalam rantai pasokan adalah ....",
+    "options": [
+      "karena informasi menjadi perekat yang mengoordinasikan proses rantai pasokan, sehingga manajer mengetahui keinginan pelanggan, jumlah persediaan, serta waktu produksi dan pengiriman",
+      "karena informasi menjadi perekat yang mengoordinasikan proses rantai pasokan, sehingga manajer dapat menentukan harga jual tertinggi tanpa memperhatikan keinginan pelanggan",
+      "karena informasi menjadi perekat yang mengoordinasikan proses rantai pasokan, sehingga manajer tidak lagi memerlukan koordinasi antarorganisasi dalam rantai pasokan",
+      "karena informasi menjadi perekat yang mengoordinasikan proses rantai pasokan, sehingga manajer hanya perlu mengetahui jumlah persediaan tanpa memperhatikan waktu produksi dan pengiriman"
+    ],
+    "answer": "karena informasi menjadi perekat yang mengoordinasikan proses rantai pasokan, sehingga manajer mengetahui keinginan pelanggan, jumlah persediaan, serta waktu produksi dan pengiriman",
+    "penjelasan": "Dalam manajemen rantai pasokan (Supply Chain Management), informasi berfungsi sebagai penggerak utama (driver) yang menghubungkan dan mengoordinasikan seluruh tahapan rantai pasokan agar manajer memiliki visibilitas penuh atas permintaan pelanggan, tingkat persediaan, serta jadwal produksi dan distribusi."
+  },
+
+  {
+    "kode_soal": "FSPE4402",
+    "kategori": "Tata Kelola Aset Pemerintahan",
+    "question": "Belanja modal pemerintah pada tahun 2018 mencapai Rp184 triliun dan menambah nilai aset tetap negara. Dalam pandangan Manajer Aset Negara, kondisi yang diharapkan pada aset-aset hasil belanja modal tersebut adalah ....",
+    "options": [
+      "aset mampu bertahan menghadapi dampak risiko perubahan iklim dan pengadaannya mulai mempertimbangkan unsur ramah lingkungan",
+      "aset mampu bertahan menghadapi dampak risiko perubahan iklim dan pengadaannya mulai mempertimbangkan unsur penghematan biaya",
+      "aset sesuai dengan standar kebutuhan satuan kerja dan pengadaannya mulai mempertimbangkan unsur ramah lingkungan",
+      "aset sesuai dengan standar kebutuhan satuan kerja dan pengadaannya mulai mempertimbangkan unsur penghematan biaya"
+    ],
+    "answer": "aset mampu bertahan menghadapi dampak risiko perubahan iklim dan pengadaannya mulai mempertimbangkan unsur ramah lingkungan",
+    "penjelasan": "Dalam paradigma pengelolaan aset negara modern yang berkelanjutan (DJKN), Manajer Aset Negara mengharapkan agar aset hasil belanja modal memiliki ketahanan terhadap risiko perubahan iklim (climate-resilient) sekaligus menerapkan prinsip pengadaan barang/jasa ramah lingkungan (green procurement)."
+  }
+]
+
+
+
+
+
+
+
