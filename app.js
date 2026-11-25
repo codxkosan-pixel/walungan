@@ -560,7 +560,13 @@ function returnToHome() {
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
-homeButton.addEventListener("click", returnToHome);
+// Tombol Ulangi Kuis pada halaman hasil
+homeButton.addEventListener("click", () => {
+  isReviewMode = false;
+  startQuiz();
+});
+
+// Tombol kembali ke halaman awal dari Review Latihan
 homeButtonReview.addEventListener("click", returnToHome);
 
 
